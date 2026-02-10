@@ -1,0 +1,967 @@
+news_id,period,tick,ticker,headline,body,tick,timestamp,ticker,last_price,bid_price,ask_price,BUY_ANON,SELL_ANON
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,252,2026-02-01 02:12:20.363985,RTM,52.01,52.0,52.02,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,252,2026-02-01 02:12:20.363985,RTM1C45,7.02,7.01,7.03,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,252,2026-02-01 02:12:20.363985,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,252,2026-02-01 02:12:20.363985,RTM1C46,6.02,6.01,6.03,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,252,2026-02-01 02:12:20.363985,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,252,2026-02-01 02:12:20.363985,RTM1C47,5.03,5.02,5.04,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,252,2026-02-01 02:12:20.363985,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,252,2026-02-01 02:12:20.363985,RTM1C48,4.06,4.05,4.07,1000000.0,1000000.0
+,,,,,,252,2026-02-01 02:12:20.363985,RTM1P48,0.05,0.04,0.06,1000000.0,1000000.0
+,,,,,,252,2026-02-01 02:12:20.363985,RTM1C49,3.14,3.13,3.15,1000000.0,1000000.0
+,,,,,,252,2026-02-01 02:12:20.363985,RTM1P49,0.12,0.11,0.13,1000000.0,1000000.0
+,,,,,,252,2026-02-01 02:12:20.363985,RTM1C50,2.33,2.32,2.34,1000000.0,1000000.0
+,,,,,,252,2026-02-01 02:12:20.363985,RTM1P50,0.32,0.31,0.33,1000000.0,1000000.0
+,,,,,,252,2026-02-01 02:12:20.363985,RTM1C51,1.59,1.58,1.6,1000000.0,1000000.0
+,,,,,,252,2026-02-01 02:12:20.363985,RTM1P51,0.58,0.57,0.59,1000000.0,1000000.0
+,,,,,,252,2026-02-01 02:12:20.363985,RTM1C52,0.99,0.98,1.0,1000000.0,1000000.0
+,,,,,,252,2026-02-01 02:12:20.363985,RTM1P52,0.98,0.97,0.99,1000000.0,1000000.0
+,,,,,,252,2026-02-01 02:12:20.363985,RTM1C53,0.61,0.6,0.62,1000000.0,1000000.0
+,,,,,,252,2026-02-01 02:12:20.363985,RTM1P53,1.6,1.59,1.61,1000000.0,1000000.0
+,,,,,,252,2026-02-01 02:12:20.363985,RTM1C54,0.33,0.32,0.34,1000000.0,1000000.0
+,,,,,,252,2026-02-01 02:12:20.363985,RTM1P54,2.32,2.31,2.33,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,253,2026-02-01 02:12:21.429188,RTM,51.95,51.94,51.96,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,253,2026-02-01 02:12:21.429188,RTM1C45,6.95,6.94,6.96,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,253,2026-02-01 02:12:21.429188,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,253,2026-02-01 02:12:21.429188,RTM1C46,5.96,5.95,5.97,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,253,2026-02-01 02:12:21.429188,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,253,2026-02-01 02:12:21.429188,RTM1C47,4.97,4.96,4.98,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,253,2026-02-01 02:12:21.429188,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,253,2026-02-01 02:12:21.429188,RTM1C48,4.0,3.99,4.01,1000000.0,1000000.0
+,,,,,,253,2026-02-01 02:12:21.429188,RTM1P48,0.04,0.03,0.05,1000000.0,1000000.0
+,,,,,,253,2026-02-01 02:12:21.429188,RTM1C49,3.1,3.09,3.11,1000000.0,1000000.0
+,,,,,,253,2026-02-01 02:12:21.429188,RTM1P49,0.15,0.14,0.16,1000000.0,1000000.0
+,,,,,,253,2026-02-01 02:12:21.429188,RTM1C50,2.24,2.23,2.25,1000000.0,1000000.0
+,,,,,,253,2026-02-01 02:12:21.429188,RTM1P50,0.29,0.28,0.3,1000000.0,1000000.0
+,,,,,,253,2026-02-01 02:12:21.429188,RTM1C51,1.49,1.48,1.5,1000000.0,1000000.0
+,,,,,,253,2026-02-01 02:12:21.429188,RTM1P51,0.54,0.53,0.55,1000000.0,1000000.0
+,,,,,,253,2026-02-01 02:12:21.429188,RTM1C52,0.99,0.98,1.0,1000000.0,1000000.0
+,,,,,,253,2026-02-01 02:12:21.429188,RTM1P52,1.04,1.03,1.05,1000000.0,1000000.0
+,,,,,,253,2026-02-01 02:12:21.429188,RTM1C53,0.54,0.53,0.55,1000000.0,1000000.0
+,,,,,,253,2026-02-01 02:12:21.429188,RTM1P53,1.59,1.58,1.6,1000000.0,1000000.0
+,,,,,,253,2026-02-01 02:12:21.429188,RTM1C54,0.33,0.32,0.34,1000000.0,1000000.0
+,,,,,,253,2026-02-01 02:12:21.429188,RTM1P54,2.38,2.37,2.39,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,254,2026-02-01 02:12:22.495536,RTM,52.17,52.16,52.18,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,254,2026-02-01 02:12:22.495536,RTM1C45,7.17,7.16,7.18,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,254,2026-02-01 02:12:22.495536,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,254,2026-02-01 02:12:22.495536,RTM1C46,6.17,6.16,6.18,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,254,2026-02-01 02:12:22.495536,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,254,2026-02-01 02:12:22.495536,RTM1C47,5.18,5.17,5.19,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,254,2026-02-01 02:12:22.495536,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,254,2026-02-01 02:12:22.495536,RTM1C48,4.2,4.19,4.21,1000000.0,1000000.0
+,,,,,,254,2026-02-01 02:12:22.495536,RTM1P48,0.03,0.02,0.04,1000000.0,1000000.0
+,,,,,,254,2026-02-01 02:12:22.495536,RTM1C49,3.3,3.29,3.31,1000000.0,1000000.0
+,,,,,,254,2026-02-01 02:12:22.495536,RTM1P49,0.13,0.12,0.14,1000000.0,1000000.0
+,,,,,,254,2026-02-01 02:12:22.495536,RTM1C50,2.4,2.39,2.41,1000000.0,1000000.0
+,,,,,,254,2026-02-01 02:12:22.495536,RTM1P50,0.22,0.21,0.23,1000000.0,1000000.0
+,,,,,,254,2026-02-01 02:12:22.495536,RTM1C51,1.63,1.62,1.64,1000000.0,1000000.0
+,,,,,,254,2026-02-01 02:12:22.495536,RTM1P51,0.46,0.45,0.47,1000000.0,1000000.0
+,,,,,,254,2026-02-01 02:12:22.495536,RTM1C52,1.07,1.06,1.08,1000000.0,1000000.0
+,,,,,,254,2026-02-01 02:12:22.495536,RTM1P52,0.9,0.89,0.91,1000000.0,1000000.0
+,,,,,,254,2026-02-01 02:12:22.495536,RTM1C53,0.61,0.6,0.62,1000000.0,1000000.0
+,,,,,,254,2026-02-01 02:12:22.495536,RTM1P53,1.43,1.42,1.44,1000000.0,1000000.0
+,,,,,,254,2026-02-01 02:12:22.495536,RTM1C54,0.32,0.31,0.33,1000000.0,1000000.0
+,,,,,,254,2026-02-01 02:12:22.495536,RTM1P54,2.15,2.14,2.16,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,255,2026-02-01 02:12:23.543604,RTM,52.6,52.59,52.61,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,255,2026-02-01 02:12:23.543604,RTM1C45,7.6,7.59,7.61,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,255,2026-02-01 02:12:23.543604,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,255,2026-02-01 02:12:23.543604,RTM1C46,6.6,6.59,6.61,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,255,2026-02-01 02:12:23.543604,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,255,2026-02-01 02:12:23.543604,RTM1C47,5.61,5.6,5.62,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,255,2026-02-01 02:12:23.543604,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,255,2026-02-01 02:12:23.543604,RTM1C48,4.62,4.61,4.63,1000000.0,1000000.0
+,,,,,,255,2026-02-01 02:12:23.543604,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,255,2026-02-01 02:12:23.543604,RTM1C49,3.7,3.69,3.71,1000000.0,1000000.0
+,,,,,,255,2026-02-01 02:12:23.543604,RTM1P49,0.1,0.09,0.11,1000000.0,1000000.0
+,,,,,,255,2026-02-01 02:12:23.543604,RTM1C50,2.76,2.75,2.77,1000000.0,1000000.0
+,,,,,,255,2026-02-01 02:12:23.543604,RTM1P50,0.16,0.15,0.17,1000000.0,1000000.0
+,,,,,,255,2026-02-01 02:12:23.543604,RTM1C51,1.98,1.97,1.99,1000000.0,1000000.0
+,,,,,,255,2026-02-01 02:12:23.543604,RTM1P51,0.38,0.37,0.39,1000000.0,1000000.0
+,,,,,,255,2026-02-01 02:12:23.543604,RTM1C52,1.29,1.28,1.3,1000000.0,1000000.0
+,,,,,,255,2026-02-01 02:12:23.543604,RTM1P52,0.69,0.68,0.7,1000000.0,1000000.0
+,,,,,,255,2026-02-01 02:12:23.543604,RTM1C53,0.81,0.8,0.82,1000000.0,1000000.0
+,,,,,,255,2026-02-01 02:12:23.543604,RTM1P53,1.21,1.2,1.22,1000000.0,1000000.0
+,,,,,,255,2026-02-01 02:12:23.543604,RTM1C54,0.46,0.45,0.47,1000000.0,1000000.0
+,,,,,,255,2026-02-01 02:12:23.543604,RTM1P54,1.86,1.85,1.87,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,256,2026-02-01 02:12:24.605521,RTM,52.31,52.3,52.32,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,256,2026-02-01 02:12:24.605521,RTM1C45,7.31,7.3,7.32,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,256,2026-02-01 02:12:24.605521,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,256,2026-02-01 02:12:24.605521,RTM1C46,6.31,6.3,6.32,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,256,2026-02-01 02:12:24.605521,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,256,2026-02-01 02:12:24.605521,RTM1C47,5.32,5.31,5.33,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,256,2026-02-01 02:12:24.605521,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,256,2026-02-01 02:12:24.605521,RTM1C48,4.33,4.32,4.34,1000000.0,1000000.0
+,,,,,,256,2026-02-01 02:12:24.605521,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,256,2026-02-01 02:12:24.605521,RTM1C49,3.42,3.41,3.43,1000000.0,1000000.0
+,,,,,,256,2026-02-01 02:12:24.605521,RTM1P49,0.11,0.1,0.12,1000000.0,1000000.0
+,,,,,,256,2026-02-01 02:12:24.605521,RTM1C50,2.51,2.5,2.52,1000000.0,1000000.0
+,,,,,,256,2026-02-01 02:12:24.605521,RTM1P50,0.2,0.19,0.21,1000000.0,1000000.0
+,,,,,,256,2026-02-01 02:12:24.605521,RTM1C51,1.71,1.7,1.72,1000000.0,1000000.0
+,,,,,,256,2026-02-01 02:12:24.605521,RTM1P51,0.4,0.39,0.41,1000000.0,1000000.0
+,,,,,,256,2026-02-01 02:12:24.605521,RTM1C52,1.14,1.13,1.15,1000000.0,1000000.0
+,,,,,,256,2026-02-01 02:12:24.605521,RTM1P52,0.83,0.82,0.84,1000000.0,1000000.0
+,,,,,,256,2026-02-01 02:12:24.605521,RTM1C53,0.63,0.62,0.64,1000000.0,1000000.0
+,,,,,,256,2026-02-01 02:12:24.605521,RTM1P53,1.32,1.31,1.33,1000000.0,1000000.0
+,,,,,,256,2026-02-01 02:12:24.605521,RTM1C54,0.39,0.38,0.4,1000000.0,1000000.0
+,,,,,,256,2026-02-01 02:12:24.605521,RTM1P54,2.08,2.07,2.09,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,257,2026-02-01 02:12:25.666634,RTM,52.46,52.45,52.47,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,257,2026-02-01 02:12:25.666634,RTM1C45,7.46,7.45,7.47,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,257,2026-02-01 02:12:25.666634,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,257,2026-02-01 02:12:25.666634,RTM1C46,6.46,6.45,6.47,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,257,2026-02-01 02:12:25.666634,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,257,2026-02-01 02:12:25.666634,RTM1C47,5.47,5.46,5.48,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,257,2026-02-01 02:12:25.666634,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,257,2026-02-01 02:12:25.666634,RTM1C48,4.48,4.47,4.49,1000000.0,1000000.0
+,,,,,,257,2026-02-01 02:12:25.666634,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,257,2026-02-01 02:12:25.666634,RTM1C49,3.55,3.54,3.56,1000000.0,1000000.0
+,,,,,,257,2026-02-01 02:12:25.666634,RTM1P49,0.09,0.08,0.1,1000000.0,1000000.0
+,,,,,,257,2026-02-01 02:12:25.666634,RTM1C50,2.65,2.64,2.66,1000000.0,1000000.0
+,,,,,,257,2026-02-01 02:12:25.666634,RTM1P50,0.19,0.18,0.2,1000000.0,1000000.0
+,,,,,,257,2026-02-01 02:12:25.666634,RTM1C51,1.85,1.84,1.86,1000000.0,1000000.0
+,,,,,,257,2026-02-01 02:12:25.666634,RTM1P51,0.39,0.38,0.4,1000000.0,1000000.0
+,,,,,,257,2026-02-01 02:12:25.666634,RTM1C52,1.17,1.16,1.18,1000000.0,1000000.0
+,,,,,,257,2026-02-01 02:12:25.666634,RTM1P52,0.71,0.7,0.72,1000000.0,1000000.0
+,,,,,,257,2026-02-01 02:12:25.666634,RTM1C53,0.68,0.67,0.69,1000000.0,1000000.0
+,,,,,,257,2026-02-01 02:12:25.666634,RTM1P53,1.22,1.21,1.23,1000000.0,1000000.0
+,,,,,,257,2026-02-01 02:12:25.666634,RTM1C54,0.37,0.36,0.38,1000000.0,1000000.0
+,,,,,,257,2026-02-01 02:12:25.666634,RTM1P54,1.91,1.9,1.92,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,258,2026-02-01 02:12:26.715141,RTM,52.64,52.63,52.65,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,258,2026-02-01 02:12:26.715141,RTM1C45,7.64,7.63,7.65,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,258,2026-02-01 02:12:26.715141,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,258,2026-02-01 02:12:26.715141,RTM1C46,6.64,6.63,6.65,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,258,2026-02-01 02:12:26.715141,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,258,2026-02-01 02:12:26.715141,RTM1C47,5.65,5.64,5.66,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,258,2026-02-01 02:12:26.715141,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,258,2026-02-01 02:12:26.715141,RTM1C48,4.65,4.64,4.66,1000000.0,1000000.0
+,,,,,,258,2026-02-01 02:12:26.715141,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,258,2026-02-01 02:12:26.715141,RTM1C49,3.71,3.7,3.72,1000000.0,1000000.0
+,,,,,,258,2026-02-01 02:12:26.715141,RTM1P49,0.07,0.06,0.08,1000000.0,1000000.0
+,,,,,,258,2026-02-01 02:12:26.715141,RTM1C50,2.77,2.76,2.78,1000000.0,1000000.0
+,,,,,,258,2026-02-01 02:12:26.715141,RTM1P50,0.13,0.12,0.14,1000000.0,1000000.0
+,,,,,,258,2026-02-01 02:12:26.715141,RTM1C51,1.96,1.95,1.97,1000000.0,1000000.0
+,,,,,,258,2026-02-01 02:12:26.715141,RTM1P51,0.31,0.3,0.32,1000000.0,1000000.0
+,,,,,,258,2026-02-01 02:12:26.715141,RTM1C52,1.28,1.27,1.29,1000000.0,1000000.0
+,,,,,,258,2026-02-01 02:12:26.715141,RTM1P52,0.64,0.63,0.65,1000000.0,1000000.0
+,,,,,,258,2026-02-01 02:12:26.715141,RTM1C53,0.73,0.72,0.74,1000000.0,1000000.0
+,,,,,,258,2026-02-01 02:12:26.715141,RTM1P53,1.09,1.08,1.1,1000000.0,1000000.0
+,,,,,,258,2026-02-01 02:12:26.715141,RTM1C54,0.39,0.38,0.4,1000000.0,1000000.0
+,,,,,,258,2026-02-01 02:12:26.715141,RTM1P54,1.75,1.74,1.76,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,259,2026-02-01 02:12:27.765312,RTM,52.47,52.46,52.48,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,259,2026-02-01 02:12:27.765312,RTM1C45,7.47,7.46,7.48,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,259,2026-02-01 02:12:27.765312,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,259,2026-02-01 02:12:27.765312,RTM1C46,6.47,6.46,6.48,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,259,2026-02-01 02:12:27.765312,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,259,2026-02-01 02:12:27.765312,RTM1C47,5.48,5.47,5.49,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,259,2026-02-01 02:12:27.765312,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,259,2026-02-01 02:12:27.765312,RTM1C48,4.49,4.48,4.5,1000000.0,1000000.0
+,,,,,,259,2026-02-01 02:12:27.765312,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,259,2026-02-01 02:12:27.765312,RTM1C49,3.54,3.53,3.55,1000000.0,1000000.0
+,,,,,,259,2026-02-01 02:12:27.765312,RTM1P49,0.07,0.06,0.08,1000000.0,1000000.0
+,,,,,,259,2026-02-01 02:12:27.765312,RTM1C50,2.63,2.62,2.64,1000000.0,1000000.0
+,,,,,,259,2026-02-01 02:12:27.765312,RTM1P50,0.15,0.14,0.16,1000000.0,1000000.0
+,,,,,,259,2026-02-01 02:12:27.765312,RTM1C51,1.8,1.79,1.81,1000000.0,1000000.0
+,,,,,,259,2026-02-01 02:12:27.765312,RTM1P51,0.33,0.32,0.34,1000000.0,1000000.0
+,,,,,,259,2026-02-01 02:12:27.765312,RTM1C52,1.15,1.14,1.16,1000000.0,1000000.0
+,,,,,,259,2026-02-01 02:12:27.765312,RTM1P52,0.67,0.66,0.68,1000000.0,1000000.0
+,,,,,,259,2026-02-01 02:12:27.765312,RTM1C53,0.65,0.64,0.66,1000000.0,1000000.0
+,,,,,,259,2026-02-01 02:12:27.765312,RTM1P53,1.17,1.16,1.18,1000000.0,1000000.0
+,,,,,,259,2026-02-01 02:12:27.765312,RTM1C54,0.33,0.32,0.34,1000000.0,1000000.0
+,,,,,,259,2026-02-01 02:12:27.765312,RTM1P54,1.86,1.85,1.87,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,260,2026-02-01 02:12:28.819392,RTM,52.57,52.56,52.58,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,260,2026-02-01 02:12:28.819392,RTM1C45,7.57,7.56,7.58,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,260,2026-02-01 02:12:28.819392,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,260,2026-02-01 02:12:28.819392,RTM1C46,6.57,6.56,6.58,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,260,2026-02-01 02:12:28.819392,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,260,2026-02-01 02:12:28.819392,RTM1C47,5.57,5.56,5.58,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,260,2026-02-01 02:12:28.819392,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,260,2026-02-01 02:12:28.819392,RTM1C48,4.59,4.58,4.6,1000000.0,1000000.0
+,,,,,,260,2026-02-01 02:12:28.819392,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,260,2026-02-01 02:12:28.819392,RTM1C49,3.62,3.61,3.63,1000000.0,1000000.0
+,,,,,,260,2026-02-01 02:12:28.819392,RTM1P49,0.05,0.04,0.06,1000000.0,1000000.0
+,,,,,,260,2026-02-01 02:12:28.819392,RTM1C50,2.69,2.68,2.7,1000000.0,1000000.0
+,,,,,,260,2026-02-01 02:12:28.819392,RTM1P50,0.12,0.11,0.13,1000000.0,1000000.0
+,,,,,,260,2026-02-01 02:12:28.819392,RTM1C51,1.9,1.89,1.91,1000000.0,1000000.0
+,,,,,,260,2026-02-01 02:12:28.819392,RTM1P51,0.33,0.32,0.34,1000000.0,1000000.0
+,,,,,,260,2026-02-01 02:12:28.819392,RTM1C52,1.2,1.19,1.21,1000000.0,1000000.0
+,,,,,,260,2026-02-01 02:12:28.819392,RTM1P52,0.63,0.62,0.64,1000000.0,1000000.0
+,,,,,,260,2026-02-01 02:12:28.819392,RTM1C53,0.7,0.69,0.71,1000000.0,1000000.0
+,,,,,,260,2026-02-01 02:12:28.819392,RTM1P53,1.13,1.12,1.14,1000000.0,1000000.0
+,,,,,,260,2026-02-01 02:12:28.819392,RTM1C54,0.36,0.35,0.37,1000000.0,1000000.0
+,,,,,,260,2026-02-01 02:12:28.819392,RTM1P54,1.79,1.78,1.8,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,261,2026-02-01 02:12:29.884036,RTM,53.0,52.99,53.01,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,261,2026-02-01 02:12:29.884036,RTM1C45,8.0,7.99,8.01,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,261,2026-02-01 02:12:29.884036,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,261,2026-02-01 02:12:29.884036,RTM1C46,7.0,6.99,7.01,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,261,2026-02-01 02:12:29.884036,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,261,2026-02-01 02:12:29.884036,RTM1C47,6.0,5.99,6.01,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,261,2026-02-01 02:12:29.884036,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,261,2026-02-01 02:12:29.884036,RTM1C48,5.01,5.0,5.02,1000000.0,1000000.0
+,,,,,,261,2026-02-01 02:12:29.884036,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,261,2026-02-01 02:12:29.884036,RTM1C49,4.03,4.02,4.04,1000000.0,1000000.0
+,,,,,,261,2026-02-01 02:12:29.884036,RTM1P49,0.03,0.02,0.04,1000000.0,1000000.0
+,,,,,,261,2026-02-01 02:12:29.884036,RTM1C50,3.09,3.08,3.1,1000000.0,1000000.0
+,,,,,,261,2026-02-01 02:12:29.884036,RTM1P50,0.09,0.08,0.1,1000000.0,1000000.0
+,,,,,,261,2026-02-01 02:12:29.884036,RTM1C51,2.23,2.22,2.24,1000000.0,1000000.0
+,,,,,,261,2026-02-01 02:12:29.884036,RTM1P51,0.23,0.22,0.24,1000000.0,1000000.0
+,,,,,,261,2026-02-01 02:12:29.884036,RTM1C52,1.47,1.46,1.48,1000000.0,1000000.0
+,,,,,,261,2026-02-01 02:12:29.884036,RTM1P52,0.47,0.46,0.48,1000000.0,1000000.0
+,,,,,,261,2026-02-01 02:12:29.884036,RTM1C53,0.89,0.88,0.9,1000000.0,1000000.0
+,,,,,,261,2026-02-01 02:12:29.884036,RTM1P53,0.89,0.88,0.9,1000000.0,1000000.0
+,,,,,,261,2026-02-01 02:12:29.884036,RTM1C54,0.51,0.5,0.52,1000000.0,1000000.0
+,,,,,,261,2026-02-01 02:12:29.884036,RTM1P54,1.51,1.5,1.52,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,262,2026-02-01 02:12:30.951701,RTM,52.58,52.57,52.59,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,262,2026-02-01 02:12:30.951701,RTM1C45,7.58,7.57,7.59,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,262,2026-02-01 02:12:30.951701,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,262,2026-02-01 02:12:30.951701,RTM1C46,6.58,6.57,6.59,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,262,2026-02-01 02:12:30.951701,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,262,2026-02-01 02:12:30.951701,RTM1C47,5.58,5.57,5.59,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,262,2026-02-01 02:12:30.951701,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,262,2026-02-01 02:12:30.951701,RTM1C48,4.59,4.58,4.6,1000000.0,1000000.0
+,,,,,,262,2026-02-01 02:12:30.951701,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,262,2026-02-01 02:12:30.951701,RTM1C49,3.63,3.62,3.64,1000000.0,1000000.0
+,,,,,,262,2026-02-01 02:12:30.951701,RTM1P49,0.05,0.04,0.06,1000000.0,1000000.0
+,,,,,,262,2026-02-01 02:12:30.951701,RTM1C50,2.69,2.68,2.7,1000000.0,1000000.0
+,,,,,,262,2026-02-01 02:12:30.951701,RTM1P50,0.11,0.1,0.12,1000000.0,1000000.0
+,,,,,,262,2026-02-01 02:12:30.951701,RTM1C51,1.89,1.88,1.9,1000000.0,1000000.0
+,,,,,,262,2026-02-01 02:12:30.951701,RTM1P51,0.31,0.3,0.32,1000000.0,1000000.0
+,,,,,,262,2026-02-01 02:12:30.951701,RTM1C52,1.18,1.17,1.19,1000000.0,1000000.0
+,,,,,,262,2026-02-01 02:12:30.951701,RTM1P52,0.6,0.59,0.61,1000000.0,1000000.0
+,,,,,,262,2026-02-01 02:12:30.951701,RTM1C53,0.66,0.65,0.67,1000000.0,1000000.0
+,,,,,,262,2026-02-01 02:12:30.951701,RTM1P53,1.08,1.07,1.09,1000000.0,1000000.0
+,,,,,,262,2026-02-01 02:12:30.951701,RTM1C54,0.33,0.32,0.34,1000000.0,1000000.0
+,,,,,,262,2026-02-01 02:12:30.951701,RTM1P54,1.75,1.74,1.76,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,263,2026-02-01 02:12:32.006301,RTM,52.31,52.3,52.32,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,263,2026-02-01 02:12:32.006301,RTM1C45,7.31,7.3,7.32,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,263,2026-02-01 02:12:32.006301,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,263,2026-02-01 02:12:32.006301,RTM1C46,6.31,6.3,6.32,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,263,2026-02-01 02:12:32.006301,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,263,2026-02-01 02:12:32.006301,RTM1C47,5.31,5.3,5.32,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,263,2026-02-01 02:12:32.006301,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,263,2026-02-01 02:12:32.006301,RTM1C48,4.32,4.31,4.33,1000000.0,1000000.0
+,,,,,,263,2026-02-01 02:12:32.006301,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,263,2026-02-01 02:12:32.006301,RTM1C49,3.36,3.35,3.37,1000000.0,1000000.0
+,,,,,,263,2026-02-01 02:12:32.006301,RTM1P49,0.05,0.04,0.06,1000000.0,1000000.0
+,,,,,,263,2026-02-01 02:12:32.006301,RTM1C50,2.46,2.45,2.47,1000000.0,1000000.0
+,,,,,,263,2026-02-01 02:12:32.006301,RTM1P50,0.15,0.14,0.16,1000000.0,1000000.0
+,,,,,,263,2026-02-01 02:12:32.006301,RTM1C51,1.65,1.64,1.66,1000000.0,1000000.0
+,,,,,,263,2026-02-01 02:12:32.006301,RTM1P51,0.35,0.34,0.36,1000000.0,1000000.0
+,,,,,,263,2026-02-01 02:12:32.006301,RTM1C52,0.98,0.97,0.99,1000000.0,1000000.0
+,,,,,,263,2026-02-01 02:12:32.006301,RTM1P52,0.67,0.66,0.68,1000000.0,1000000.0
+,,,,,,263,2026-02-01 02:12:32.006301,RTM1C53,0.55,0.54,0.56,1000000.0,1000000.0
+,,,,,,263,2026-02-01 02:12:32.006301,RTM1P53,1.24,1.23,1.25,1000000.0,1000000.0
+,,,,,,263,2026-02-01 02:12:32.006301,RTM1C54,0.25,0.24,0.26,1000000.0,1000000.0
+,,,,,,263,2026-02-01 02:12:32.006301,RTM1P54,1.94,1.93,1.95,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,264,2026-02-01 02:12:33.056505,RTM,52.35,52.34,52.36,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,264,2026-02-01 02:12:33.056505,RTM1C45,7.35,7.34,7.36,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,264,2026-02-01 02:12:33.056505,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,264,2026-02-01 02:12:33.056505,RTM1C46,6.35,6.34,6.36,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,264,2026-02-01 02:12:33.056505,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,264,2026-02-01 02:12:33.056505,RTM1C47,5.35,5.34,5.36,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,264,2026-02-01 02:12:33.056505,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,264,2026-02-01 02:12:33.056505,RTM1C48,4.36,4.35,4.37,1000000.0,1000000.0
+,,,,,,264,2026-02-01 02:12:33.056505,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,264,2026-02-01 02:12:33.056505,RTM1C49,3.4,3.39,3.41,1000000.0,1000000.0
+,,,,,,264,2026-02-01 02:12:33.056505,RTM1P49,0.05,0.04,0.06,1000000.0,1000000.0
+,,,,,,264,2026-02-01 02:12:33.056505,RTM1C50,2.47,2.46,2.48,1000000.0,1000000.0
+,,,,,,264,2026-02-01 02:12:33.056505,RTM1P50,0.12,0.11,0.13,1000000.0,1000000.0
+,,,,,,264,2026-02-01 02:12:33.056505,RTM1C51,1.68,1.67,1.69,1000000.0,1000000.0
+,,,,,,264,2026-02-01 02:12:33.056505,RTM1P51,0.33,0.32,0.34,1000000.0,1000000.0
+,,,,,,264,2026-02-01 02:12:33.056505,RTM1C52,1.02,1.01,1.03,1000000.0,1000000.0
+,,,,,,264,2026-02-01 02:12:33.056505,RTM1P52,0.67,0.66,0.68,1000000.0,1000000.0
+,,,,,,264,2026-02-01 02:12:33.056505,RTM1C53,0.56,0.55,0.57,1000000.0,1000000.0
+,,,,,,264,2026-02-01 02:12:33.056505,RTM1P53,1.21,1.2,1.22,1000000.0,1000000.0
+,,,,,,264,2026-02-01 02:12:33.056505,RTM1C54,0.25,0.24,0.26,1000000.0,1000000.0
+,,,,,,264,2026-02-01 02:12:33.056505,RTM1P54,1.9,1.89,1.91,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,265,2026-02-01 02:12:34.103090,RTM,52.03,52.02,52.04,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,265,2026-02-01 02:12:34.103090,RTM1C45,7.03,7.02,7.04,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,265,2026-02-01 02:12:34.103090,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,265,2026-02-01 02:12:34.103090,RTM1C46,6.03,6.02,6.04,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,265,2026-02-01 02:12:34.103090,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,265,2026-02-01 02:12:34.103090,RTM1C47,5.03,5.02,5.04,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,265,2026-02-01 02:12:34.103090,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,265,2026-02-01 02:12:34.103090,RTM1C48,4.04,4.03,4.05,1000000.0,1000000.0
+,,,,,,265,2026-02-01 02:12:34.103090,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,265,2026-02-01 02:12:34.103090,RTM1C49,3.09,3.08,3.1,1000000.0,1000000.0
+,,,,,,265,2026-02-01 02:12:34.103090,RTM1P49,0.06,0.05,0.07,1000000.0,1000000.0
+,,,,,,265,2026-02-01 02:12:34.103090,RTM1C50,2.19,2.18,2.2,1000000.0,1000000.0
+,,,,,,265,2026-02-01 02:12:34.103090,RTM1P50,0.16,0.15,0.17,1000000.0,1000000.0
+,,,,,,265,2026-02-01 02:12:34.103090,RTM1C51,1.41,1.4,1.42,1000000.0,1000000.0
+,,,,,,265,2026-02-01 02:12:34.103090,RTM1P51,0.38,0.37,0.39,1000000.0,1000000.0
+,,,,,,265,2026-02-01 02:12:34.103090,RTM1C52,0.82,0.81,0.83,1000000.0,1000000.0
+,,,,,,265,2026-02-01 02:12:34.103090,RTM1P52,0.79,0.78,0.8,1000000.0,1000000.0
+,,,,,,265,2026-02-01 02:12:34.103090,RTM1C53,0.43,0.42,0.44,1000000.0,1000000.0
+,,,,,,265,2026-02-01 02:12:34.103090,RTM1P53,1.4,1.39,1.41,1000000.0,1000000.0
+,,,,,,265,2026-02-01 02:12:34.103090,RTM1C54,0.19,0.18,0.2,1000000.0,1000000.0
+,,,,,,265,2026-02-01 02:12:34.103090,RTM1P54,2.16,2.15,2.17,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,266,2026-02-01 02:12:35.156239,RTM,52.42,52.41,52.43,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,266,2026-02-01 02:12:35.156239,RTM1C45,7.42,7.41,7.43,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,266,2026-02-01 02:12:35.156239,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,266,2026-02-01 02:12:35.156239,RTM1C46,6.42,6.41,6.43,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,266,2026-02-01 02:12:35.156239,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,266,2026-02-01 02:12:35.156239,RTM1C47,5.42,5.41,5.43,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,266,2026-02-01 02:12:35.156239,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,266,2026-02-01 02:12:35.156239,RTM1C48,4.43,4.42,4.44,1000000.0,1000000.0
+,,,,,,266,2026-02-01 02:12:35.156239,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,266,2026-02-01 02:12:35.156239,RTM1C49,3.46,3.45,3.47,1000000.0,1000000.0
+,,,,,,266,2026-02-01 02:12:35.156239,RTM1P49,0.03,0.02,0.04,1000000.0,1000000.0
+,,,,,,266,2026-02-01 02:12:35.156239,RTM1C50,2.54,2.53,2.55,1000000.0,1000000.0
+,,,,,,266,2026-02-01 02:12:35.156239,RTM1P50,0.11,0.1,0.12,1000000.0,1000000.0
+,,,,,,266,2026-02-01 02:12:35.156239,RTM1C51,1.69,1.68,1.7,1000000.0,1000000.0
+,,,,,,266,2026-02-01 02:12:35.156239,RTM1P51,0.26,0.25,0.27,1000000.0,1000000.0
+,,,,,,266,2026-02-01 02:12:35.156239,RTM1C52,1.03,1.02,1.04,1000000.0,1000000.0
+,,,,,,266,2026-02-01 02:12:35.156239,RTM1P52,0.6,0.59,0.61,1000000.0,1000000.0
+,,,,,,266,2026-02-01 02:12:35.156239,RTM1C53,0.57,0.56,0.58,1000000.0,1000000.0
+,,,,,,266,2026-02-01 02:12:35.156239,RTM1P53,1.15,1.14,1.16,1000000.0,1000000.0
+,,,,,,266,2026-02-01 02:12:35.156239,RTM1C54,0.27,0.26,0.28,1000000.0,1000000.0
+,,,,,,266,2026-02-01 02:12:35.156239,RTM1P54,1.85,1.84,1.86,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,267,2026-02-01 02:12:36.212448,RTM,51.92,51.91,51.93,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,267,2026-02-01 02:12:36.212448,RTM1C45,6.92,6.91,6.93,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,267,2026-02-01 02:12:36.212448,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,267,2026-02-01 02:12:36.212448,RTM1C46,5.92,5.91,5.93,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,267,2026-02-01 02:12:36.212448,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,267,2026-02-01 02:12:36.212448,RTM1C47,4.92,4.91,4.93,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,267,2026-02-01 02:12:36.212448,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,267,2026-02-01 02:12:36.212448,RTM1C48,3.93,3.92,3.94,1000000.0,1000000.0
+,,,,,,267,2026-02-01 02:12:36.212448,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,267,2026-02-01 02:12:36.212448,RTM1C49,2.97,2.96,2.98,1000000.0,1000000.0
+,,,,,,267,2026-02-01 02:12:36.212448,RTM1P49,0.05,0.04,0.06,1000000.0,1000000.0
+,,,,,,267,2026-02-01 02:12:36.212448,RTM1C50,2.08,2.07,2.09,1000000.0,1000000.0
+,,,,,,267,2026-02-01 02:12:36.212448,RTM1P50,0.16,0.15,0.17,1000000.0,1000000.0
+,,,,,,267,2026-02-01 02:12:36.212448,RTM1C51,1.31,1.3,1.32,1000000.0,1000000.0
+,,,,,,267,2026-02-01 02:12:36.212448,RTM1P51,0.39,0.38,0.4,1000000.0,1000000.0
+,,,,,,267,2026-02-01 02:12:36.212448,RTM1C52,0.75,0.74,0.76,1000000.0,1000000.0
+,,,,,,267,2026-02-01 02:12:36.212448,RTM1P52,0.83,0.82,0.84,1000000.0,1000000.0
+,,,,,,267,2026-02-01 02:12:36.212448,RTM1C53,0.35,0.34,0.36,1000000.0,1000000.0
+,,,,,,267,2026-02-01 02:12:36.212448,RTM1P53,1.43,1.42,1.44,1000000.0,1000000.0
+,,,,,,267,2026-02-01 02:12:36.212448,RTM1C54,0.16,0.15,0.17,1000000.0,1000000.0
+,,,,,,267,2026-02-01 02:12:36.212448,RTM1P54,2.24,2.23,2.25,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,268,2026-02-01 02:12:37.258931,RTM,52.16,52.15,52.17,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,268,2026-02-01 02:12:37.258931,RTM1C45,7.16,7.15,7.17,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,268,2026-02-01 02:12:37.258931,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,268,2026-02-01 02:12:37.258931,RTM1C46,6.16,6.15,6.17,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,268,2026-02-01 02:12:37.258931,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,268,2026-02-01 02:12:37.258931,RTM1C47,5.16,5.15,5.17,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,268,2026-02-01 02:12:37.258931,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,268,2026-02-01 02:12:37.258931,RTM1C48,4.17,4.16,4.18,1000000.0,1000000.0
+,,,,,,268,2026-02-01 02:12:37.258931,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,268,2026-02-01 02:12:37.258931,RTM1C49,3.19,3.18,3.2,1000000.0,1000000.0
+,,,,,,268,2026-02-01 02:12:37.258931,RTM1P49,0.03,0.02,0.04,1000000.0,1000000.0
+,,,,,,268,2026-02-01 02:12:37.258931,RTM1C50,2.29,2.28,2.3,1000000.0,1000000.0
+,,,,,,268,2026-02-01 02:12:37.258931,RTM1P50,0.13,0.12,0.14,1000000.0,1000000.0
+,,,,,,268,2026-02-01 02:12:37.258931,RTM1C51,1.47,1.46,1.48,1000000.0,1000000.0
+,,,,,,268,2026-02-01 02:12:37.258931,RTM1P51,0.3,0.29,0.31,1000000.0,1000000.0
+,,,,,,268,2026-02-01 02:12:37.258931,RTM1C52,0.86,0.85,0.87,1000000.0,1000000.0
+,,,,,,268,2026-02-01 02:12:37.258931,RTM1P52,0.7,0.69,0.71,1000000.0,1000000.0
+,,,,,,268,2026-02-01 02:12:37.258931,RTM1C53,0.41,0.4,0.42,1000000.0,1000000.0
+,,,,,,268,2026-02-01 02:12:37.258931,RTM1P53,1.25,1.24,1.26,1000000.0,1000000.0
+,,,,,,268,2026-02-01 02:12:37.258931,RTM1C54,0.18,0.17,0.19,1000000.0,1000000.0
+,,,,,,268,2026-02-01 02:12:37.258931,RTM1P54,2.02,2.01,2.03,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,269,2026-02-01 02:12:38.313958,RTM,52.13,52.12,52.14,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,269,2026-02-01 02:12:38.313958,RTM1C45,7.13,7.12,7.14,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,269,2026-02-01 02:12:38.313958,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,269,2026-02-01 02:12:38.313958,RTM1C46,6.13,6.12,6.14,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,269,2026-02-01 02:12:38.313958,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,269,2026-02-01 02:12:38.313958,RTM1C47,5.13,5.12,5.14,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,269,2026-02-01 02:12:38.313958,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,269,2026-02-01 02:12:38.313958,RTM1C48,4.14,4.13,4.15,1000000.0,1000000.0
+,,,,,,269,2026-02-01 02:12:38.313958,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,269,2026-02-01 02:12:38.313958,RTM1C49,3.16,3.15,3.17,1000000.0,1000000.0
+,,,,,,269,2026-02-01 02:12:38.313958,RTM1P49,0.03,0.02,0.04,1000000.0,1000000.0
+,,,,,,269,2026-02-01 02:12:38.313958,RTM1C50,2.25,2.24,2.26,1000000.0,1000000.0
+,,,,,,269,2026-02-01 02:12:38.313958,RTM1P50,0.12,0.11,0.13,1000000.0,1000000.0
+,,,,,,269,2026-02-01 02:12:38.313958,RTM1C51,1.43,1.42,1.44,1000000.0,1000000.0
+,,,,,,269,2026-02-01 02:12:38.313958,RTM1P51,0.3,0.29,0.31,1000000.0,1000000.0
+,,,,,,269,2026-02-01 02:12:38.313958,RTM1C52,0.81,0.8,0.82,1000000.0,1000000.0
+,,,,,,269,2026-02-01 02:12:38.313958,RTM1P52,0.68,0.67,0.69,1000000.0,1000000.0
+,,,,,,269,2026-02-01 02:12:38.313958,RTM1C53,0.39,0.38,0.4,1000000.0,1000000.0
+,,,,,,269,2026-02-01 02:12:38.313958,RTM1P53,1.26,1.25,1.27,1000000.0,1000000.0
+,,,,,,269,2026-02-01 02:12:38.313958,RTM1C54,0.16,0.15,0.17,1000000.0,1000000.0
+,,,,,,269,2026-02-01 02:12:38.313958,RTM1P54,2.03,2.02,2.04,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,270,2026-02-01 02:12:39.363700,RTM,52.21,52.2,52.22,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,270,2026-02-01 02:12:39.363700,RTM1C45,7.21,7.2,7.22,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,270,2026-02-01 02:12:39.363700,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,270,2026-02-01 02:12:39.363700,RTM1C46,6.21,6.2,6.22,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,270,2026-02-01 02:12:39.363700,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,270,2026-02-01 02:12:39.363700,RTM1C47,5.21,5.2,5.22,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,270,2026-02-01 02:12:39.363700,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,270,2026-02-01 02:12:39.363700,RTM1C48,4.21,4.2,4.22,1000000.0,1000000.0
+,,,,,,270,2026-02-01 02:12:39.363700,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,270,2026-02-01 02:12:39.363700,RTM1C49,3.23,3.22,3.24,1000000.0,1000000.0
+,,,,,,270,2026-02-01 02:12:39.363700,RTM1P49,0.03,0.02,0.04,1000000.0,1000000.0
+,,,,,,270,2026-02-01 02:12:39.363700,RTM1C50,2.3,2.29,2.31,1000000.0,1000000.0
+,,,,,,270,2026-02-01 02:12:39.363700,RTM1P50,0.09,0.08,0.1,1000000.0,1000000.0
+,,,,,,270,2026-02-01 02:12:39.363700,RTM1C51,1.48,1.47,1.49,1000000.0,1000000.0
+,,,,,,270,2026-02-01 02:12:39.363700,RTM1P51,0.27,0.26,0.28,1000000.0,1000000.0
+,,,,,,270,2026-02-01 02:12:39.363700,RTM1C52,0.86,0.85,0.87,1000000.0,1000000.0
+,,,,,,270,2026-02-01 02:12:39.363700,RTM1P52,0.65,0.64,0.66,1000000.0,1000000.0
+,,,,,,270,2026-02-01 02:12:39.363700,RTM1C53,0.42,0.41,0.43,1000000.0,1000000.0
+,,,,,,270,2026-02-01 02:12:39.363700,RTM1P53,1.22,1.21,1.23,1000000.0,1000000.0
+,,,,,,270,2026-02-01 02:12:39.363700,RTM1C54,0.16,0.15,0.17,1000000.0,1000000.0
+,,,,,,270,2026-02-01 02:12:39.363700,RTM1P54,1.96,1.95,1.97,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,272,2026-02-01 02:12:40.421640,RTM,51.85,51.84,51.86,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,272,2026-02-01 02:12:40.421640,RTM1C45,6.85,6.84,6.86,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,272,2026-02-01 02:12:40.421640,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,272,2026-02-01 02:12:40.421640,RTM1C46,5.85,5.84,5.86,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,272,2026-02-01 02:12:40.421640,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,272,2026-02-01 02:12:40.421640,RTM1C47,4.85,4.84,4.86,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,272,2026-02-01 02:12:40.421640,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,272,2026-02-01 02:12:40.421640,RTM1C48,3.86,3.85,3.87,1000000.0,1000000.0
+,,,,,,272,2026-02-01 02:12:40.421640,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,272,2026-02-01 02:12:40.421640,RTM1C49,2.89,2.88,2.9,1000000.0,1000000.0
+,,,,,,272,2026-02-01 02:12:40.421640,RTM1P49,0.03,0.02,0.04,1000000.0,1000000.0
+,,,,,,272,2026-02-01 02:12:40.421640,RTM1C50,1.97,1.96,1.98,1000000.0,1000000.0
+,,,,,,272,2026-02-01 02:12:40.421640,RTM1P50,0.12,0.11,0.13,1000000.0,1000000.0
+,,,,,,272,2026-02-01 02:12:40.421640,RTM1C51,1.21,1.2,1.22,1000000.0,1000000.0
+,,,,,,272,2026-02-01 02:12:40.421640,RTM1P51,0.36,0.35,0.37,1000000.0,1000000.0
+,,,,,,272,2026-02-01 02:12:40.421640,RTM1C52,0.63,0.62,0.64,1000000.0,1000000.0
+,,,,,,272,2026-02-01 02:12:40.421640,RTM1P52,0.78,0.77,0.79,1000000.0,1000000.0
+,,,,,,272,2026-02-01 02:12:40.421640,RTM1C53,0.29,0.28,0.3,1000000.0,1000000.0
+,,,,,,272,2026-02-01 02:12:40.421640,RTM1P53,1.44,1.43,1.45,1000000.0,1000000.0
+,,,,,,272,2026-02-01 02:12:40.421640,RTM1C54,0.1,0.09,0.11,1000000.0,1000000.0
+,,,,,,272,2026-02-01 02:12:40.421640,RTM1P54,2.25,2.24,2.26,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,273,2026-02-01 02:12:41.500783,RTM,52.15,52.14,52.16,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,273,2026-02-01 02:12:41.500783,RTM1C45,7.15,7.14,7.16,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,273,2026-02-01 02:12:41.500783,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,273,2026-02-01 02:12:41.500783,RTM1C46,6.15,6.14,6.16,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,273,2026-02-01 02:12:41.500783,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,273,2026-02-01 02:12:41.500783,RTM1C47,5.15,5.14,5.16,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,273,2026-02-01 02:12:41.500783,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,273,2026-02-01 02:12:41.500783,RTM1C48,4.15,4.14,4.16,1000000.0,1000000.0
+,,,,,,273,2026-02-01 02:12:41.500783,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,273,2026-02-01 02:12:41.500783,RTM1C49,3.17,3.16,3.18,1000000.0,1000000.0
+,,,,,,273,2026-02-01 02:12:41.500783,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,273,2026-02-01 02:12:41.500783,RTM1C50,2.22,2.21,2.23,1000000.0,1000000.0
+,,,,,,273,2026-02-01 02:12:41.500783,RTM1P50,0.08,0.07,0.09,1000000.0,1000000.0
+,,,,,,273,2026-02-01 02:12:41.500783,RTM1C51,1.4,1.39,1.41,1000000.0,1000000.0
+,,,,,,273,2026-02-01 02:12:41.500783,RTM1P51,0.25,0.24,0.26,1000000.0,1000000.0
+,,,,,,273,2026-02-01 02:12:41.500783,RTM1C52,0.77,0.76,0.78,1000000.0,1000000.0
+,,,,,,273,2026-02-01 02:12:41.500783,RTM1P52,0.63,0.62,0.64,1000000.0,1000000.0
+,,,,,,273,2026-02-01 02:12:41.500783,RTM1C53,0.37,0.36,0.38,1000000.0,1000000.0
+,,,,,,273,2026-02-01 02:12:41.500783,RTM1P53,1.23,1.22,1.24,1000000.0,1000000.0
+,,,,,,273,2026-02-01 02:12:41.500783,RTM1C54,0.14,0.13,0.15,1000000.0,1000000.0
+,,,,,,273,2026-02-01 02:12:41.500783,RTM1P54,1.99,1.98,2.0,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,274,2026-02-01 02:12:42.567321,RTM,51.78,51.77,51.79,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,274,2026-02-01 02:12:42.567321,RTM1C45,6.78,6.77,6.79,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,274,2026-02-01 02:12:42.567321,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,274,2026-02-01 02:12:42.567321,RTM1C46,5.78,5.77,5.79,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,274,2026-02-01 02:12:42.567321,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,274,2026-02-01 02:12:42.567321,RTM1C47,4.78,4.77,4.79,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,274,2026-02-01 02:12:42.567321,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,274,2026-02-01 02:12:42.567321,RTM1C48,3.79,3.78,3.8,1000000.0,1000000.0
+,,,,,,274,2026-02-01 02:12:42.567321,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,274,2026-02-01 02:12:42.567321,RTM1C49,2.81,2.8,2.82,1000000.0,1000000.0
+,,,,,,274,2026-02-01 02:12:42.567321,RTM1P49,0.03,0.02,0.04,1000000.0,1000000.0
+,,,,,,274,2026-02-01 02:12:42.567321,RTM1C50,1.9,1.89,1.91,1000000.0,1000000.0
+,,,,,,274,2026-02-01 02:12:42.567321,RTM1P50,0.12,0.11,0.13,1000000.0,1000000.0
+,,,,,,274,2026-02-01 02:12:42.567321,RTM1C51,1.12,1.11,1.13,1000000.0,1000000.0
+,,,,,,274,2026-02-01 02:12:42.567321,RTM1P51,0.34,0.33,0.35,1000000.0,1000000.0
+,,,,,,274,2026-02-01 02:12:42.567321,RTM1C52,0.57,0.56,0.58,1000000.0,1000000.0
+,,,,,,274,2026-02-01 02:12:42.567321,RTM1P52,0.79,0.78,0.8,1000000.0,1000000.0
+,,,,,,274,2026-02-01 02:12:42.567321,RTM1C53,0.24,0.23,0.25,1000000.0,1000000.0
+,,,,,,274,2026-02-01 02:12:42.567321,RTM1P53,1.45,1.44,1.46,1000000.0,1000000.0
+,,,,,,274,2026-02-01 02:12:42.567321,RTM1C54,0.08,0.07,0.09,1000000.0,1000000.0
+,,,,,,274,2026-02-01 02:12:42.567321,RTM1P54,2.29,2.28,2.3,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,275,2026-02-01 02:12:43.635666,RTM,51.73,51.72,51.74,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,275,2026-02-01 02:12:43.635666,RTM1C45,6.73,6.72,6.74,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,275,2026-02-01 02:12:43.635666,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,275,2026-02-01 02:12:43.635666,RTM1C46,5.73,5.72,5.74,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,275,2026-02-01 02:12:43.635666,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,275,2026-02-01 02:12:43.635666,RTM1C47,4.73,4.72,4.74,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,275,2026-02-01 02:12:43.635666,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,275,2026-02-01 02:12:43.635666,RTM1C48,3.74,3.73,3.75,1000000.0,1000000.0
+,,,,,,275,2026-02-01 02:12:43.635666,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,275,2026-02-01 02:12:43.635666,RTM1C49,2.76,2.75,2.77,1000000.0,1000000.0
+,,,,,,275,2026-02-01 02:12:43.635666,RTM1P49,0.03,0.02,0.04,1000000.0,1000000.0
+,,,,,,275,2026-02-01 02:12:43.635666,RTM1C50,1.85,1.84,1.86,1000000.0,1000000.0
+,,,,,,275,2026-02-01 02:12:43.635666,RTM1P50,0.12,0.11,0.13,1000000.0,1000000.0
+,,,,,,275,2026-02-01 02:12:43.635666,RTM1C51,1.08,1.07,1.09,1000000.0,1000000.0
+,,,,,,275,2026-02-01 02:12:43.635666,RTM1P51,0.35,0.34,0.36,1000000.0,1000000.0
+,,,,,,275,2026-02-01 02:12:43.635666,RTM1C52,0.53,0.52,0.54,1000000.0,1000000.0
+,,,,,,275,2026-02-01 02:12:43.635666,RTM1P52,0.8,0.79,0.81,1000000.0,1000000.0
+,,,,,,275,2026-02-01 02:12:43.635666,RTM1C53,0.21,0.2,0.22,1000000.0,1000000.0
+,,,,,,275,2026-02-01 02:12:43.635666,RTM1P53,1.48,1.47,1.49,1000000.0,1000000.0
+,,,,,,275,2026-02-01 02:12:43.635666,RTM1C54,0.07,0.06,0.08,1000000.0,1000000.0
+,,,,,,275,2026-02-01 02:12:43.635666,RTM1P54,2.33,2.32,2.34,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,276,2026-02-01 02:12:44.700358,RTM,51.96,51.95,51.97,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,276,2026-02-01 02:12:44.700358,RTM1C45,6.96,6.95,6.97,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,276,2026-02-01 02:12:44.700358,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,276,2026-02-01 02:12:44.700358,RTM1C46,5.96,5.95,5.97,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,276,2026-02-01 02:12:44.700358,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,276,2026-02-01 02:12:44.700358,RTM1C47,4.96,4.95,4.97,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,276,2026-02-01 02:12:44.700358,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,276,2026-02-01 02:12:44.700358,RTM1C48,3.96,3.95,3.97,1000000.0,1000000.0
+,,,,,,276,2026-02-01 02:12:44.700358,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,276,2026-02-01 02:12:44.700358,RTM1C49,2.97,2.96,2.98,1000000.0,1000000.0
+,,,,,,276,2026-02-01 02:12:44.700358,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,276,2026-02-01 02:12:44.700358,RTM1C50,2.04,2.03,2.05,1000000.0,1000000.0
+,,,,,,276,2026-02-01 02:12:44.700358,RTM1P50,0.08,0.07,0.09,1000000.0,1000000.0
+,,,,,,276,2026-02-01 02:12:44.700358,RTM1C51,1.22,1.21,1.23,1000000.0,1000000.0
+,,,,,,276,2026-02-01 02:12:44.700358,RTM1P51,0.26,0.25,0.27,1000000.0,1000000.0
+,,,,,,276,2026-02-01 02:12:44.700358,RTM1C52,0.61,0.6,0.62,1000000.0,1000000.0
+,,,,,,276,2026-02-01 02:12:44.700358,RTM1P52,0.66,0.65,0.67,1000000.0,1000000.0
+,,,,,,276,2026-02-01 02:12:44.700358,RTM1C53,0.25,0.24,0.26,1000000.0,1000000.0
+,,,,,,276,2026-02-01 02:12:44.700358,RTM1P53,1.3,1.29,1.31,1000000.0,1000000.0
+,,,,,,276,2026-02-01 02:12:44.700358,RTM1C54,0.08,0.07,0.09,1000000.0,1000000.0
+,,,,,,276,2026-02-01 02:12:44.700358,RTM1P54,2.12,2.11,2.13,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,277,2026-02-01 02:12:45.737688,RTM,51.9,51.89,51.91,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,277,2026-02-01 02:12:45.737688,RTM1C45,6.9,6.89,6.91,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,277,2026-02-01 02:12:45.737688,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,277,2026-02-01 02:12:45.737688,RTM1C46,5.9,5.89,5.91,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,277,2026-02-01 02:12:45.737688,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,277,2026-02-01 02:12:45.737688,RTM1C47,4.9,4.89,4.91,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,277,2026-02-01 02:12:45.737688,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,277,2026-02-01 02:12:45.737688,RTM1C48,3.91,3.9,3.92,1000000.0,1000000.0
+,,,,,,277,2026-02-01 02:12:45.737688,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,277,2026-02-01 02:12:45.737688,RTM1C49,2.92,2.91,2.93,1000000.0,1000000.0
+,,,,,,277,2026-02-01 02:12:45.737688,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,277,2026-02-01 02:12:45.737688,RTM1C50,1.98,1.97,1.99,1000000.0,1000000.0
+,,,,,,277,2026-02-01 02:12:45.737688,RTM1P50,0.08,0.07,0.09,1000000.0,1000000.0
+,,,,,,277,2026-02-01 02:12:45.737688,RTM1C51,1.17,1.16,1.18,1000000.0,1000000.0
+,,,,,,277,2026-02-01 02:12:45.737688,RTM1P51,0.27,0.26,0.28,1000000.0,1000000.0
+,,,,,,277,2026-02-01 02:12:45.737688,RTM1C52,0.57,0.56,0.58,1000000.0,1000000.0
+,,,,,,277,2026-02-01 02:12:45.737688,RTM1P52,0.67,0.66,0.68,1000000.0,1000000.0
+,,,,,,277,2026-02-01 02:12:45.737688,RTM1C53,0.23,0.22,0.24,1000000.0,1000000.0
+,,,,,,277,2026-02-01 02:12:45.737688,RTM1P53,1.32,1.31,1.33,1000000.0,1000000.0
+,,,,,,277,2026-02-01 02:12:45.737688,RTM1C54,0.07,0.06,0.08,1000000.0,1000000.0
+,,,,,,277,2026-02-01 02:12:45.737688,RTM1P54,2.16,2.15,2.17,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,278,2026-02-01 02:12:46.805074,RTM,52.22,52.21,52.23,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,278,2026-02-01 02:12:46.805074,RTM1C45,7.22,7.21,7.23,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,278,2026-02-01 02:12:46.805074,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,278,2026-02-01 02:12:46.805074,RTM1C46,6.22,6.21,6.23,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,278,2026-02-01 02:12:46.805074,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,278,2026-02-01 02:12:46.805074,RTM1C47,5.22,5.21,5.23,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,278,2026-02-01 02:12:46.805074,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,278,2026-02-01 02:12:46.805074,RTM1C48,4.22,4.21,4.23,1000000.0,1000000.0
+,,,,,,278,2026-02-01 02:12:46.805074,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,278,2026-02-01 02:12:46.805074,RTM1C49,3.23,3.22,3.24,1000000.0,1000000.0
+,,,,,,278,2026-02-01 02:12:46.805074,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,278,2026-02-01 02:12:46.805074,RTM1C50,2.27,2.26,2.28,1000000.0,1000000.0
+,,,,,,278,2026-02-01 02:12:46.805074,RTM1P50,0.04,0.03,0.05,1000000.0,1000000.0
+,,,,,,278,2026-02-01 02:12:46.805074,RTM1C51,1.4,1.39,1.41,1000000.0,1000000.0
+,,,,,,278,2026-02-01 02:12:46.805074,RTM1P51,0.18,0.17,0.19,1000000.0,1000000.0
+,,,,,,278,2026-02-01 02:12:46.805074,RTM1C52,0.72,0.71,0.73,1000000.0,1000000.0
+,,,,,,278,2026-02-01 02:12:46.805074,RTM1P52,0.5,0.49,0.51,1000000.0,1000000.0
+,,,,,,278,2026-02-01 02:12:46.805074,RTM1C53,0.3,0.29,0.31,1000000.0,1000000.0
+,,,,,,278,2026-02-01 02:12:46.805074,RTM1P53,1.08,1.07,1.09,1000000.0,1000000.0
+,,,,,,278,2026-02-01 02:12:46.805074,RTM1C54,0.1,0.09,0.11,1000000.0,1000000.0
+,,,,,,278,2026-02-01 02:12:46.805074,RTM1P54,1.87,1.86,1.88,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,279,2026-02-01 02:12:47.856569,RTM,52.22,52.21,52.23,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,279,2026-02-01 02:12:47.856569,RTM1C45,7.22,7.21,7.23,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,279,2026-02-01 02:12:47.856569,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,279,2026-02-01 02:12:47.856569,RTM1C46,6.22,6.21,6.23,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,279,2026-02-01 02:12:47.856569,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,279,2026-02-01 02:12:47.856569,RTM1C47,5.22,5.21,5.23,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,279,2026-02-01 02:12:47.856569,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,279,2026-02-01 02:12:47.856569,RTM1C48,4.22,4.21,4.23,1000000.0,1000000.0
+,,,,,,279,2026-02-01 02:12:47.856569,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,279,2026-02-01 02:12:47.856569,RTM1C49,3.23,3.22,3.24,1000000.0,1000000.0
+,,,,,,279,2026-02-01 02:12:47.856569,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,279,2026-02-01 02:12:47.856569,RTM1C50,2.26,2.25,2.27,1000000.0,1000000.0
+,,,,,,279,2026-02-01 02:12:47.856569,RTM1P50,0.04,0.03,0.05,1000000.0,1000000.0
+,,,,,,279,2026-02-01 02:12:47.856569,RTM1C51,1.38,1.37,1.39,1000000.0,1000000.0
+,,,,,,279,2026-02-01 02:12:47.856569,RTM1P51,0.16,0.15,0.17,1000000.0,1000000.0
+,,,,,,279,2026-02-01 02:12:47.856569,RTM1C52,0.7,0.69,0.71,1000000.0,1000000.0
+,,,,,,279,2026-02-01 02:12:47.856569,RTM1P52,0.48,0.47,0.49,1000000.0,1000000.0
+,,,,,,279,2026-02-01 02:12:47.856569,RTM1C53,0.29,0.28,0.3,1000000.0,1000000.0
+,,,,,,279,2026-02-01 02:12:47.856569,RTM1P53,1.07,1.06,1.08,1000000.0,1000000.0
+,,,,,,279,2026-02-01 02:12:47.856569,RTM1C54,0.09,0.08,0.1,1000000.0,1000000.0
+,,,,,,279,2026-02-01 02:12:47.856569,RTM1P54,1.87,1.86,1.88,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,280,2026-02-01 02:12:48.912530,RTM,52.24,52.23,52.25,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,280,2026-02-01 02:12:48.912530,RTM1C45,7.24,7.23,7.25,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,280,2026-02-01 02:12:48.912530,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,280,2026-02-01 02:12:48.912530,RTM1C46,6.24,6.23,6.25,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,280,2026-02-01 02:12:48.912530,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,280,2026-02-01 02:12:48.912530,RTM1C47,5.24,5.23,5.25,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,280,2026-02-01 02:12:48.912530,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,280,2026-02-01 02:12:48.912530,RTM1C48,4.24,4.23,4.25,1000000.0,1000000.0
+,,,,,,280,2026-02-01 02:12:48.912530,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,280,2026-02-01 02:12:48.912530,RTM1C49,3.25,3.24,3.26,1000000.0,1000000.0
+,,,,,,280,2026-02-01 02:12:48.912530,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,280,2026-02-01 02:12:48.912530,RTM1C50,2.28,2.27,2.29,1000000.0,1000000.0
+,,,,,,280,2026-02-01 02:12:48.912530,RTM1P50,0.03,0.02,0.04,1000000.0,1000000.0
+,,,,,,280,2026-02-01 02:12:48.912530,RTM1C51,1.39,1.38,1.4,1000000.0,1000000.0
+,,,,,,280,2026-02-01 02:12:48.912530,RTM1P51,0.15,0.14,0.16,1000000.0,1000000.0
+,,,,,,280,2026-02-01 02:12:48.912530,RTM1C52,0.71,0.7,0.72,1000000.0,1000000.0
+,,,,,,280,2026-02-01 02:12:48.912530,RTM1P52,0.46,0.45,0.47,1000000.0,1000000.0
+,,,,,,280,2026-02-01 02:12:48.912530,RTM1C53,0.28,0.27,0.29,1000000.0,1000000.0
+,,,,,,280,2026-02-01 02:12:48.912530,RTM1P53,1.04,1.03,1.05,1000000.0,1000000.0
+,,,,,,280,2026-02-01 02:12:48.912530,RTM1C54,0.08,0.07,0.09,1000000.0,1000000.0
+,,,,,,280,2026-02-01 02:12:48.912530,RTM1P54,1.84,1.83,1.85,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,281,2026-02-01 02:12:49.976099,RTM,52.51,52.5,52.52,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,281,2026-02-01 02:12:49.976099,RTM1C45,7.51,7.5,7.52,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,281,2026-02-01 02:12:49.976099,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,281,2026-02-01 02:12:49.976099,RTM1C46,6.51,6.5,6.52,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,281,2026-02-01 02:12:49.976099,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,281,2026-02-01 02:12:49.976099,RTM1C47,5.51,5.5,5.52,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,281,2026-02-01 02:12:49.976099,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,281,2026-02-01 02:12:49.976099,RTM1C48,4.51,4.5,4.52,1000000.0,1000000.0
+,,,,,,281,2026-02-01 02:12:49.976099,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,281,2026-02-01 02:12:49.976099,RTM1C49,3.51,3.5,3.52,1000000.0,1000000.0
+,,,,,,281,2026-02-01 02:12:49.976099,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,281,2026-02-01 02:12:49.976099,RTM1C50,2.53,2.52,2.54,1000000.0,1000000.0
+,,,,,,281,2026-02-01 02:12:49.976099,RTM1P50,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,281,2026-02-01 02:12:49.976099,RTM1C51,1.61,1.6,1.62,1000000.0,1000000.0
+,,,,,,281,2026-02-01 02:12:49.976099,RTM1P51,0.09,0.08,0.1,1000000.0,1000000.0
+,,,,,,281,2026-02-01 02:12:49.976099,RTM1C52,0.85,0.84,0.86,1000000.0,1000000.0
+,,,,,,281,2026-02-01 02:12:49.976099,RTM1P52,0.34,0.33,0.35,1000000.0,1000000.0
+,,,,,,281,2026-02-01 02:12:49.976099,RTM1C53,0.35,0.34,0.36,1000000.0,1000000.0
+,,,,,,281,2026-02-01 02:12:49.976099,RTM1P53,0.84,0.83,0.85,1000000.0,1000000.0
+,,,,,,281,2026-02-01 02:12:49.976099,RTM1C54,0.11,0.1,0.12,1000000.0,1000000.0
+,,,,,,281,2026-02-01 02:12:49.976099,RTM1P54,1.6,1.59,1.61,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,282,2026-02-01 02:12:51.023696,RTM,52.51,52.5,52.52,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,282,2026-02-01 02:12:51.023696,RTM1C45,7.51,7.5,7.52,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,282,2026-02-01 02:12:51.023696,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,282,2026-02-01 02:12:51.023696,RTM1C46,6.51,6.5,6.52,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,282,2026-02-01 02:12:51.023696,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,282,2026-02-01 02:12:51.023696,RTM1C47,5.51,5.5,5.52,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,282,2026-02-01 02:12:51.023696,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,282,2026-02-01 02:12:51.023696,RTM1C48,4.51,4.5,4.52,1000000.0,1000000.0
+,,,,,,282,2026-02-01 02:12:51.023696,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,282,2026-02-01 02:12:51.023696,RTM1C49,3.51,3.5,3.52,1000000.0,1000000.0
+,,,,,,282,2026-02-01 02:12:51.023696,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,282,2026-02-01 02:12:51.023696,RTM1C50,2.52,2.51,2.53,1000000.0,1000000.0
+,,,,,,282,2026-02-01 02:12:51.023696,RTM1P50,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,282,2026-02-01 02:12:51.023696,RTM1C51,1.6,1.59,1.61,1000000.0,1000000.0
+,,,,,,282,2026-02-01 02:12:51.023696,RTM1P51,0.09,0.08,0.1,1000000.0,1000000.0
+,,,,,,282,2026-02-01 02:12:51.023696,RTM1C52,0.83,0.82,0.84,1000000.0,1000000.0
+,,,,,,282,2026-02-01 02:12:51.023696,RTM1P52,0.32,0.31,0.33,1000000.0,1000000.0
+,,,,,,282,2026-02-01 02:12:51.023696,RTM1C53,0.34,0.33,0.35,1000000.0,1000000.0
+,,,,,,282,2026-02-01 02:12:51.023696,RTM1P53,0.83,0.82,0.84,1000000.0,1000000.0
+,,,,,,282,2026-02-01 02:12:51.023696,RTM1C54,0.1,0.09,0.11,1000000.0,1000000.0
+,,,,,,282,2026-02-01 02:12:51.023696,RTM1P54,1.59,1.58,1.6,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,283,2026-02-01 02:12:52.077722,RTM,52.69,52.68,52.7,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,283,2026-02-01 02:12:52.077722,RTM1C45,7.69,7.68,7.7,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,283,2026-02-01 02:12:52.077722,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,283,2026-02-01 02:12:52.077722,RTM1C46,6.69,6.68,6.7,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,283,2026-02-01 02:12:52.077722,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,283,2026-02-01 02:12:52.077722,RTM1C47,5.69,5.68,5.7,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,283,2026-02-01 02:12:52.077722,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,283,2026-02-01 02:12:52.077722,RTM1C48,4.69,4.68,4.7,1000000.0,1000000.0
+,,,,,,283,2026-02-01 02:12:52.077722,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,283,2026-02-01 02:12:52.077722,RTM1C49,3.69,3.68,3.7,1000000.0,1000000.0
+,,,,,,283,2026-02-01 02:12:52.077722,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,283,2026-02-01 02:12:52.077722,RTM1C50,2.7,2.69,2.71,1000000.0,1000000.0
+,,,,,,283,2026-02-01 02:12:52.077722,RTM1P50,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,283,2026-02-01 02:12:52.077722,RTM1C51,1.75,1.74,1.76,1000000.0,1000000.0
+,,,,,,283,2026-02-01 02:12:52.077722,RTM1P51,0.06,0.05,0.07,1000000.0,1000000.0
+,,,,,,283,2026-02-01 02:12:52.077722,RTM1C52,0.94,0.93,0.95,1000000.0,1000000.0
+,,,,,,283,2026-02-01 02:12:52.077722,RTM1P52,0.25,0.24,0.26,1000000.0,1000000.0
+,,,,,,283,2026-02-01 02:12:52.077722,RTM1C53,0.39,0.38,0.4,1000000.0,1000000.0
+,,,,,,283,2026-02-01 02:12:52.077722,RTM1P53,0.7,0.69,0.71,1000000.0,1000000.0
+,,,,,,283,2026-02-01 02:12:52.077722,RTM1C54,0.11,0.1,0.12,1000000.0,1000000.0
+,,,,,,283,2026-02-01 02:12:52.077722,RTM1P54,1.42,1.41,1.43,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,284,2026-02-01 02:12:53.128963,RTM,52.91,52.9,52.92,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,284,2026-02-01 02:12:53.128963,RTM1C45,7.91,7.9,7.92,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,284,2026-02-01 02:12:53.128963,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,284,2026-02-01 02:12:53.128963,RTM1C46,6.91,6.9,6.92,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,284,2026-02-01 02:12:53.128963,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,284,2026-02-01 02:12:53.128963,RTM1C47,5.91,5.9,5.92,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,284,2026-02-01 02:12:53.128963,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,284,2026-02-01 02:12:53.128963,RTM1C48,4.91,4.9,4.92,1000000.0,1000000.0
+,,,,,,284,2026-02-01 02:12:53.128963,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,284,2026-02-01 02:12:53.128963,RTM1C49,3.91,3.9,3.92,1000000.0,1000000.0
+,,,,,,284,2026-02-01 02:12:53.128963,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,284,2026-02-01 02:12:53.128963,RTM1C50,2.92,2.91,2.93,1000000.0,1000000.0
+,,,,,,284,2026-02-01 02:12:53.128963,RTM1P50,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,284,2026-02-01 02:12:53.128963,RTM1C51,1.95,1.94,1.96,1000000.0,1000000.0
+,,,,,,284,2026-02-01 02:12:53.128963,RTM1P51,0.04,0.03,0.05,1000000.0,1000000.0
+,,,,,,284,2026-02-01 02:12:53.128963,RTM1C52,1.08,1.07,1.09,1000000.0,1000000.0
+,,,,,,284,2026-02-01 02:12:53.128963,RTM1P52,0.17,0.16,0.18,1000000.0,1000000.0
+,,,,,,284,2026-02-01 02:12:53.128963,RTM1C53,0.47,0.46,0.48,1000000.0,1000000.0
+,,,,,,284,2026-02-01 02:12:53.128963,RTM1P53,0.56,0.55,0.57,1000000.0,1000000.0
+,,,,,,284,2026-02-01 02:12:53.128963,RTM1C54,0.13,0.12,0.14,1000000.0,1000000.0
+,,,,,,284,2026-02-01 02:12:53.128963,RTM1P54,1.22,1.21,1.23,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,285,2026-02-01 02:12:54.177306,RTM,52.7,52.69,52.71,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,285,2026-02-01 02:12:54.177306,RTM1C45,7.7,7.69,7.71,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,285,2026-02-01 02:12:54.177306,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,285,2026-02-01 02:12:54.177306,RTM1C46,6.7,6.69,6.71,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,285,2026-02-01 02:12:54.177306,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,285,2026-02-01 02:12:54.177306,RTM1C47,5.7,5.69,5.71,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,285,2026-02-01 02:12:54.177306,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,285,2026-02-01 02:12:54.177306,RTM1C48,4.7,4.69,4.71,1000000.0,1000000.0
+,,,,,,285,2026-02-01 02:12:54.177306,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,285,2026-02-01 02:12:54.177306,RTM1C49,3.7,3.69,3.71,1000000.0,1000000.0
+,,,,,,285,2026-02-01 02:12:54.177306,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,285,2026-02-01 02:12:54.177306,RTM1C50,2.7,2.69,2.71,1000000.0,1000000.0
+,,,,,,285,2026-02-01 02:12:54.177306,RTM1P50,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,285,2026-02-01 02:12:54.177306,RTM1C51,1.73,1.72,1.74,1000000.0,1000000.0
+,,,,,,285,2026-02-01 02:12:54.177306,RTM1P51,0.04,0.03,0.05,1000000.0,1000000.0
+,,,,,,285,2026-02-01 02:12:54.177306,RTM1C52,0.91,0.9,0.92,1000000.0,1000000.0
+,,,,,,285,2026-02-01 02:12:54.177306,RTM1P52,0.22,0.21,0.23,1000000.0,1000000.0
+,,,,,,285,2026-02-01 02:12:54.177306,RTM1C53,0.35,0.34,0.36,1000000.0,1000000.0
+,,,,,,285,2026-02-01 02:12:54.177306,RTM1P53,0.66,0.65,0.67,1000000.0,1000000.0
+,,,,,,285,2026-02-01 02:12:54.177306,RTM1C54,0.1,0.09,0.11,1000000.0,1000000.0
+,,,,,,285,2026-02-01 02:12:54.177306,RTM1P54,1.41,1.4,1.42,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,286,2026-02-01 02:12:55.228828,RTM,51.98,51.97,51.99,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,286,2026-02-01 02:12:55.228828,RTM1C45,6.98,6.97,6.99,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,286,2026-02-01 02:12:55.228828,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,286,2026-02-01 02:12:55.228828,RTM1C46,5.98,5.97,5.99,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,286,2026-02-01 02:12:55.228828,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,286,2026-02-01 02:12:55.228828,RTM1C47,4.98,4.97,4.99,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,286,2026-02-01 02:12:55.228828,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,286,2026-02-01 02:12:55.228828,RTM1C48,3.98,3.97,3.99,1000000.0,1000000.0
+,,,,,,286,2026-02-01 02:12:55.228828,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,286,2026-02-01 02:12:55.228828,RTM1C49,2.98,2.97,2.99,1000000.0,1000000.0
+,,,,,,286,2026-02-01 02:12:55.228828,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,286,2026-02-01 02:12:55.228828,RTM1C50,2.01,2.0,2.02,1000000.0,1000000.0
+,,,,,,286,2026-02-01 02:12:55.228828,RTM1P50,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,286,2026-02-01 02:12:55.228828,RTM1C51,1.11,1.1,1.12,1000000.0,1000000.0
+,,,,,,286,2026-02-01 02:12:55.228828,RTM1P51,0.13,0.12,0.14,1000000.0,1000000.0
+,,,,,,286,2026-02-01 02:12:55.228828,RTM1C52,0.44,0.43,0.45,1000000.0,1000000.0
+,,,,,,286,2026-02-01 02:12:55.228828,RTM1P52,0.46,0.45,0.47,1000000.0,1000000.0
+,,,,,,286,2026-02-01 02:12:55.228828,RTM1C53,0.12,0.11,0.13,1000000.0,1000000.0
+,,,,,,286,2026-02-01 02:12:55.228828,RTM1P53,1.14,1.13,1.15,1000000.0,1000000.0
+,,,,,,286,2026-02-01 02:12:55.228828,RTM1C54,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,286,2026-02-01 02:12:55.228828,RTM1P54,2.04,2.03,2.05,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,287,2026-02-01 02:12:56.288747,RTM,51.48,51.47,51.49,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,287,2026-02-01 02:12:56.288747,RTM1C45,6.48,6.47,6.49,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,287,2026-02-01 02:12:56.288747,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,287,2026-02-01 02:12:56.288747,RTM1C46,5.48,5.47,5.49,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,287,2026-02-01 02:12:56.288747,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,287,2026-02-01 02:12:56.288747,RTM1C47,4.48,4.47,4.49,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,287,2026-02-01 02:12:56.288747,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,287,2026-02-01 02:12:56.288747,RTM1C48,3.48,3.47,3.49,1000000.0,1000000.0
+,,,,,,287,2026-02-01 02:12:56.288747,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,287,2026-02-01 02:12:56.288747,RTM1C49,2.48,2.47,2.49,1000000.0,1000000.0
+,,,,,,287,2026-02-01 02:12:56.288747,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,287,2026-02-01 02:12:56.288747,RTM1C50,1.52,1.51,1.53,1000000.0,1000000.0
+,,,,,,287,2026-02-01 02:12:56.288747,RTM1P50,0.04,0.03,0.05,1000000.0,1000000.0
+,,,,,,287,2026-02-01 02:12:56.288747,RTM1C51,0.74,0.73,0.75,1000000.0,1000000.0
+,,,,,,287,2026-02-01 02:12:56.288747,RTM1P51,0.26,0.25,0.27,1000000.0,1000000.0
+,,,,,,287,2026-02-01 02:12:56.288747,RTM1C52,0.24,0.23,0.25,1000000.0,1000000.0
+,,,,,,287,2026-02-01 02:12:56.288747,RTM1P52,0.76,0.75,0.77,1000000.0,1000000.0
+,,,,,,287,2026-02-01 02:12:56.288747,RTM1C53,0.05,0.04,0.06,1000000.0,1000000.0
+,,,,,,287,2026-02-01 02:12:56.288747,RTM1P53,1.57,1.56,1.58,1000000.0,1000000.0
+,,,,,,287,2026-02-01 02:12:56.288747,RTM1C54,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,287,2026-02-01 02:12:56.288747,RTM1P54,2.53,2.52,2.54,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,288,2026-02-01 02:12:57.350143,RTM,51.36,51.35,51.37,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,288,2026-02-01 02:12:57.350143,RTM1C45,6.36,6.35,6.37,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,288,2026-02-01 02:12:57.350143,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,288,2026-02-01 02:12:57.350143,RTM1C46,5.36,5.35,5.37,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,288,2026-02-01 02:12:57.350143,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,288,2026-02-01 02:12:57.350143,RTM1C47,4.36,4.35,4.37,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,288,2026-02-01 02:12:57.350143,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,288,2026-02-01 02:12:57.350143,RTM1C48,3.36,3.35,3.37,1000000.0,1000000.0
+,,,,,,288,2026-02-01 02:12:57.350143,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,288,2026-02-01 02:12:57.350143,RTM1C49,2.37,2.36,2.38,1000000.0,1000000.0
+,,,,,,288,2026-02-01 02:12:57.350143,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,288,2026-02-01 02:12:57.350143,RTM1C50,1.41,1.4,1.42,1000000.0,1000000.0
+,,,,,,288,2026-02-01 02:12:57.350143,RTM1P50,0.05,0.04,0.06,1000000.0,1000000.0
+,,,,,,288,2026-02-01 02:12:57.350143,RTM1C51,0.62,0.61,0.63,1000000.0,1000000.0
+,,,,,,288,2026-02-01 02:12:57.350143,RTM1P51,0.26,0.25,0.27,1000000.0,1000000.0
+,,,,,,288,2026-02-01 02:12:57.350143,RTM1C52,0.2,0.19,0.21,1000000.0,1000000.0
+,,,,,,288,2026-02-01 02:12:57.350143,RTM1P52,0.83,0.82,0.84,1000000.0,1000000.0
+,,,,,,288,2026-02-01 02:12:57.350143,RTM1C53,0.03,0.02,0.04,1000000.0,1000000.0
+,,,,,,288,2026-02-01 02:12:57.350143,RTM1P53,1.67,1.66,1.68,1000000.0,1000000.0
+,,,,,,288,2026-02-01 02:12:57.350143,RTM1C54,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,288,2026-02-01 02:12:57.350143,RTM1P54,2.64,2.63,2.65,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,289,2026-02-01 02:12:58.403935,RTM,51.18,51.17,51.19,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,289,2026-02-01 02:12:58.403935,RTM1C45,6.18,6.17,6.19,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,289,2026-02-01 02:12:58.403935,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,289,2026-02-01 02:12:58.403935,RTM1C46,5.18,5.17,5.19,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,289,2026-02-01 02:12:58.403935,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,289,2026-02-01 02:12:58.403935,RTM1C47,4.18,4.17,4.19,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,289,2026-02-01 02:12:58.403935,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,289,2026-02-01 02:12:58.403935,RTM1C48,3.18,3.17,3.19,1000000.0,1000000.0
+,,,,,,289,2026-02-01 02:12:58.403935,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,289,2026-02-01 02:12:58.403935,RTM1C49,2.18,2.17,2.19,1000000.0,1000000.0
+,,,,,,289,2026-02-01 02:12:58.403935,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,289,2026-02-01 02:12:58.403935,RTM1C50,1.24,1.23,1.25,1000000.0,1000000.0
+,,,,,,289,2026-02-01 02:12:58.403935,RTM1P50,0.07,0.06,0.08,1000000.0,1000000.0
+,,,,,,289,2026-02-01 02:12:58.403935,RTM1C51,0.48,0.47,0.49,1000000.0,1000000.0
+,,,,,,289,2026-02-01 02:12:58.403935,RTM1P51,0.31,0.3,0.32,1000000.0,1000000.0
+,,,,,,289,2026-02-01 02:12:58.403935,RTM1C52,0.12,0.11,0.13,1000000.0,1000000.0
+,,,,,,289,2026-02-01 02:12:58.403935,RTM1P52,0.95,0.94,0.96,1000000.0,1000000.0
+,,,,,,289,2026-02-01 02:12:58.403935,RTM1C53,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,289,2026-02-01 02:12:58.403935,RTM1P53,1.84,1.83,1.85,1000000.0,1000000.0
+,,,,,,289,2026-02-01 02:12:58.403935,RTM1C54,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,289,2026-02-01 02:12:58.403935,RTM1P54,2.82,2.81,2.83,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,290,2026-02-01 02:12:59.468234,RTM,51.02,51.01,51.03,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,290,2026-02-01 02:12:59.468234,RTM1C45,6.02,6.01,6.03,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,290,2026-02-01 02:12:59.468234,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,290,2026-02-01 02:12:59.468234,RTM1C46,5.02,5.01,5.03,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,290,2026-02-01 02:12:59.468234,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,290,2026-02-01 02:12:59.468234,RTM1C47,4.02,4.01,4.03,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,290,2026-02-01 02:12:59.468234,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,290,2026-02-01 02:12:59.468234,RTM1C48,3.02,3.01,3.03,1000000.0,1000000.0
+,,,,,,290,2026-02-01 02:12:59.468234,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,290,2026-02-01 02:12:59.468234,RTM1C49,2.03,2.02,2.04,1000000.0,1000000.0
+,,,,,,290,2026-02-01 02:12:59.468234,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,290,2026-02-01 02:12:59.468234,RTM1C50,1.09,1.08,1.1,1000000.0,1000000.0
+,,,,,,290,2026-02-01 02:12:59.468234,RTM1P50,0.07,0.06,0.08,1000000.0,1000000.0
+,,,,,,290,2026-02-01 02:12:59.468234,RTM1C51,0.41,0.4,0.42,1000000.0,1000000.0
+,,,,,,290,2026-02-01 02:12:59.468234,RTM1P51,0.39,0.38,0.4,1000000.0,1000000.0
+,,,,,,290,2026-02-01 02:12:59.468234,RTM1C52,0.08,0.07,0.09,1000000.0,1000000.0
+,,,,,,290,2026-02-01 02:12:59.468234,RTM1P52,1.07,1.06,1.08,1000000.0,1000000.0
+,,,,,,290,2026-02-01 02:12:59.468234,RTM1C53,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,290,2026-02-01 02:12:59.468234,RTM1P53,1.99,1.98,2.0,1000000.0,1000000.0
+,,,,,,290,2026-02-01 02:12:59.468234,RTM1C54,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,290,2026-02-01 02:12:59.468234,RTM1P54,2.98,2.97,2.99,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,292,2026-02-01 02:13:00.523747,RTM,50.69,50.68,50.7,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,292,2026-02-01 02:13:00.523747,RTM1C45,5.69,5.68,5.7,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,292,2026-02-01 02:13:00.523747,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,292,2026-02-01 02:13:00.523747,RTM1C46,4.69,4.68,4.7,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,292,2026-02-01 02:13:00.523747,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,292,2026-02-01 02:13:00.523747,RTM1C47,3.69,3.68,3.7,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,292,2026-02-01 02:13:00.523747,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,292,2026-02-01 02:13:00.523747,RTM1C48,2.69,2.68,2.7,1000000.0,1000000.0
+,,,,,,292,2026-02-01 02:13:00.523747,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,292,2026-02-01 02:13:00.523747,RTM1C49,1.69,1.68,1.7,1000000.0,1000000.0
+,,,,,,292,2026-02-01 02:13:00.523747,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,292,2026-02-01 02:13:00.523747,RTM1C50,0.79,0.78,0.8,1000000.0,1000000.0
+,,,,,,292,2026-02-01 02:13:00.523747,RTM1P50,0.1,0.09,0.11,1000000.0,1000000.0
+,,,,,,292,2026-02-01 02:13:00.523747,RTM1C51,0.21,0.2,0.22,1000000.0,1000000.0
+,,,,,,292,2026-02-01 02:13:00.523747,RTM1P51,0.53,0.52,0.54,1000000.0,1000000.0
+,,,,,,292,2026-02-01 02:13:00.523747,RTM1C52,0.03,0.02,0.04,1000000.0,1000000.0
+,,,,,,292,2026-02-01 02:13:00.523747,RTM1P52,1.34,1.33,1.35,1000000.0,1000000.0
+,,,,,,292,2026-02-01 02:13:00.523747,RTM1C53,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,292,2026-02-01 02:13:00.523747,RTM1P53,2.31,2.3,2.32,1000000.0,1000000.0
+,,,,,,292,2026-02-01 02:13:00.523747,RTM1C54,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,292,2026-02-01 02:13:00.523747,RTM1P54,3.31,3.3,3.32,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,293,2026-02-01 02:13:01.587093,RTM,50.89,50.88,50.9,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,293,2026-02-01 02:13:01.587093,RTM1C45,5.89,5.88,5.9,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,293,2026-02-01 02:13:01.587093,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,293,2026-02-01 02:13:01.587093,RTM1C46,4.89,4.88,4.9,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,293,2026-02-01 02:13:01.587093,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,293,2026-02-01 02:13:01.587093,RTM1C47,3.89,3.88,3.9,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,293,2026-02-01 02:13:01.587093,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,293,2026-02-01 02:13:01.587093,RTM1C48,2.89,2.88,2.9,1000000.0,1000000.0
+,,,,,,293,2026-02-01 02:13:01.587093,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,293,2026-02-01 02:13:01.587093,RTM1C49,1.89,1.88,1.9,1000000.0,1000000.0
+,,,,,,293,2026-02-01 02:13:01.587093,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,293,2026-02-01 02:13:01.587093,RTM1C50,0.94,0.93,0.95,1000000.0,1000000.0
+,,,,,,293,2026-02-01 02:13:01.587093,RTM1P50,0.06,0.05,0.07,1000000.0,1000000.0
+,,,,,,293,2026-02-01 02:13:01.587093,RTM1C51,0.27,0.26,0.28,1000000.0,1000000.0
+,,,,,,293,2026-02-01 02:13:01.587093,RTM1P51,0.38,0.37,0.39,1000000.0,1000000.0
+,,,,,,293,2026-02-01 02:13:01.587093,RTM1C52,0.03,0.02,0.04,1000000.0,1000000.0
+,,,,,,293,2026-02-01 02:13:01.587093,RTM1P52,1.14,1.13,1.15,1000000.0,1000000.0
+,,,,,,293,2026-02-01 02:13:01.587093,RTM1C53,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,293,2026-02-01 02:13:01.587093,RTM1P53,2.12,2.11,2.13,1000000.0,1000000.0
+,,,,,,293,2026-02-01 02:13:01.587093,RTM1C54,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,293,2026-02-01 02:13:01.587093,RTM1P54,3.11,3.1,3.12,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,294,2026-02-01 02:13:02.636674,RTM,50.35,50.34,50.36,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,294,2026-02-01 02:13:02.636674,RTM1C45,5.35,5.34,5.36,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,294,2026-02-01 02:13:02.636674,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,294,2026-02-01 02:13:02.636674,RTM1C46,4.35,4.34,4.36,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,294,2026-02-01 02:13:02.636674,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,294,2026-02-01 02:13:02.636674,RTM1C47,3.35,3.34,3.36,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,294,2026-02-01 02:13:02.636674,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,294,2026-02-01 02:13:02.636674,RTM1C48,2.35,2.34,2.36,1000000.0,1000000.0
+,,,,,,294,2026-02-01 02:13:02.636674,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,294,2026-02-01 02:13:02.636674,RTM1C49,1.36,1.35,1.37,1000000.0,1000000.0
+,,,,,,294,2026-02-01 02:13:02.636674,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,294,2026-02-01 02:13:02.636674,RTM1C50,0.51,0.5,0.52,1000000.0,1000000.0
+,,,,,,294,2026-02-01 02:13:02.636674,RTM1P50,0.16,0.15,0.17,1000000.0,1000000.0
+,,,,,,294,2026-02-01 02:13:02.636674,RTM1C51,0.08,0.07,0.09,1000000.0,1000000.0
+,,,,,,294,2026-02-01 02:13:02.636674,RTM1P51,0.73,0.72,0.74,1000000.0,1000000.0
+,,,,,,294,2026-02-01 02:13:02.636674,RTM1C52,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,294,2026-02-01 02:13:02.636674,RTM1P52,1.65,1.64,1.66,1000000.0,1000000.0
+,,,,,,294,2026-02-01 02:13:02.636674,RTM1C53,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,294,2026-02-01 02:13:02.636674,RTM1P53,2.65,2.64,2.66,1000000.0,1000000.0
+,,,,,,294,2026-02-01 02:13:02.636674,RTM1C54,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,294,2026-02-01 02:13:02.636674,RTM1P54,3.65,3.64,3.66,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,295,2026-02-01 02:13:03.687821,RTM,50.38,50.37,50.39,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,295,2026-02-01 02:13:03.687821,RTM1C45,5.38,5.37,5.39,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,295,2026-02-01 02:13:03.687821,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,295,2026-02-01 02:13:03.687821,RTM1C46,4.38,4.37,4.39,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,295,2026-02-01 02:13:03.687821,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,295,2026-02-01 02:13:03.687821,RTM1C47,3.38,3.37,3.39,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,295,2026-02-01 02:13:03.687821,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,295,2026-02-01 02:13:03.687821,RTM1C48,2.39,2.38,2.4,1000000.0,1000000.0
+,,,,,,295,2026-02-01 02:13:03.687821,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,295,2026-02-01 02:13:03.687821,RTM1C49,1.39,1.38,1.4,1000000.0,1000000.0
+,,,,,,295,2026-02-01 02:13:03.687821,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,295,2026-02-01 02:13:03.687821,RTM1C50,0.5,0.49,0.51,1000000.0,1000000.0
+,,,,,,295,2026-02-01 02:13:03.687821,RTM1P50,0.12,0.11,0.13,1000000.0,1000000.0
+,,,,,,295,2026-02-01 02:13:03.687821,RTM1C51,0.07,0.06,0.08,1000000.0,1000000.0
+,,,,,,295,2026-02-01 02:13:03.687821,RTM1P51,0.69,0.68,0.7,1000000.0,1000000.0
+,,,,,,295,2026-02-01 02:13:03.687821,RTM1C52,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,295,2026-02-01 02:13:03.687821,RTM1P52,1.62,1.61,1.63,1000000.0,1000000.0
+,,,,,,295,2026-02-01 02:13:03.687821,RTM1C53,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,295,2026-02-01 02:13:03.687821,RTM1P53,2.62,2.61,2.63,1000000.0,1000000.0
+,,,,,,295,2026-02-01 02:13:03.687821,RTM1C54,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,295,2026-02-01 02:13:03.687821,RTM1P54,3.62,3.61,3.63,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,296,2026-02-01 02:13:04.741164,RTM,50.35,50.34,50.36,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,296,2026-02-01 02:13:04.741164,RTM1C45,5.35,5.34,5.36,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,296,2026-02-01 02:13:04.741164,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,296,2026-02-01 02:13:04.741164,RTM1C46,4.35,4.34,4.36,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,296,2026-02-01 02:13:04.741164,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,296,2026-02-01 02:13:04.741164,RTM1C47,3.35,3.34,3.36,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,296,2026-02-01 02:13:04.741164,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,296,2026-02-01 02:13:04.741164,RTM1C48,2.35,2.34,2.36,1000000.0,1000000.0
+,,,,,,296,2026-02-01 02:13:04.741164,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,296,2026-02-01 02:13:04.741164,RTM1C49,1.35,1.34,1.36,1000000.0,1000000.0
+,,,,,,296,2026-02-01 02:13:04.741164,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,296,2026-02-01 02:13:04.741164,RTM1C50,0.46,0.45,0.47,1000000.0,1000000.0
+,,,,,,296,2026-02-01 02:13:04.741164,RTM1P50,0.11,0.1,0.12,1000000.0,1000000.0
+,,,,,,296,2026-02-01 02:13:04.741164,RTM1C51,0.04,0.03,0.05,1000000.0,1000000.0
+,,,,,,296,2026-02-01 02:13:04.741164,RTM1P51,0.69,0.68,0.7,1000000.0,1000000.0
+,,,,,,296,2026-02-01 02:13:04.741164,RTM1C52,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,296,2026-02-01 02:13:04.741164,RTM1P52,1.65,1.64,1.66,1000000.0,1000000.0
+,,,,,,296,2026-02-01 02:13:04.741164,RTM1C53,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,296,2026-02-01 02:13:04.741164,RTM1P53,2.65,2.64,2.66,1000000.0,1000000.0
+,,,,,,296,2026-02-01 02:13:04.741164,RTM1C54,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,296,2026-02-01 02:13:04.741164,RTM1P54,3.65,3.64,3.66,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,297,2026-02-01 02:13:05.783784,RTM,50.18,50.17,50.19,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,297,2026-02-01 02:13:05.783784,RTM1C45,5.18,5.17,5.19,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,297,2026-02-01 02:13:05.783784,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,297,2026-02-01 02:13:05.783784,RTM1C46,4.18,4.17,4.19,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,297,2026-02-01 02:13:05.783784,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,297,2026-02-01 02:13:05.783784,RTM1C47,3.18,3.17,3.19,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,297,2026-02-01 02:13:05.783784,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,297,2026-02-01 02:13:05.783784,RTM1C48,2.18,2.17,2.19,1000000.0,1000000.0
+,,,,,,297,2026-02-01 02:13:05.783784,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,297,2026-02-01 02:13:05.783784,RTM1C49,1.18,1.17,1.19,1000000.0,1000000.0
+,,,,,,297,2026-02-01 02:13:05.783784,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,297,2026-02-01 02:13:05.783784,RTM1C50,0.31,0.3,0.32,1000000.0,1000000.0
+,,,,,,297,2026-02-01 02:13:05.783784,RTM1P50,0.13,0.12,0.14,1000000.0,1000000.0
+,,,,,,297,2026-02-01 02:13:05.783784,RTM1C51,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,297,2026-02-01 02:13:05.783784,RTM1P51,0.83,0.82,0.84,1000000.0,1000000.0
+,,,,,,297,2026-02-01 02:13:05.783784,RTM1C52,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,297,2026-02-01 02:13:05.783784,RTM1P52,1.82,1.81,1.83,1000000.0,1000000.0
+,,,,,,297,2026-02-01 02:13:05.783784,RTM1C53,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,297,2026-02-01 02:13:05.783784,RTM1P53,2.82,2.81,2.83,1000000.0,1000000.0
+,,,,,,297,2026-02-01 02:13:05.783784,RTM1C54,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,297,2026-02-01 02:13:05.783784,RTM1P54,3.82,3.81,3.83,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,298,2026-02-01 02:13:06.829321,RTM,50.12,50.11,50.13,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,298,2026-02-01 02:13:06.829321,RTM1C45,5.12,5.11,5.13,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,298,2026-02-01 02:13:06.829321,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,298,2026-02-01 02:13:06.829321,RTM1C46,4.12,4.11,4.13,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,298,2026-02-01 02:13:06.829321,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,298,2026-02-01 02:13:06.829321,RTM1C47,3.12,3.11,3.13,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,298,2026-02-01 02:13:06.829321,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,298,2026-02-01 02:13:06.829321,RTM1C48,2.12,2.11,2.13,1000000.0,1000000.0
+,,,,,,298,2026-02-01 02:13:06.829321,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,298,2026-02-01 02:13:06.829321,RTM1C49,1.12,1.11,1.13,1000000.0,1000000.0
+,,,,,,298,2026-02-01 02:13:06.829321,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,298,2026-02-01 02:13:06.829321,RTM1C50,0.24,0.23,0.25,1000000.0,1000000.0
+,,,,,,298,2026-02-01 02:13:06.829321,RTM1P50,0.12,0.11,0.13,1000000.0,1000000.0
+,,,,,,298,2026-02-01 02:13:06.829321,RTM1C51,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,298,2026-02-01 02:13:06.829321,RTM1P51,0.88,0.87,0.89,1000000.0,1000000.0
+,,,,,,298,2026-02-01 02:13:06.829321,RTM1C52,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,298,2026-02-01 02:13:06.829321,RTM1P52,1.88,1.87,1.89,1000000.0,1000000.0
+,,,,,,298,2026-02-01 02:13:06.829321,RTM1C53,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,298,2026-02-01 02:13:06.829321,RTM1P53,2.88,2.87,2.89,1000000.0,1000000.0
+,,,,,,298,2026-02-01 02:13:06.829321,RTM1C54,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,298,2026-02-01 02:13:06.829321,RTM1P54,3.88,3.87,3.89,1000000.0,1000000.0
+8.0,1.0,224.0,Week 4,Announcement 3,The analysts have informed you that the realized volatility of RTM this week will be 36%,299,2026-02-01 02:13:07.878803,RTM,49.98,49.97,49.99,100000000.0,100000000.0
+7.0,1.0,187.0,,News 3,The analysts have informed you that the realized volatility of RTM next week will be between 33% and 38%,299,2026-02-01 02:13:07.878803,RTM1C45,4.98,4.97,4.99,1000000.0,1000000.0
+6.0,1.0,150.0,Week 3,Announcement 2,The analysts have informed you that the realized volatility of RTM this week will be 22%,299,2026-02-01 02:13:07.878803,RTM1P45,0.02,0.01,0.03,1000000.0,1000000.0
+5.0,1.0,112.0,,News 2,The analysts have informed you that the realized volatility of RTM next week will be between 18% and 23%,299,2026-02-01 02:13:07.878803,RTM1C46,3.98,3.97,3.99,1000000.0,1000000.0
+4.0,1.0,75.0,Week 2,Announcement 1,The analysts have informed you that the realized volatility of RTM this week will be 16%,299,2026-02-01 02:13:07.878803,RTM1P46,0.02,0.01,0.03,1000000.0,1000000.0
+3.0,1.0,36.0,,News 1,The analysts have informed you that the realized volatility of RTM next week will be between 14% and 19%,299,2026-02-01 02:13:07.878803,RTM1C47,2.98,2.97,2.99,1000000.0,1000000.0
+2.0,1.0,1.0,Week 1,Delta limit and penalty,The delta limit for this sub-heat is 11000 and the penalty percentage is 3%,299,2026-02-01 02:13:07.878803,RTM1P47,0.02,0.01,0.03,1000000.0,1000000.0
+1.0,1.0,1.0,Week 1,Risk free rate and current annualized volatility of RTM,The current risk free rate is 0%. RTM is an ETF that mimics one of the major indices in the simulated world and its current annualized realized volatility is 19%. This simulation consists of 20 trading days that are each 15 ticks in length.,299,2026-02-01 02:13:07.878803,RTM1C48,1.98,1.97,1.99,1000000.0,1000000.0
+,,,,,,299,2026-02-01 02:13:07.878803,RTM1P48,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,299,2026-02-01 02:13:07.878803,RTM1C49,0.98,0.97,0.99,1000000.0,1000000.0
+,,,,,,299,2026-02-01 02:13:07.878803,RTM1P49,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,299,2026-02-01 02:13:07.878803,RTM1C50,0.11,0.1,0.12,1000000.0,1000000.0
+,,,,,,299,2026-02-01 02:13:07.878803,RTM1P50,0.13,0.12,0.14,1000000.0,1000000.0
+,,,,,,299,2026-02-01 02:13:07.878803,RTM1C51,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,299,2026-02-01 02:13:07.878803,RTM1P51,1.02,1.01,1.03,1000000.0,1000000.0
+,,,,,,299,2026-02-01 02:13:07.878803,RTM1C52,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,299,2026-02-01 02:13:07.878803,RTM1P52,2.02,2.01,2.03,1000000.0,1000000.0
+,,,,,,299,2026-02-01 02:13:07.878803,RTM1C53,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,299,2026-02-01 02:13:07.878803,RTM1P53,3.02,3.01,3.03,1000000.0,1000000.0
+,,,,,,299,2026-02-01 02:13:07.878803,RTM1C54,0.02,0.01,0.03,1000000.0,1000000.0
+,,,,,,299,2026-02-01 02:13:07.878803,RTM1P54,4.02,4.01,4.03,1000000.0,1000000.0

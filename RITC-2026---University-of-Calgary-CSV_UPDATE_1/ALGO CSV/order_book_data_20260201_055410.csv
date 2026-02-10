@@ -1,0 +1,1157 @@
+news_id,period,tick,ticker,headline,body,tick,timestamp,ticker,last_price,bid_price,ask_price,BUY_ANON,SELL_ANON,SELL_COLA-6,BUY_COLA-6
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,2,2026-02-01 05:54:10.676112,SPNG,24.79,24.79,24.89,1912800.0,2150000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,2,2026-02-01 05:54:10.676112,SMMR,25.13,24.96,25.01,1995800.0,2081900.0,0,0
+,,,,,,2,2026-02-01 05:54:10.676112,ATMN,24.85,24.85,25.17,2123600.0,2041200.0,0,0
+,,,,,,2,2026-02-01 05:54:10.676112,WNTR,25.06,24.99,25.05,2236000.0,2250700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,3,2026-02-01 05:54:11.717861,SPNG,24.89,25.1,25.32,2171200.0,2032900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,3,2026-02-01 05:54:11.717861,SMMR,24.96,24.96,25.01,2150500.0,2081900.0,0,0
+,,,,,,3,2026-02-01 05:54:11.717861,ATMN,25.25,24.85,25.25,2123600.0,1949800.0,0,0
+,,,,,,3,2026-02-01 05:54:11.717861,WNTR,24.97,24.97,25.05,2282800.0,2250700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,4,2026-02-01 05:54:12.748306,SPNG,24.79,24.79,25.32,2119800.0,2125200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,4,2026-02-01 05:54:12.748306,SMMR,25.11,24.96,25.11,2132900.0,2106400.0,0,0
+,,,,,,4,2026-02-01 05:54:12.748306,ATMN,25.25,25.0,25.08,2081700.0,2045600.0,0,0
+,,,,,,4,2026-02-01 05:54:12.748306,WNTR,25.0,25.01,25.05,2328500.0,2250700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,5,2026-02-01 05:54:13.773366,SPNG,24.58,24.7,24.86,2100300.0,2112800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,5,2026-02-01 05:54:13.773366,SMMR,25.11,24.96,25.11,2136400.0,2082600.0,0,0
+,,,,,,5,2026-02-01 05:54:13.773366,ATMN,25.65,25.0,25.65,2081700.0,1845600.0,0,0
+,,,,,,5,2026-02-01 05:54:13.773366,WNTR,24.96,24.96,24.99,2281500.0,2247600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,6,2026-02-01 05:54:14.809241,SPNG,24.86,24.7,24.86,2140100.0,2112800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,6,2026-02-01 05:54:14.809241,SMMR,25.2,25.04,25.2,2133200.0,2070800.0,0,0
+,,,,,,6,2026-02-01 05:54:14.809241,ATMN,25.0,24.85,24.94,2103600.0,1936900.0,0,0
+,,,,,,6,2026-02-01 05:54:14.809241,WNTR,24.91,24.91,24.99,2291400.0,2242100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,7,2026-02-01 05:54:15.845765,SPNG,24.86,25.02,25.32,2116500.0,2076100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,7,2026-02-01 05:54:15.845765,SMMR,25.06,25.18,25.2,2163000.0,2070800.0,0,0
+,,,,,,7,2026-02-01 05:54:15.845765,ATMN,24.94,24.85,24.94,2102800.0,1936900.0,0,0
+,,,,,,7,2026-02-01 05:54:15.845765,WNTR,24.88,24.88,24.91,2300700.0,2241400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,8,2026-02-01 05:54:16.873499,SPNG,24.7,24.7,25.18,2140100.0,2082300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,8,2026-02-01 05:54:16.873499,SMMR,25.06,25.18,25.19,2163000.0,2052700.0,0,0
+,,,,,,8,2026-02-01 05:54:16.873499,ATMN,25.14,24.92,25.02,2110400.0,1943100.0,0,0
+,,,,,,8,2026-02-01 05:54:16.873499,WNTR,24.88,24.88,25.02,2300700.0,2257000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,10,2026-02-01 05:54:17.913435,SPNG,24.7,25.03,25.18,2093600.0,2064300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,10,2026-02-01 05:54:17.913435,SMMR,25.18,25.18,25.19,2163000.0,2054200.0,0,0
+,,,,,,10,2026-02-01 05:54:17.913435,ATMN,25.02,25.03,25.31,2102800.0,2066600.0,0,0
+,,,,,,10,2026-02-01 05:54:17.913435,WNTR,24.84,24.84,24.98,2175600.0,2234800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,11,2026-02-01 05:54:19.032079,SPNG,25.18,24.7,25.18,2107500.0,2064300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,11,2026-02-01 05:54:19.032079,SMMR,25.05,25.16,25.19,2169700.0,2051800.0,0,0
+,,,,,,11,2026-02-01 05:54:19.032079,ATMN,25.22,25.03,25.14,2102800.0,2082800.0,0,0
+,,,,,,11,2026-02-01 05:54:19.032079,WNTR,25.02,24.84,25.02,2295500.0,2247700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,12,2026-02-01 05:54:20.065388,SPNG,25.18,25.29,25.32,2101900.0,2073500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,12,2026-02-01 05:54:20.065388,SMMR,25.16,24.96,25.1,2136900.0,2114900.0,0,0
+,,,,,,12,2026-02-01 05:54:20.065388,ATMN,25.03,25.03,25.14,2073200.0,2076800.0,0,0
+,,,,,,12,2026-02-01 05:54:20.065388,WNTR,25.02,24.84,24.87,2287000.0,2263000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,13,2026-02-01 05:54:21.094363,SPNG,25.29,24.7,24.95,2117000.0,2082200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,13,2026-02-01 05:54:21.094363,SMMR,25.19,24.95,25.19,2104000.0,2086600.0,0,0
+,,,,,,13,2026-02-01 05:54:21.094363,ATMN,25.03,24.97,25.02,2084800.0,2078000.0,0,0
+,,,,,,13,2026-02-01 05:54:21.094363,WNTR,24.8,24.8,24.87,2304800.0,2263000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,14,2026-02-01 05:54:22.127922,SPNG,25.29,24.87,24.95,2156600.0,2082200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,14,2026-02-01 05:54:22.127922,SMMR,24.92,24.92,25.03,2130700.0,2105100.0,0,0
+,,,,,,14,2026-02-01 05:54:22.127922,ATMN,25.31,24.92,25.31,2096000.0,2070500.0,0,0
+,,,,,,14,2026-02-01 05:54:22.127922,WNTR,25.05,24.98,25.05,2303900.0,2222300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,15,2026-02-01 05:54:23.157198,SPNG,25.29,24.91,24.95,2151900.0,2082200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,15,2026-02-01 05:54:23.157198,SMMR,25.03,25.04,25.09,2127500.0,2090600.0,0,0
+,,,,,,15,2026-02-01 05:54:23.157198,ATMN,24.85,24.85,25.31,2101500.0,2087600.0,0,0
+,,,,,,15,2026-02-01 05:54:23.157198,WNTR,25.05,24.8,25.05,2304800.0,2222300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,16,2026-02-01 05:54:24.181753,SPNG,24.87,24.87,25.32,2169200.0,2045300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,16,2026-02-01 05:54:24.181753,SMMR,24.9,24.94,25.09,2137900.0,2090600.0,0,0
+,,,,,,16,2026-02-01 05:54:24.181753,ATMN,25.31,25.13,25.31,2099600.0,2096200.0,0,0
+,,,,,,16,2026-02-01 05:54:24.181753,WNTR,24.73,24.73,24.79,2336600.0,2243300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,17,2026-02-01 05:54:25.201583,SPNG,24.87,24.87,25.18,2170700.0,2026600.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,17,2026-02-01 05:54:25.201583,SMMR,24.9,24.94,25.09,2137900.0,2115400.0,0,0
+,,,,,,17,2026-02-01 05:54:25.201583,ATMN,25.13,25.13,25.31,2099600.0,2094600.0,0,0
+,,,,,,17,2026-02-01 05:54:25.201583,WNTR,24.79,24.89,24.9,2302000.0,2222700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,18,2026-02-01 05:54:26.231899,SPNG,25.18,24.7,25.18,2168700.0,2026600.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,18,2026-02-01 05:54:26.231899,SMMR,24.94,24.94,25.09,2137900.0,2134400.0,0,0
+,,,,,,18,2026-02-01 05:54:26.231899,ATMN,24.83,24.9,25.31,2081000.0,2066900.0,0,0
+,,,,,,18,2026-02-01 05:54:26.231899,WNTR,24.89,24.73,24.83,2357600.0,2208000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,19,2026-02-01 05:54:27.254594,SPNG,24.58,24.89,25.18,2176100.0,2026600.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,19,2026-02-01 05:54:27.254594,SMMR,24.85,24.8,24.83,1708300.0,2123800.0,0,0
+,,,,,,19,2026-02-01 05:54:27.254594,ATMN,24.83,24.83,25.31,2095900.0,2030900.0,0,0
+,,,,,,19,2026-02-01 05:54:27.254594,WNTR,24.77,24.73,24.77,2312200.0,2240400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,20,2026-02-01 05:54:28.285779,SPNG,25.19,24.89,25.08,2176100.0,2023200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,20,2026-02-01 05:54:28.285779,SMMR,24.83,24.8,24.83,1708300.0,2152700.0,0,0
+,,,,,,20,2026-02-01 05:54:28.285779,ATMN,24.87,24.83,24.87,2095900.0,2038100.0,0,0
+,,,,,,20,2026-02-01 05:54:28.285779,WNTR,24.77,24.73,24.77,2325200.0,2240400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,21,2026-02-01 05:54:29.305491,SPNG,25.19,24.89,25.08,2194300.0,2033000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,21,2026-02-01 05:54:29.305491,SMMR,24.83,24.8,24.83,2174800.0,2152700.0,0,0
+,,,,,,21,2026-02-01 05:54:29.305491,ATMN,25.07,24.83,25.05,2082600.0,2031300.0,0,0
+,,,,,,21,2026-02-01 05:54:29.305491,WNTR,24.9,24.96,25.05,2347100.0,2222300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,22,2026-02-01 05:54:30.341897,SPNG,25.08,25.17,25.19,2166300.0,2047800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,22,2026-02-01 05:54:30.341897,SMMR,25.09,25.01,25.05,2196800.0,2121900.0,0,0
+,,,,,,22,2026-02-01 05:54:30.341897,ATMN,25.33,25.11,25.33,2045600.0,2036000.0,0,0
+,,,,,,22,2026-02-01 05:54:30.341897,WNTR,24.94,24.94,25.0,2372100.0,2237700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,23,2026-02-01 05:54:31.377593,SPNG,24.99,24.99,25.19,2167400.0,2020000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,23,2026-02-01 05:54:31.377593,SMMR,25.01,24.8,24.82,2190000.0,2110200.0,0,0
+,,,,,,23,2026-02-01 05:54:31.377593,ATMN,25.11,24.83,25.1,2050500.0,1994900.0,0,0
+,,,,,,23,2026-02-01 05:54:31.377593,WNTR,24.94,24.84,24.86,2379900.0,2207500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,24,2026-02-01 05:54:32.409718,SPNG,24.61,24.61,25.08,2191800.0,2015100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,24,2026-02-01 05:54:32.409718,SMMR,24.89,24.89,25.09,2151800.0,2137500.0,0,0
+,,,,,,24,2026-02-01 05:54:32.409718,ATMN,24.77,24.98,25.33,2042700.0,1997100.0,0,0
+,,,,,,24,2026-02-01 05:54:32.409718,WNTR,24.96,24.79,24.96,2377400.0,2198600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,25,2026-02-01 05:54:33.445019,SPNG,25.01,25.01,25.08,2188900.0,2019000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,25,2026-02-01 05:54:33.445019,SMMR,24.89,24.89,24.9,2116600.0,2138500.0,0,0
+,,,,,,25,2026-02-01 05:54:33.445019,ATMN,24.77,24.98,25.03,2051800.0,2028100.0,0,0
+,,,,,,25,2026-02-01 05:54:33.445019,WNTR,24.96,24.79,24.96,2371300.0,2213600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,26,2026-02-01 05:54:34.490415,SPNG,24.7,24.92,25.08,2165000.0,2028700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,26,2026-02-01 05:54:34.490415,SMMR,24.89,24.8,24.88,2160300.0,2156200.0,0,0
+,,,,,,26,2026-02-01 05:54:34.490415,ATMN,25.03,24.98,25.03,2038400.0,2028100.0,0,0
+,,,,,,26,2026-02-01 05:54:34.490415,WNTR,24.85,24.79,24.85,2371300.0,2264100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,27,2026-02-01 05:54:35.519084,SPNG,25.08,24.61,25.08,2154400.0,2037600.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,27,2026-02-01 05:54:35.519084,SMMR,24.94,24.88,24.94,2138000.0,2137100.0,0,0
+,,,,,,27,2026-02-01 05:54:35.519084,ATMN,25.03,25.2,25.33,2030700.0,2011800.0,0,0
+,,,,,,27,2026-02-01 05:54:35.519084,WNTR,24.96,24.79,24.96,2371300.0,2222100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,28,2026-02-01 05:54:36.554518,SPNG,25.08,24.76,25.08,2168200.0,2030100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,28,2026-02-01 05:54:36.554518,SMMR,24.94,24.99,25.09,2158400.0,2132200.0,0,0
+,,,,,,28,2026-02-01 05:54:36.554518,ATMN,25.03,25.2,25.28,2057300.0,2024600.0,0,0
+,,,,,,28,2026-02-01 05:54:36.554518,WNTR,25.0,24.79,25.0,2371300.0,2230200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,29,2026-02-01 05:54:37.596090,SPNG,25.16,24.91,25.16,2147500.0,2026300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,29,2026-02-01 05:54:37.596090,SMMR,24.88,24.96,24.99,2151900.0,2124000.0,0,0
+,,,,,,29,2026-02-01 05:54:37.596090,ATMN,25.16,25.2,25.28,2043700.0,2024600.0,0,0
+,,,,,,29,2026-02-01 05:54:37.596090,WNTR,24.79,24.73,24.79,2341900.0,2225600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,30,2026-02-01 05:54:38.654500,SPNG,25.16,24.91,24.95,2137600.0,2047200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,30,2026-02-01 05:54:38.654500,SMMR,25.09,24.97,25.09,2182500.0,2132200.0,0,0
+,,,,,,30,2026-02-01 05:54:38.654500,ATMN,24.93,24.93,25.2,2049400.0,2043500.0,0,0
+,,,,,,30,2026-02-01 05:54:38.654500,WNTR,24.8,24.8,25.01,2374300.0,2248400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,31,2026-02-01 05:54:39.703288,SPNG,25.17,24.76,25.17,2143400.0,2011100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,31,2026-02-01 05:54:39.703288,SMMR,24.96,24.96,25.09,2151900.0,2135500.0,0,0
+,,,,,,31,2026-02-01 05:54:39.703288,ATMN,25.28,25.05,25.28,2036100.0,2024600.0,0,0
+,,,,,,31,2026-02-01 05:54:39.703288,WNTR,24.73,24.73,24.75,2341900.0,2250700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,32,2026-02-01 05:54:40.753226,SPNG,25.19,24.82,25.19,2131600.0,2016000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,32,2026-02-01 05:54:40.753226,SMMR,24.96,24.98,25.09,2174300.0,2094400.0,0,0
+,,,,,,32,2026-02-01 05:54:40.753226,ATMN,25.28,25.05,25.28,2051300.0,2033000.0,0,0
+,,,,,,32,2026-02-01 05:54:40.753226,WNTR,24.73,24.73,24.75,2404300.0,2250700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,33,2026-02-01 05:54:41.789978,SPNG,25.19,24.88,25.19,2111000.0,1993400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,33,2026-02-01 05:54:41.789978,SMMR,25.09,24.98,25.04,2201400.0,2076900.0,0,0
+,,,,,,33,2026-02-01 05:54:41.789978,ATMN,25.28,25.08,25.28,2048200.0,2033000.0,0,0
+,,,,,,33,2026-02-01 05:54:41.789978,WNTR,24.75,24.73,24.75,2404300.0,2250700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,34,2026-02-01 05:54:42.828134,SPNG,25.19,24.88,24.97,2111000.0,1962600.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,34,2026-02-01 05:54:42.828134,SMMR,24.95,24.95,25.04,2157900.0,2076900.0,0,0
+,,,,,,34,2026-02-01 05:54:42.828134,ATMN,25.34,25.08,25.34,2048200.0,2053500.0,0,0
+,,,,,,34,2026-02-01 05:54:42.828134,WNTR,24.9,24.79,24.9,2368800.0,2283900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,35,2026-02-01 05:54:43.850657,SPNG,25.19,24.88,24.97,2114100.0,1955400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,35,2026-02-01 05:54:43.850657,SMMR,25.14,24.95,25.14,2158100.0,2123300.0,0,0
+,,,,,,35,2026-02-01 05:54:43.850657,ATMN,25.1,25.23,25.34,2042000.0,2048400.0,0,0
+,,,,,,35,2026-02-01 05:54:43.850657,WNTR,24.9,24.79,24.9,2354600.0,2284300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,36,2026-02-01 05:54:44.902660,SPNG,25.04,24.97,25.04,2137900.0,1957000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,36,2026-02-01 05:54:44.902660,SMMR,25.14,24.95,25.12,2177300.0,2087100.0,0,0
+,,,,,,36,2026-02-01 05:54:44.902660,ATMN,25.08,25.08,25.34,2040900.0,2025900.0,0,0
+,,,,,,36,2026-02-01 05:54:44.902660,WNTR,24.73,24.73,24.76,2382500.0,2253700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,37,2026-02-01 05:54:45.942916,SPNG,25.04,24.97,25.04,2137900.0,1976900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,37,2026-02-01 05:54:45.942916,SMMR,25.12,24.95,25.12,2177300.0,2087100.0,0,0
+,,,,,,37,2026-02-01 05:54:45.942916,ATMN,25.39,25.08,25.39,2058500.0,2035300.0,0,0
+,,,,,,37,2026-02-01 05:54:45.942916,WNTR,24.72,24.72,24.79,2402600.0,2234000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,38,2026-02-01 05:54:46.970691,SPNG,25.04,24.97,25.04,2137900.0,2004800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,38,2026-02-01 05:54:46.970691,SMMR,24.88,24.88,25.12,2179200.0,2087100.0,0,0
+,,,,,,38,2026-02-01 05:54:46.970691,ATMN,25.13,25.32,25.39,2056400.0,2035300.0,0,0
+,,,,,,38,2026-02-01 05:54:46.970691,WNTR,24.69,24.69,24.85,2389200.0,2248200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,39,2026-02-01 05:54:48.006526,SPNG,24.82,24.82,25.12,2123200.0,1997400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,39,2026-02-01 05:54:48.006526,SMMR,25.14,25.11,25.14,2183300.0,2111200.0,0,0
+,,,,,,39,2026-02-01 05:54:48.006526,ATMN,24.93,24.93,25.39,2077900.0,2035300.0,0,0
+,,,,,,39,2026-02-01 05:54:48.006526,WNTR,24.69,24.78,24.83,2386200.0,2249800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,40,2026-02-01 05:54:49.044919,SPNG,24.68,24.68,25.12,2164100.0,1997700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,40,2026-02-01 05:54:49.044919,SMMR,25.11,24.84,25.07,2187700.0,2113400.0,0,0
+,,,,,,40,2026-02-01 05:54:49.044919,ATMN,24.93,24.93,25.39,2106300.0,2035300.0,0,0
+,,,,,,40,2026-02-01 05:54:49.044919,WNTR,24.64,24.64,24.83,2353900.0,2249800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,42,2026-02-01 05:54:50.088469,SPNG,25.16,24.68,25.0,2164100.0,2022700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,42,2026-02-01 05:54:50.088469,SMMR,25.19,25.13,25.19,2190400.0,2108900.0,0,0
+,,,,,,42,2026-02-01 05:54:50.088469,ATMN,25.39,25.11,25.39,2127400.0,2028600.0,0,0
+,,,,,,42,2026-02-01 05:54:50.088469,WNTR,24.9,24.64,24.87,2355900.0,2267400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,43,2026-02-01 05:54:51.176873,SPNG,25.0,24.84,25.0,2164900.0,2022700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,43,2026-02-01 05:54:51.176873,SMMR,25.13,24.84,24.99,2195300.0,2083400.0,0,0
+,,,,,,43,2026-02-01 05:54:51.176873,ATMN,25.4,25.11,25.4,2127400.0,1995100.0,0,0
+,,,,,,43,2026-02-01 05:54:51.176873,WNTR,24.77,24.73,24.77,2348800.0,2246500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,44,2026-02-01 05:54:52.214191,SPNG,25.21,24.84,25.21,2164900.0,1975600.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,44,2026-02-01 05:54:52.214191,SMMR,24.84,24.84,25.19,2195300.0,2108900.0,0,0
+,,,,,,44,2026-02-01 05:54:52.214191,ATMN,25.03,25.03,25.48,2140100.0,1995500.0,0,0
+,,,,,,44,2026-02-01 05:54:52.214191,WNTR,24.73,24.73,24.87,2348800.0,2267400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,45,2026-02-01 05:54:53.246817,SPNG,25.25,24.68,25.25,2169000.0,1962100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,45,2026-02-01 05:54:53.246817,SMMR,25.2,25.1,25.2,2172700.0,2116700.0,0,0
+,,,,,,45,2026-02-01 05:54:53.246817,ATMN,25.05,25.03,25.05,2115800.0,1989600.0,0,0
+,,,,,,45,2026-02-01 05:54:53.246817,WNTR,24.73,24.73,24.77,2375200.0,2302200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,46,2026-02-01 05:54:54.281311,SPNG,24.63,24.63,25.09,2188600.0,1949100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,46,2026-02-01 05:54:54.281311,SMMR,25.1,25.1,25.21,2172700.0,2135300.0,0,0
+,,,,,,46,2026-02-01 05:54:54.281311,ATMN,25.05,25.22,25.48,2095500.0,1995500.0,0,0
+,,,,,,46,2026-02-01 05:54:54.281311,WNTR,24.73,24.73,24.77,2378800.0,2315200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,47,2026-02-01 05:54:55.320159,SPNG,24.63,24.63,25.09,2188600.0,1949100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,47,2026-02-01 05:54:55.320159,SMMR,25.21,24.84,25.21,2172600.0,2123500.0,0,0
+,,,,,,47,2026-02-01 05:54:55.320159,ATMN,24.9,24.9,25.13,2079900.0,2009100.0,0,0
+,,,,,,47,2026-02-01 05:54:55.320159,WNTR,24.72,24.72,24.9,2379700.0,2279300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,48,2026-02-01 05:54:56.353950,SPNG,24.63,24.96,24.97,2192100.0,1984700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,48,2026-02-01 05:54:56.353950,SMMR,24.84,25.11,25.21,2173700.0,2123500.0,0,0
+,,,,,,48,2026-02-01 05:54:56.353950,ATMN,25.2,24.9,24.99,2105100.0,2014300.0,0,0
+,,,,,,48,2026-02-01 05:54:56.353950,WNTR,24.65,24.65,24.9,2354100.0,2279300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,49,2026-02-01 05:54:57.385075,SPNG,24.96,24.96,24.97,2211100.0,1984700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,49,2026-02-01 05:54:57.385075,SMMR,25.21,25.11,25.21,2173700.0,2125500.0,0,0
+,,,,,,49,2026-02-01 05:54:57.385075,ATMN,25.19,25.19,25.32,2112200.0,1988200.0,0,0
+,,,,,,49,2026-02-01 05:54:57.385075,WNTR,24.91,24.7,24.91,2367000.0,2270400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,50,2026-02-01 05:54:58.430431,SPNG,24.96,24.82,24.94,2219900.0,1951400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,50,2026-02-01 05:54:58.430431,SMMR,25.21,25.11,25.21,2167300.0,2104300.0,0,0
+,,,,,,50,2026-02-01 05:54:58.430431,ATMN,25.08,24.98,25.02,2140000.0,1949600.0,0,0
+,,,,,,50,2026-02-01 05:54:58.430431,WNTR,24.62,24.62,24.65,2408100.0,2282200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,51,2026-02-01 05:54:59.453006,SPNG,24.82,24.82,24.94,2230400.0,1951400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,51,2026-02-01 05:54:59.453006,SMMR,25.22,25.18,25.22,2144600.0,2128600.0,0,0
+,,,,,,51,2026-02-01 05:54:59.453006,ATMN,25.32,25.01,25.32,2120200.0,1983900.0,0,0
+,,,,,,51,2026-02-01 05:54:59.453006,WNTR,24.92,24.92,24.93,2411100.0,2306300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,52,2026-02-01 05:55:00.483718,SPNG,24.67,24.67,25.09,2225600.0,1956200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,52,2026-02-01 05:55:00.483718,SMMR,25.18,25.11,25.13,2143900.0,2139300.0,0,0
+,,,,,,52,2026-02-01 05:55:00.483718,ATMN,25.32,25.05,25.19,2095800.0,1979500.0,0,0
+,,,,,,52,2026-02-01 05:55:00.483718,WNTR,24.92,24.92,24.93,2411100.0,2332400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,53,2026-02-01 05:55:01.530699,SPNG,24.63,24.63,24.85,2223200.0,1945400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,53,2026-02-01 05:55:01.530699,SMMR,25.12,25.11,25.12,2143900.0,2142400.0,0,0
+,,,,,,53,2026-02-01 05:55:01.530699,ATMN,25.01,25.06,25.19,2101000.0,1979500.0,0,0
+,,,,,,53,2026-02-01 05:55:01.530699,WNTR,24.92,24.7,24.73,2425100.0,2351700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,54,2026-02-01 05:55:02.560485,SPNG,24.85,24.75,24.85,2226200.0,1945400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,54,2026-02-01 05:55:02.560485,SMMR,25.21,25.04,25.18,2153000.0,2114200.0,0,0
+,,,,,,54,2026-02-01 05:55:02.560485,ATMN,25.31,25.06,25.31,2125500.0,1966400.0,0,0
+,,,,,,54,2026-02-01 05:55:02.560485,WNTR,24.73,24.79,24.93,2450200.0,2332400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,55,2026-02-01 05:55:03.593836,SPNG,25.3,24.98,25.08,2225600.0,1947000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,55,2026-02-01 05:55:03.593836,SMMR,25.21,25.09,25.13,2159100.0,2092000.0,0,0
+,,,,,,55,2026-02-01 05:55:03.593836,ATMN,25.31,25.26,25.31,2091700.0,1966400.0,0,0
+,,,,,,55,2026-02-01 05:55:03.593836,WNTR,24.79,24.7,24.79,2437300.0,2303300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,56,2026-02-01 05:55:04.633239,SPNG,24.87,25.16,25.3,2204700.0,1950700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,56,2026-02-01 05:55:04.633239,SMMR,25.21,25.09,25.13,2156100.0,2061000.0,0,0
+,,,,,,56,2026-02-01 05:55:04.633239,ATMN,25.35,25.18,25.35,2113700.0,1997700.0,0,0
+,,,,,,56,2026-02-01 05:55:04.633239,WNTR,24.83,24.7,24.81,2443900.0,2320000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,57,2026-02-01 05:55:05.664949,SPNG,24.75,24.75,25.22,2226200.0,1913800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,57,2026-02-01 05:55:05.664949,SMMR,25.09,25.04,25.07,2145200.0,2067300.0,0,0
+,,,,,,57,2026-02-01 05:55:05.664949,ATMN,25.48,25.18,25.48,2113700.0,1995600.0,0,0
+,,,,,,57,2026-02-01 05:55:05.664949,WNTR,24.81,24.92,24.93,2416500.0,2320200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,58,2026-02-01 05:55:06.710882,SPNG,24.75,24.8,25.22,2202900.0,1925500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,58,2026-02-01 05:55:06.710882,SMMR,25.04,24.86,24.9,2124300.0,2068900.0,0,0
+,,,,,,58,2026-02-01 05:55:06.710882,ATMN,25.52,25.29,25.52,2098200.0,1999300.0,0,0
+,,,,,,58,2026-02-01 05:55:06.710882,WNTR,24.93,24.87,24.93,2398000.0,2320200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,59,2026-02-01 05:55:07.732774,SPNG,24.75,24.75,25.22,2224400.0,1925500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,59,2026-02-01 05:55:07.732774,SMMR,24.9,25.05,25.07,2102900.0,2067300.0,0,0
+,,,,,,59,2026-02-01 05:55:07.732774,ATMN,25.38,25.29,25.38,2098200.0,2021800.0,0,0
+,,,,,,59,2026-02-01 05:55:07.732774,WNTR,24.93,24.87,24.88,2398000.0,2331100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,60,2026-02-01 05:55:08.766771,SPNG,24.45,24.45,24.55,888200.0,821200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,60,2026-02-01 05:55:08.766771,SMMR,24.86,24.86,25.05,872400.0,812700.0,0,0
+,,,,,,60,2026-02-01 05:55:08.766771,ATMN,25.91,25.91,26.69,772900.0,559200.0,0,0
+,,,,,,60,2026-02-01 05:55:08.766771,WNTR,25.29,25.29,25.31,851100.0,750300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,61,2026-02-01 05:55:09.797844,SPNG,24.51,24.45,24.51,888200.0,929800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,61,2026-02-01 05:55:09.797844,SMMR,24.86,24.91,24.96,1076200.0,908000.0,0,0
+,,,,,,61,2026-02-01 05:55:09.797844,ATMN,25.68,25.85,26.35,1044900.0,745700.0,0,0
+,,,,,,61,2026-02-01 05:55:09.797844,WNTR,25.29,25.29,25.31,1084500.0,953700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,62,2026-02-01 05:55:10.831332,SPNG,24.48,24.45,24.48,888200.0,1140800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,62,2026-02-01 05:55:10.831332,SMMR,24.98,24.91,24.98,1282000.0,909400.0,0,0
+,,,,,,62,2026-02-01 05:55:10.831332,ATMN,25.85,25.33,25.79,930100.0,1058900.0,0,0
+,,,,,,62,2026-02-01 05:55:10.831332,WNTR,25.31,25.08,25.24,1095500.0,1066900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,63,2026-02-01 05:55:11.850560,SPNG,24.48,24.45,24.48,979900.0,1352300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,63,2026-02-01 05:55:11.850560,SMMR,24.83,24.83,25.05,994000.0,812700.0,0,0
+,,,,,,63,2026-02-01 05:55:11.850560,ATMN,25.79,25.85,25.97,1031400.0,1218400.0,0,0
+,,,,,,63,2026-02-01 05:55:11.850560,WNTR,25.31,25.08,25.14,1231000.0,1060300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,64,2026-02-01 05:55:12.870493,SPNG,24.55,24.67,24.76,1075700.0,1001500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,64,2026-02-01 05:55:12.870493,SMMR,25.28,24.83,24.96,994000.0,1026400.0,0,0
+,,,,,,64,2026-02-01 05:55:12.870493,ATMN,25.67,25.71,25.97,1138500.0,1218400.0,0,0
+,,,,,,64,2026-02-01 05:55:12.870493,WNTR,25.14,25.13,25.14,1475100.0,1060300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,65,2026-02-01 05:55:13.904555,SPNG,24.55,24.67,24.76,1075700.0,1301200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,65,2026-02-01 05:55:13.904555,SMMR,24.91,24.83,24.91,994000.0,1216400.0,0,0
+,,,,,,65,2026-02-01 05:55:13.904555,ATMN,25.88,25.33,25.83,1041700.0,1331700.0,0,0
+,,,,,,65,2026-02-01 05:55:13.904555,WNTR,25.59,25.13,25.59,1681200.0,835000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,66,2026-02-01 05:55:14.924757,SPNG,24.45,24.45,24.76,879900.0,1517900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,66,2026-02-01 05:55:14.924757,SMMR,24.91,24.83,24.91,1218600.0,1417100.0,0,0
+,,,,,,66,2026-02-01 05:55:14.924757,ATMN,25.97,25.49,25.97,1259200.0,1218400.0,0,0
+,,,,,,66,2026-02-01 05:55:14.924757,WNTR,25.47,25.47,25.59,1786700.0,948200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,67,2026-02-01 05:55:15.954348,SPNG,24.76,24.03,24.76,1038200.0,1628700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,67,2026-02-01 05:55:15.954348,SMMR,24.73,24.73,24.82,1211600.0,1507900.0,0,0
+,,,,,,67,2026-02-01 05:55:15.954348,ATMN,25.97,26.04,26.14,1374600.0,1115200.0,0,0
+,,,,,,67,2026-02-01 05:55:15.954348,WNTR,25.36,25.36,25.41,1792000.0,1041700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,68,2026-02-01 05:55:16.981919,SPNG,24.85,24.03,24.85,1192900.0,1425900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,68,2026-02-01 05:55:16.981919,SMMR,24.91,24.74,24.91,1397300.0,1417100.0,0,0
+,,,,,,68,2026-02-01 05:55:16.981919,ATMN,26.04,25.49,25.95,1259200.0,1331600.0,0,0
+,,,,,,68,2026-02-01 05:55:16.981919,WNTR,25.41,25.13,25.41,1806200.0,1041700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,69,2026-02-01 05:55:18.008624,SPNG,24.43,24.43,24.85,1202800.0,1425900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,69,2026-02-01 05:55:18.008624,SMMR,24.82,24.74,24.82,1397300.0,1232800.0,0,0
+,,,,,,69,2026-02-01 05:55:18.008624,ATMN,25.95,25.49,25.95,1259200.0,1331600.0,0,0
+,,,,,,69,2026-02-01 05:55:18.008624,WNTR,25.41,25.5,25.59,2109000.0,948200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,70,2026-02-01 05:55:19.031725,SPNG,24.43,24.43,24.69,1202800.0,1748300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,70,2026-02-01 05:55:19.031725,SMMR,25.14,24.79,25.14,1644900.0,1110100.0,0,0
+,,,,,,70,2026-02-01 05:55:19.031725,ATMN,25.49,25.33,25.36,1283900.0,1639900.0,0,0
+,,,,,,70,2026-02-01 05:55:19.031725,WNTR,25.36,25.38,25.41,2143100.0,1064000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,71,2026-02-01 05:55:20.052068,SPNG,24.02,24.0,24.02,1219100.0,1977200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,71,2026-02-01 05:55:20.052068,SMMR,25.14,24.79,25.05,1777600.0,1320300.0,0,0
+,,,,,,71,2026-02-01 05:55:20.052068,ATMN,25.58,25.47,25.58,1395300.0,1551500.0,0,0
+,,,,,,71,2026-02-01 05:55:20.052068,WNTR,25.41,25.13,25.41,2130200.0,1166400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,72,2026-02-01 05:55:21.096266,SPNG,24.69,24.13,24.69,1477500.0,1860700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,72,2026-02-01 05:55:21.096266,SMMR,24.98,24.98,25.01,1901600.0,1540900.0,0,0
+,,,,,,72,2026-02-01 05:55:21.096266,ATMN,25.58,25.34,25.58,1598000.0,1551500.0,0,0
+,,,,,,72,2026-02-01 05:55:21.096266,WNTR,25.38,25.13,25.16,2130200.0,1268400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,73,2026-02-01 05:55:22.126756,SPNG,24.0,24.0,24.81,1349900.0,1760600.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,73,2026-02-01 05:55:22.126756,SMMR,24.98,24.79,24.93,1777600.0,1856400.0,0,0
+,,,,,,73,2026-02-01 05:55:22.126756,ATMN,25.64,25.71,25.95,1807700.0,1331600.0,0,0
+,,,,,,73,2026-02-01 05:55:22.126756,WNTR,25.13,25.13,25.29,2241000.0,1033000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,74,2026-02-01 05:55:23.153587,SPNG,24.89,24.0,24.33,1478700.0,1772900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,74,2026-02-01 05:55:23.153587,SMMR,25.01,24.85,24.93,1985900.0,1872600.0,0,0
+,,,,,,74,2026-02-01 05:55:23.153587,ATMN,25.34,25.34,25.95,1817700.0,1508400.0,0,0
+,,,,,,74,2026-02-01 05:55:23.153587,WNTR,25.29,25.19,25.29,2099500.0,1033000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,75,2026-02-01 05:55:24.185312,SPNG,24.33,24.0,24.33,1577900.0,1772900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,75,2026-02-01 05:55:24.185312,SMMR,24.93,24.85,24.93,2076500.0,1872600.0,0,0
+,,,,,,75,2026-02-01 05:55:24.185312,ATMN,25.95,25.33,25.95,1706300.0,1508400.0,0,0
+,,,,,,75,2026-02-01 05:55:24.185312,WNTR,25.29,25.19,25.29,2351900.0,1033000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,76,2026-02-01 05:55:25.223096,SPNG,24.96,24.12,24.41,1672400.0,1633300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,76,2026-02-01 05:55:25.223096,SMMR,24.98,24.85,24.98,2076500.0,1994300.0,0,0
+,,,,,,76,2026-02-01 05:55:25.223096,ATMN,25.2,25.2,25.71,1606300.0,1689500.0,0,0
+,,,,,,76,2026-02-01 05:55:25.223096,WNTR,25.29,25.19,25.29,2362900.0,1269800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,77,2026-02-01 05:55:26.261332,SPNG,25.05,24.0,24.3,1577900.0,1527200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,77,2026-02-01 05:55:26.261332,SMMR,24.73,24.73,24.98,1738000.0,2111300.0,0,0
+,,,,,,77,2026-02-01 05:55:26.261332,ATMN,25.38,25.38,25.95,1708600.0,1599900.0,0,0
+,,,,,,77,2026-02-01 05:55:26.261332,WNTR,25.29,25.23,25.29,2346500.0,1269800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,79,2026-02-01 05:55:27.309382,SPNG,25.05,24.0,24.3,1907300.0,1527200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,79,2026-02-01 05:55:27.309382,SMMR,25.0,24.73,25.0,1841600.0,2076000.0,0,0
+,,,,,,79,2026-02-01 05:55:27.309382,ATMN,25.22,25.19,25.22,1500100.0,1797600.0,0,0
+,,,,,,79,2026-02-01 05:55:27.309382,WNTR,25.51,25.23,25.51,2346500.0,1175000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,80,2026-02-01 05:55:28.342992,SPNG,25.05,24.18,25.05,2027600.0,1413400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,80,2026-02-01 05:55:28.342992,SMMR,25.0,24.82,24.92,2063800.0,2073000.0,0,0
+,,,,,,80,2026-02-01 05:55:28.342992,ATMN,25.15,25.15,25.76,1389900.0,1709700.0,0,0
+,,,,,,80,2026-02-01 05:55:28.342992,WNTR,25.2,25.2,25.64,2346300.0,1177900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,81,2026-02-01 05:55:29.375099,SPNG,25.05,24.18,24.81,2126600.0,1635700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,81,2026-02-01 05:55:29.375099,SMMR,24.82,24.89,24.92,2120900.0,2073000.0,0,0
+,,,,,,81,2026-02-01 05:55:29.375099,ATMN,25.24,25.24,25.76,1562900.0,1709700.0,0,0
+,,,,,,81,2026-02-01 05:55:29.375099,WNTR,25.2,25.26,25.4,2321500.0,1432700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,82,2026-02-01 05:55:30.422372,SPNG,24.0,23.93,23.96,1972500.0,1741500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,82,2026-02-01 05:55:30.422372,SMMR,25.01,24.89,25.01,2127600.0,1970800.0,0,0
+,,,,,,82,2026-02-01 05:55:30.422372,ATMN,25.66,25.24,25.66,1562900.0,1896200.0,0,0
+,,,,,,82,2026-02-01 05:55:30.422372,WNTR,25.2,25.2,25.28,2351000.0,1540800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,83,2026-02-01 05:55:31.479590,SPNG,24.72,24.44,24.72,2083800.0,1749100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,83,2026-02-01 05:55:31.479590,SMMR,24.87,24.82,24.85,2175800.0,2096000.0,0,0
+,,,,,,83,2026-02-01 05:55:31.479590,ATMN,25.11,25.11,25.45,1489100.0,1931900.0,0,0
+,,,,,,83,2026-02-01 05:55:31.479590,WNTR,25.4,25.44,25.59,2339700.0,1302200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,84,2026-02-01 05:55:32.513987,SPNG,24.39,24.39,24.72,2068100.0,1824100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,84,2026-02-01 05:55:32.513987,SMMR,24.99,24.82,24.99,2130400.0,2087400.0,0,0
+,,,,,,84,2026-02-01 05:55:32.513987,ATMN,25.51,25.11,25.44,1607100.0,1952600.0,0,0
+,,,,,,84,2026-02-01 05:55:32.513987,WNTR,25.35,25.56,25.59,2345400.0,1392000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,85,2026-02-01 05:55:33.551032,SPNG,24.77,24.39,24.54,2068100.0,1901800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,85,2026-02-01 05:55:33.551032,SMMR,24.99,24.99,25.04,2141200.0,2082100.0,0,0
+,,,,,,85,2026-02-01 05:55:33.551032,ATMN,25.51,25.39,25.44,1948900.0,1952600.0,0,0
+,,,,,,85,2026-02-01 05:55:33.551032,WNTR,25.56,25.24,25.41,2315600.0,1626400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,86,2026-02-01 05:55:34.591886,SPNG,24.77,24.39,24.54,2297200.0,1901800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,86,2026-02-01 05:55:34.591886,SMMR,24.99,24.87,24.99,2159000.0,2090000.0,0,0
+,,,,,,86,2026-02-01 05:55:34.591886,ATMN,25.76,25.39,25.76,1948900.0,1918800.0,0,0
+,,,,,,86,2026-02-01 05:55:34.591886,WNTR,25.2,25.2,25.32,2351000.0,1733700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,87,2026-02-01 05:55:35.623704,SPNG,24.77,24.49,24.54,2235800.0,2009100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,87,2026-02-01 05:55:35.623704,SMMR,24.81,24.81,25.05,2145800.0,2102200.0,0,0
+,,,,,,87,2026-02-01 05:55:35.623704,ATMN,25.76,25.39,25.6,1948900.0,1985300.0,0,0
+,,,,,,87,2026-02-01 05:55:35.623704,WNTR,25.32,25.33,25.41,2355000.0,1830700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,88,2026-02-01 05:55:36.659723,SPNG,24.49,24.49,24.54,2235800.0,2053800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,88,2026-02-01 05:55:36.659723,SMMR,24.81,24.81,25.05,2145800.0,2112800.0,0,0
+,,,,,,88,2026-02-01 05:55:36.659723,ATMN,25.6,25.39,25.6,1948900.0,2008000.0,0,0
+,,,,,,88,2026-02-01 05:55:36.659723,WNTR,25.33,25.19,25.24,2351900.0,1922800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,89,2026-02-01 05:55:37.687625,SPNG,24.39,24.39,24.74,2269200.0,2067700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,89,2026-02-01 05:55:37.687625,SMMR,24.81,24.81,24.9,2125400.0,2116100.0,0,0
+,,,,,,89,2026-02-01 05:55:37.687625,ATMN,25.39,25.39,25.6,1948900.0,2028100.0,0,0
+,,,,,,89,2026-02-01 05:55:37.687625,WNTR,25.33,25.19,25.24,2336600.0,2144000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,90,2026-02-01 05:55:38.722659,SPNG,24.31,24.31,24.74,2340400.0,2067700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,90,2026-02-01 05:55:38.722659,SMMR,24.78,24.78,24.9,2106500.0,2116100.0,0,0
+,,,,,,90,2026-02-01 05:55:38.722659,ATMN,25.39,25.11,25.23,2034400.0,2033600.0,0,0
+,,,,,,90,2026-02-01 05:55:38.722659,WNTR,25.33,25.19,25.21,2333000.0,2158700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,91,2026-02-01 05:55:39.752952,SPNG,24.82,24.31,24.82,2319800.0,2044000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,91,2026-02-01 05:55:39.752952,SMMR,24.9,24.81,24.9,2118200.0,2134300.0,0,0
+,,,,,,91,2026-02-01 05:55:39.752952,ATMN,25.23,25.11,25.23,2225300.0,2033600.0,0,0
+,,,,,,91,2026-02-01 05:55:39.752952,WNTR,25.21,25.13,25.21,2354400.0,2176000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,92,2026-02-01 05:55:40.786573,SPNG,24.82,24.41,24.5,2271500.0,2090500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,92,2026-02-01 05:55:40.786573,SMMR,24.91,24.88,24.91,2089600.0,2119900.0,0,0
+,,,,,,92,2026-02-01 05:55:40.786573,ATMN,25.23,25.43,25.6,2143900.0,2028100.0,0,0
+,,,,,,92,2026-02-01 05:55:40.786573,WNTR,25.47,25.17,25.47,2352900.0,2058800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,93,2026-02-01 05:55:41.810253,SPNG,24.5,24.31,24.5,2254700.0,2090500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,93,2026-02-01 05:55:41.810253,SMMR,24.81,24.83,24.91,2119700.0,2119900.0,0,0
+,,,,,,93,2026-02-01 05:55:41.810253,ATMN,25.17,25.17,25.6,2164700.0,2032400.0,0,0
+,,,,,,93,2026-02-01 05:55:41.810253,WNTR,25.07,25.07,25.3,2410300.0,2182900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,94,2026-02-01 05:55:42.848786,SPNG,24.51,24.14,24.51,2282700.0,2091500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,94,2026-02-01 05:55:42.848786,SMMR,25.03,24.83,24.9,2119700.0,2128100.0,0,0
+,,,,,,94,2026-02-01 05:55:42.848786,ATMN,25.61,25.65,25.76,2154500.0,1998600.0,0,0
+,,,,,,94,2026-02-01 05:55:42.848786,WNTR,25.06,25.06,25.3,2388000.0,2194300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,95,2026-02-01 05:55:43.878850,SPNG,24.53,24.14,24.21,2216700.0,2078400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,95,2026-02-01 05:55:43.878850,SMMR,24.9,25.01,25.05,2107500.0,2118900.0,0,0
+,,,,,,95,2026-02-01 05:55:43.878850,ATMN,25.76,25.59,25.76,2142100.0,2023900.0,0,0
+,,,,,,95,2026-02-01 05:55:43.878850,WNTR,25.05,25.05,25.23,2406400.0,2214500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,96,2026-02-01 05:55:44.961206,SPNG,24.44,24.13,24.44,2281800.0,2045200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,96,2026-02-01 05:55:44.961206,SMMR,25.01,25.01,25.05,2107500.0,2170200.0,0,0
+,,,,,,96,2026-02-01 05:55:44.961206,ATMN,25.17,25.17,25.42,2164700.0,2051700.0,0,0
+,,,,,,96,2026-02-01 05:55:44.961206,WNTR,25.02,25.02,25.23,2419600.0,2214500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,97,2026-02-01 05:55:45.999959,SPNG,24.44,24.67,24.84,2185000.0,2019100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,97,2026-02-01 05:55:45.999959,SMMR,25.01,25.01,25.05,2107500.0,2184300.0,0,0
+,,,,,,97,2026-02-01 05:55:45.999959,ATMN,25.68,25.59,25.68,2166300.0,2027900.0,0,0
+,,,,,,97,2026-02-01 05:55:45.999959,WNTR,25.23,25.22,25.23,2410500.0,2233900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,98,2026-02-01 05:55:47.031626,SPNG,24.67,24.13,24.35,2189900.0,2098800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,98,2026-02-01 05:55:47.031626,SMMR,25.05,24.93,25.05,2097500.0,2164800.0,0,0
+,,,,,,98,2026-02-01 05:55:47.031626,ATMN,25.68,25.59,25.68,2166300.0,2036000.0,0,0
+,,,,,,98,2026-02-01 05:55:47.031626,WNTR,25.22,25.02,25.04,2440300.0,2241200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,99,2026-02-01 05:55:48.062407,SPNG,24.72,24.13,24.72,2183500.0,2065700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,99,2026-02-01 05:55:48.062407,SMMR,24.83,24.83,25.06,2099700.0,2158600.0,0,0
+,,,,,,99,2026-02-01 05:55:48.062407,ATMN,25.59,25.59,25.68,2166300.0,2036000.0,0,0
+,,,,,,99,2026-02-01 05:55:48.062407,WNTR,25.22,25.03,25.04,2380400.0,2241200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,100,2026-02-01 05:55:49.092897,SPNG,24.72,24.13,24.21,2159800.0,2101900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,100,2026-02-01 05:55:49.092897,SMMR,25.06,24.83,24.84,2099700.0,2163600.0,0,0
+,,,,,,100,2026-02-01 05:55:49.092897,ATMN,25.11,25.46,25.68,2187900.0,2036000.0,0,0
+,,,,,,100,2026-02-01 05:55:49.092897,WNTR,25.13,25.13,25.23,2336200.0,2233900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,101,2026-02-01 05:55:50.126918,SPNG,24.13,24.13,24.84,2183000.0,2064400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,101,2026-02-01 05:55:50.126918,SMMR,24.84,24.89,25.0,2102800.0,2167500.0,0,0
+,,,,,,101,2026-02-01 05:55:50.126918,ATMN,25.46,25.46,25.6,2187900.0,2033300.0,0,0
+,,,,,,101,2026-02-01 05:55:50.126918,WNTR,25.3,25.1,25.3,2351300.0,2228800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,102,2026-02-01 05:55:51.169862,SPNG,24.08,23.93,23.97,2188700.0,2090700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,102,2026-02-01 05:55:51.169862,SMMR,25.0,25.04,25.06,2096300.0,2146800.0,0,0
+,,,,,,102,2026-02-01 05:55:51.169862,ATMN,25.6,25.36,25.6,2207700.0,2033300.0,0,0
+,,,,,,102,2026-02-01 05:55:51.169862,WNTR,25.3,25.1,25.21,2315300.0,2244300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,103,2026-02-01 05:55:52.196530,SPNG,23.93,23.93,24.95,2188700.0,2065000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,103,2026-02-01 05:55:52.196530,SMMR,24.97,24.85,24.97,2119600.0,2111700.0,0,0
+,,,,,,103,2026-02-01 05:55:52.196530,ATMN,25.42,25.43,25.6,2152500.0,2033300.0,0,0
+,,,,,,103,2026-02-01 05:55:52.196530,WNTR,25.1,25.1,25.21,2335600.0,2244300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,104,2026-02-01 05:55:53.217531,SPNG,23.91,23.91,24.38,2166800.0,2106700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,104,2026-02-01 05:55:53.217531,SMMR,24.85,24.85,24.97,2100100.0,2139000.0,0,0
+,,,,,,104,2026-02-01 05:55:53.217531,ATMN,25.36,25.36,25.43,2207700.0,2060700.0,0,0
+,,,,,,104,2026-02-01 05:55:53.217531,WNTR,25.21,25.2,25.21,2297800.0,2244300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,105,2026-02-01 05:55:54.246642,SPNG,23.91,24.21,24.38,2097400.0,2106700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,105,2026-02-01 05:55:54.246642,SMMR,25.04,24.89,24.91,2111800.0,2154000.0,0,0
+,,,,,,105,2026-02-01 05:55:54.246642,ATMN,25.43,25.09,25.43,2029400.0,2044600.0,0,0
+,,,,,,105,2026-02-01 05:55:54.246642,WNTR,25.2,25.1,25.11,2331500.0,2256400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,106,2026-02-01 05:55:55.283056,SPNG,24.38,24.21,24.38,2141300.0,2106700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,106,2026-02-01 05:55:55.283056,SMMR,24.81,24.81,24.91,2106600.0,2154000.0,0,0
+,,,,,,106,2026-02-01 05:55:55.283056,ATMN,25.09,25.24,25.43,2143000.0,2044600.0,0,0
+,,,,,,106,2026-02-01 05:55:55.283056,WNTR,25.08,25.08,25.13,2356700.0,2250800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,107,2026-02-01 05:55:56.327848,SPNG,24.38,24.84,24.95,2103200.0,2065000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,107,2026-02-01 05:55:56.327848,SMMR,24.81,24.82,24.91,2076500.0,2154000.0,0,0
+,,,,,,107,2026-02-01 05:55:56.327848,ATMN,25.24,25.24,25.3,2143000.0,2023600.0,0,0
+,,,,,,107,2026-02-01 05:55:56.327848,WNTR,25.09,25.08,25.09,2281300.0,2253900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,108,2026-02-01 05:55:57.390595,SPNG,24.84,24.37,24.46,2134000.0,2148400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,108,2026-02-01 05:55:57.390595,SMMR,24.91,24.86,24.91,2063700.0,2124100.0,0,0
+,,,,,,108,2026-02-01 05:55:57.390595,ATMN,25.24,25.24,25.3,2143000.0,2042100.0,0,0
+,,,,,,108,2026-02-01 05:55:57.390595,WNTR,25.2,25.15,25.2,2283200.0,2267800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,109,2026-02-01 05:55:58.420149,SPNG,24.46,24.56,24.95,2152100.0,2129200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,109,2026-02-01 05:55:58.420149,SMMR,25.04,25.05,25.06,2066200.0,2101600.0,0,0
+,,,,,,109,2026-02-01 05:55:58.420149,ATMN,25.43,25.24,25.43,2256000.0,2060700.0,0,0
+,,,,,,109,2026-02-01 05:55:58.420149,WNTR,25.15,25.15,25.16,2283200.0,2254900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,111,2026-02-01 05:55:59.462449,SPNG,24.98,24.37,24.98,2131400.0,2110300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,111,2026-02-01 05:55:59.462449,SMMR,25.07,24.85,25.07,2072100.0,2086400.0,0,0
+,,,,,,111,2026-02-01 05:55:59.462449,ATMN,25.45,25.08,25.09,2021300.0,2029800.0,0,0
+,,,,,,111,2026-02-01 05:55:59.462449,WNTR,25.2,25.03,25.2,2304700.0,2272500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,112,2026-02-01 05:56:00.553689,SPNG,24.21,24.21,24.91,2112900.0,2142200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,112,2026-02-01 05:56:00.553689,SMMR,24.82,24.82,24.88,2066500.0,2111100.0,0,0
+,,,,,,112,2026-02-01 05:56:00.553689,ATMN,25.09,25.21,25.45,2027500.0,2045300.0,0,0
+,,,,,,112,2026-02-01 05:56:00.553689,WNTR,25.3,25.03,25.3,2304700.0,2254000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,113,2026-02-01 05:56:01.582849,SPNG,24.37,24.41,24.91,2104600.0,2135300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,113,2026-02-01 05:56:01.582849,SMMR,25.09,24.82,25.09,2086500.0,2122800.0,0,0
+,,,,,,113,2026-02-01 05:56:01.582849,ATMN,25.05,25.05,25.27,2005400.0,2041200.0,0,0
+,,,,,,113,2026-02-01 05:56:01.582849,WNTR,25.3,25.2,25.26,2305600.0,2278600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,114,2026-02-01 05:56:02.610022,SPNG,24.37,24.41,24.91,2104600.0,2181300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,114,2026-02-01 05:56:02.610022,SMMR,24.82,24.86,24.92,2107500.0,2105000.0,0,0
+,,,,,,114,2026-02-01 05:56:02.610022,ATMN,25.05,25.05,25.27,1998700.0,2041200.0,0,0
+,,,,,,114,2026-02-01 05:56:02.610022,WNTR,25.3,25.2,25.28,2305600.0,2267900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,115,2026-02-01 05:56:03.639399,SPNG,24.21,23.91,24.09,2126600.0,2132900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,115,2026-02-01 05:56:03.639399,SMMR,24.8,24.8,24.92,2078100.0,2105000.0,0,0
+,,,,,,115,2026-02-01 05:56:03.639399,ATMN,25.43,25.18,25.43,2195900.0,2057100.0,0,0
+,,,,,,115,2026-02-01 05:56:03.639399,WNTR,25.2,25.18,25.2,2302200.0,2275700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,116,2026-02-01 05:56:04.677556,SPNG,24.78,24.79,24.91,2096900.0,2187800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,116,2026-02-01 05:56:04.677556,SMMR,24.87,24.87,24.92,2119400.0,2105000.0,0,0
+,,,,,,116,2026-02-01 05:56:04.677556,ATMN,25.43,25.18,25.22,2152900.0,2040300.0,0,0
+,,,,,,116,2026-02-01 05:56:04.677556,WNTR,25.18,25.18,25.2,2302200.0,2289800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,117,2026-02-01 05:56:05.728690,SPNG,24.85,23.91,24.18,2126600.0,2184500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,117,2026-02-01 05:56:05.728690,SMMR,24.92,24.97,25.01,2169700.0,2098300.0,0,0
+,,,,,,117,2026-02-01 05:56:05.728690,ATMN,25.18,25.06,25.09,2100900.0,2035400.0,0,0
+,,,,,,117,2026-02-01 05:56:05.728690,WNTR,25.02,25.02,25.2,2320500.0,2289800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,118,2026-02-01 05:56:06.770513,SPNG,24.18,24.55,24.66,2131300.0,2179500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,118,2026-02-01 05:56:06.770513,SMMR,24.82,24.82,24.83,2126000.0,2138500.0,0,0
+,,,,,,118,2026-02-01 05:56:06.770513,ATMN,25.09,25.19,25.22,2093200.0,2040300.0,0,0
+,,,,,,118,2026-02-01 05:56:06.770513,WNTR,25.01,25.01,25.2,2305600.0,2289800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,119,2026-02-01 05:56:07.812422,SPNG,24.66,24.23,24.66,2118200.0,2179500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,119,2026-02-01 05:56:07.812422,SMMR,24.81,24.81,24.83,2120400.0,2152400.0,0,0
+,,,,,,119,2026-02-01 05:56:07.812422,ATMN,25.45,25.45,25.5,2045200.0,2036500.0,0,0
+,,,,,,119,2026-02-01 05:56:07.812422,WNTR,25.28,25.01,25.28,2278600.0,2269200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,120,2026-02-01 05:56:08.832736,SPNG,24.9,26.95,0.0,200000.0,,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,120,2026-02-01 05:56:08.832736,SMMR,24.83,24.15,24.3,838600.0,811000.0,0,0
+,,,,,,120,2026-02-01 05:56:08.832736,ATMN,25.26,24.89,0.0,200000.0,,0,0
+,,,,,,120,2026-02-01 05:56:08.832736,WNTR,25.01,24.05,0.0,200000.0,,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,121,2026-02-01 05:56:09.862562,SPNG,26.92,26.77,26.92,1006900.0,688500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,121,2026-02-01 05:56:09.862562,SMMR,24.13,24.13,24.25,871100.0,1022300.0,0,0
+,,,,,,121,2026-02-01 05:56:09.862562,ATMN,24.89,25.04,25.4,1045800.0,793600.0,0,0
+,,,,,,121,2026-02-01 05:56:09.862562,WNTR,25.01,24.05,24.21,909500.0,1104300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,122,2026-02-01 05:56:10.901116,SPNG,26.92,27.2,27.64,1209400.0,678400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,122,2026-02-01 05:56:10.901116,SMMR,24.13,24.13,24.18,871100.0,1332400.0,0,0
+,,,,,,122,2026-02-01 05:56:10.901116,ATMN,24.89,25.04,25.16,1045800.0,1146600.0,0,0
+,,,,,,122,2026-02-01 05:56:10.901116,WNTR,24.21,24.05,24.21,935700.0,1134700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,123,2026-02-01 05:56:11.934273,SPNG,27.2,26.77,26.87,1188500.0,886500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,123,2026-02-01 05:56:11.934273,SMMR,23.96,23.96,24.18,835300.0,1658400.0,0,0
+,,,,,,123,2026-02-01 05:56:11.934273,ATMN,24.8,24.64,24.74,970900.0,1246600.0,0,0
+,,,,,,123,2026-02-01 05:56:11.934273,WNTR,24.22,24.22,24.26,1063300.0,997300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,124,2026-02-01 05:56:12.952664,SPNG,26.87,26.91,27.24,1397300.0,863600.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,124,2026-02-01 05:56:12.952664,SMMR,23.85,23.85,24.03,846800.0,1958700.0,0,0
+,,,,,,124,2026-02-01 05:56:12.952664,ATMN,25.16,25.08,25.16,1056900.0,1358500.0,0,0
+,,,,,,124,2026-02-01 05:56:12.952664,WNTR,24.22,24.05,24.06,935700.0,1329500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,125,2026-02-01 05:56:13.988539,SPNG,26.87,26.91,26.96,1397300.0,1130000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,125,2026-02-01 05:56:13.988539,SMMR,23.85,23.85,24.02,846800.0,2100000.0,0,0
+,,,,,,125,2026-02-01 05:56:13.988539,ATMN,25.08,24.64,24.99,970900.0,1659600.0,0,0
+,,,,,,125,2026-02-01 05:56:13.988539,WNTR,24.06,24.12,24.22,1077100.0,1436600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,126,2026-02-01 05:56:15.023059,SPNG,26.77,26.77,26.96,1387400.0,1215600.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,126,2026-02-01 05:56:15.023059,SMMR,23.85,23.79,23.83,1107100.0,2133800.0,0,0
+,,,,,,126,2026-02-01 05:56:15.023059,ATMN,24.14,24.57,24.63,1088600.0,1772300.0,0,0
+,,,,,,126,2026-02-01 05:56:15.023059,WNTR,24.05,23.98,24.0,1249900.0,1560900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,127,2026-02-01 05:56:16.052355,SPNG,26.77,26.77,26.96,1685300.0,1215600.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,127,2026-02-01 05:56:16.052355,SMMR,23.83,23.97,24.02,1434900.0,2100000.0,0,0
+,,,,,,127,2026-02-01 05:56:16.052355,ATMN,24.14,24.57,24.63,1405900.0,1772300.0,0,0
+,,,,,,127,2026-02-01 05:56:16.052355,WNTR,24.0,24.1,24.22,1363400.0,1534200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,128,2026-02-01 05:56:17.089250,SPNG,27.18,26.77,27.18,1875100.0,1200700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,128,2026-02-01 05:56:17.089250,SMMR,23.79,23.79,24.02,1206900.0,2129700.0,0,0
+,,,,,,128,2026-02-01 05:56:17.089250,ATMN,24.63,24.8,24.96,1655200.0,1753700.0,0,0
+,,,,,,128,2026-02-01 05:56:17.089250,WNTR,23.98,23.88,23.93,1237300.0,1687500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,129,2026-02-01 05:56:18.126143,SPNG,27.18,26.77,27.18,2089200.0,1279400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,129,2026-02-01 05:56:18.126143,SMMR,23.77,23.98,24.01,1320200.0,2168800.0,0,0
+,,,,,,129,2026-02-01 05:56:18.126143,ATMN,24.53,24.53,24.96,1438100.0,1876300.0,0,0
+,,,,,,129,2026-02-01 05:56:18.126143,WNTR,23.98,23.91,23.93,1591800.0,1687500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,130,2026-02-01 05:56:19.158063,SPNG,26.76,26.76,27.24,2000500.0,1277400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,130,2026-02-01 05:56:19.158063,SMMR,23.77,23.98,24.01,1320200.0,2201300.0,0,0
+,,,,,,130,2026-02-01 05:56:19.158063,ATMN,24.99,24.96,24.99,1533300.0,1799800.0,0,0
+,,,,,,130,2026-02-01 05:56:19.158063,WNTR,24.09,23.91,24.07,1715500.0,1668600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,131,2026-02-01 05:56:20.192491,SPNG,26.76,26.76,26.85,2056200.0,1365100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,131,2026-02-01 05:56:20.192491,SMMR,23.61,23.65,23.7,1205700.0,2226500.0,0,0
+,,,,,,131,2026-02-01 05:56:20.192491,ATMN,24.53,24.53,24.99,1438100.0,2006900.0,0,0
+,,,,,,131,2026-02-01 05:56:20.192491,WNTR,24.1,24.1,24.18,1843400.0,1548000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,132,2026-02-01 05:56:21.218965,SPNG,26.85,27.06,27.24,2011900.0,1469700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,132,2026-02-01 05:56:21.218965,SMMR,23.7,23.65,23.7,1520800.0,2203800.0,0,0
+,,,,,,132,2026-02-01 05:56:21.218965,ATMN,24.53,24.95,24.99,1561400.0,2019600.0,0,0
+,,,,,,132,2026-02-01 05:56:21.218965,WNTR,24.08,24.17,24.18,2100500.0,1662000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,133,2026-02-01 05:56:22.272636,SPNG,27.06,26.76,26.92,2056200.0,1759400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,133,2026-02-01 05:56:22.272636,SMMR,23.89,23.89,23.9,1530700.0,2203800.0,0,0
+,,,,,,133,2026-02-01 05:56:22.272636,ATMN,24.99,24.53,24.99,1438100.0,2052100.0,0,0
+,,,,,,133,2026-02-01 05:56:22.272636,WNTR,24.08,24.17,24.18,2100500.0,2021600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,134,2026-02-01 05:56:23.314735,SPNG,27.24,26.76,26.79,1997000.0,1758500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,134,2026-02-01 05:56:23.314735,SMMR,23.89,23.65,23.8,1403600.0,2244400.0,0,0
+,,,,,,134,2026-02-01 05:56:23.314735,ATMN,24.99,24.53,24.74,1636300.0,2056200.0,0,0
+,,,,,,134,2026-02-01 05:56:23.314735,WNTR,24.04,24.04,24.17,1975500.0,2113200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,135,2026-02-01 05:56:24.342612,SPNG,26.84,26.84,27.24,1996600.0,1750200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,135,2026-02-01 05:56:24.342612,SMMR,23.89,23.78,23.8,1727900.0,2244400.0,0,0
+,,,,,,135,2026-02-01 05:56:24.342612,ATMN,24.99,24.53,24.99,1740900.0,2046200.0,0,0
+,,,,,,135,2026-02-01 05:56:24.342612,WNTR,24.04,24.04,24.17,2283400.0,2243700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,136,2026-02-01 05:56:25.380093,SPNG,27.26,26.84,26.97,1979500.0,1770500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,136,2026-02-01 05:56:25.380093,SMMR,23.82,23.82,23.9,1967900.0,2249500.0,0,0
+,,,,,,136,2026-02-01 05:56:25.380093,ATMN,25.08,24.49,25.08,1550600.0,2031800.0,0,0
+,,,,,,136,2026-02-01 05:56:25.380093,WNTR,24.17,23.91,24.17,2280500.0,2243700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,137,2026-02-01 05:56:26.402591,SPNG,26.89,26.89,26.97,1970200.0,1770500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,137,2026-02-01 05:56:26.402591,SMMR,23.82,23.78,23.82,1837500.0,2201800.0,0,0
+,,,,,,137,2026-02-01 05:56:26.402591,ATMN,25.08,24.49,24.83,1756600.0,2060100.0,0,0
+,,,,,,137,2026-02-01 05:56:26.402591,WNTR,24.23,24.18,24.23,2246800.0,1994500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,138,2026-02-01 05:56:27.439050,SPNG,27.32,26.89,27.32,1988100.0,1557700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,138,2026-02-01 05:56:27.439050,SMMR,23.82,23.75,23.82,1837500.0,2201800.0,0,0
+,,,,,,138,2026-02-01 05:56:27.439050,ATMN,24.49,24.49,24.83,1997800.0,2060100.0,0,0
+,,,,,,138,2026-02-01 05:56:27.439050,WNTR,24.18,23.92,24.14,2354600.0,2108200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,139,2026-02-01 05:56:28.463217,SPNG,26.88,26.88,26.99,1973500.0,1740400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,139,2026-02-01 05:56:28.463217,SMMR,23.66,23.66,23.82,1737000.0,2226300.0,0,0
+,,,,,,139,2026-02-01 05:56:28.463217,ATMN,24.83,24.98,25.08,2210200.0,2031800.0,0,0
+,,,,,,139,2026-02-01 05:56:28.463217,WNTR,24.25,23.99,24.25,2393000.0,1880500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,140,2026-02-01 05:56:29.503628,SPNG,26.88,26.88,26.97,1969500.0,1810200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,140,2026-02-01 05:56:29.503628,SMMR,23.66,23.74,23.82,2053100.0,2226300.0,0,0
+,,,,,,140,2026-02-01 05:56:29.503628,ATMN,24.87,24.49,24.74,2106300.0,2070100.0,0,0
+,,,,,,140,2026-02-01 05:56:29.503628,WNTR,24.28,23.99,24.28,2393000.0,1619300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,141,2026-02-01 05:56:30.535454,SPNG,26.88,26.88,26.97,1969500.0,1809100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,141,2026-02-01 05:56:30.535454,SMMR,23.66,23.75,23.82,2103100.0,2208600.0,0,0
+,,,,,,141,2026-02-01 05:56:30.535454,ATMN,24.74,24.94,25.08,2243500.0,2031800.0,0,0
+,,,,,,141,2026-02-01 05:56:30.535454,WNTR,24.26,24.26,24.28,2383600.0,1740100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,142,2026-02-01 05:56:31.568916,SPNG,26.87,26.87,26.97,1980700.0,1809100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,142,2026-02-01 05:56:31.568916,SMMR,23.74,23.74,23.82,2124300.0,2196900.0,0,0
+,,,,,,142,2026-02-01 05:56:31.568916,ATMN,24.74,25.03,25.08,2213600.0,2053700.0,0,0
+,,,,,,142,2026-02-01 05:56:31.568916,WNTR,24.26,23.99,24.17,2393000.0,2117400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,144,2026-02-01 05:56:32.619421,SPNG,26.84,26.76,26.81,1975200.0,1858600.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,144,2026-02-01 05:56:32.619421,SMMR,23.74,23.74,23.78,2104500.0,2227400.0,0,0
+,,,,,,144,2026-02-01 05:56:32.619421,ATMN,25.12,24.72,24.82,2228600.0,2064100.0,0,0
+,,,,,,144,2026-02-01 05:56:32.619421,WNTR,24.26,24.0,24.14,2352100.0,2224800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,145,2026-02-01 05:56:33.672574,SPNG,26.84,26.76,26.78,1981000.0,1871100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,145,2026-02-01 05:56:33.672574,SMMR,23.74,23.74,23.78,2109800.0,2227400.0,0,0
+,,,,,,145,2026-02-01 05:56:33.672574,ATMN,25.12,24.49,25.12,2298300.0,2034400.0,0,0
+,,,,,,145,2026-02-01 05:56:33.672574,WNTR,24.28,24.0,24.28,2352100.0,2109900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,146,2026-02-01 05:56:34.712140,SPNG,26.78,26.76,26.78,1959400.0,1871100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,146,2026-02-01 05:56:34.712140,SMMR,23.83,23.82,23.83,2077400.0,2226100.0,0,0
+,,,,,,146,2026-02-01 05:56:34.712140,ATMN,24.74,24.74,25.03,2297300.0,2074600.0,0,0
+,,,,,,146,2026-02-01 05:56:34.712140,WNTR,23.97,23.97,24.07,2367800.0,2205500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,147,2026-02-01 05:56:35.744063,SPNG,26.97,26.76,26.97,1959400.0,1818300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,147,2026-02-01 05:56:35.744063,SMMR,23.83,23.74,23.82,2093400.0,2222900.0,0,0
+,,,,,,147,2026-02-01 05:56:35.744063,ATMN,24.74,24.52,24.72,2274900.0,2097000.0,0,0
+,,,,,,147,2026-02-01 05:56:35.744063,WNTR,24.1,23.97,24.1,2367800.0,2244200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,148,2026-02-01 05:56:36.807006,SPNG,26.99,26.75,26.99,1982500.0,1835500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,148,2026-02-01 05:56:36.807006,SMMR,23.8,23.7,23.8,2106200.0,2232600.0,0,0
+,,,,,,148,2026-02-01 05:56:36.807006,ATMN,24.74,24.52,24.72,2225600.0,2097000.0,0,0
+,,,,,,148,2026-02-01 05:56:36.807006,WNTR,24.08,24.08,24.32,2363900.0,2012300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,149,2026-02-01 05:56:37.846209,SPNG,27.03,26.73,27.03,2004900.0,1845800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,149,2026-02-01 05:56:37.846209,SMMR,23.66,23.66,23.77,2131000.0,2246200.0,0,0
+,,,,,,149,2026-02-01 05:56:37.846209,ATMN,24.72,24.87,24.99,2182900.0,2076300.0,0,0
+,,,,,,149,2026-02-01 05:56:37.846209,WNTR,24.08,24.08,24.27,2363900.0,2251400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,150,2026-02-01 05:56:38.874440,SPNG,27.03,26.73,27.03,1995900.0,1874700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,150,2026-02-01 05:56:38.874440,SMMR,23.77,23.66,23.77,2144600.0,2246200.0,0,0
+,,,,,,150,2026-02-01 05:56:38.874440,ATMN,24.87,24.52,24.83,2227300.0,2069400.0,0,0
+,,,,,,150,2026-02-01 05:56:38.874440,WNTR,24.08,24.08,24.17,2363900.0,2326000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,151,2026-02-01 05:56:39.904080,SPNG,27.03,26.73,27.03,1995900.0,1874700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,151,2026-02-01 05:56:39.904080,SMMR,23.66,23.66,23.82,2133300.0,2222900.0,0,0
+,,,,,,151,2026-02-01 05:56:39.904080,ATMN,25.03,24.82,25.03,2197600.0,2081400.0,0,0
+,,,,,,151,2026-02-01 05:56:39.904080,WNTR,24.17,24.08,24.17,2334300.0,2323400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,152,2026-02-01 05:56:40.946621,SPNG,27.11,26.73,26.85,1974300.0,1881400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,152,2026-02-01 05:56:40.946621,SMMR,23.87,23.69,23.87,2133300.0,2248200.0,0,0
+,,,,,,152,2026-02-01 05:56:40.946621,ATMN,25.12,24.52,25.12,2229200.0,2018400.0,0,0
+,,,,,,152,2026-02-01 05:56:40.946621,WNTR,23.96,23.96,24.27,2341100.0,2304800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,153,2026-02-01 05:56:41.997486,SPNG,27.14,26.73,27.14,1987900.0,1837200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,153,2026-02-01 05:56:41.997486,SMMR,23.88,23.69,23.88,2172900.0,2246800.0,0,0
+,,,,,,153,2026-02-01 05:56:41.997486,ATMN,24.95,24.95,25.12,2219600.0,2033000.0,0,0
+,,,,,,153,2026-02-01 05:56:41.997486,WNTR,23.96,24.13,24.27,2346100.0,2323400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,154,2026-02-01 05:56:43.052578,SPNG,27.14,26.73,27.02,1970900.0,1824500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,154,2026-02-01 05:56:43.052578,SMMR,23.9,23.69,23.9,2155700.0,2213000.0,0,0
+,,,,,,154,2026-02-01 05:56:43.052578,ATMN,25.12,24.75,25.12,2218500.0,2030600.0,0,0
+,,,,,,154,2026-02-01 05:56:43.052578,WNTR,23.96,24.13,24.27,2346100.0,2362700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,155,2026-02-01 05:56:44.086271,SPNG,27.02,26.74,27.02,1970500.0,1860500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,155,2026-02-01 05:56:44.086271,SMMR,23.9,23.74,23.9,2195700.0,2213000.0,0,0
+,,,,,,155,2026-02-01 05:56:44.086271,ATMN,25.12,24.94,25.12,2196000.0,2023900.0,0,0
+,,,,,,155,2026-02-01 05:56:44.086271,WNTR,24.27,24.13,24.27,2346100.0,2347400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,156,2026-02-01 05:56:45.125889,SPNG,27.02,26.74,27.02,1974600.0,1847000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,156,2026-02-01 05:56:45.125889,SMMR,23.9,23.74,23.75,2223000.0,2227500.0,0,0
+,,,,,,156,2026-02-01 05:56:45.125889,ATMN,24.75,24.75,24.96,2219100.0,2056700.0,0,0
+,,,,,,156,2026-02-01 05:56:45.125889,WNTR,24.13,24.13,24.19,2346100.0,2362700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,157,2026-02-01 05:56:46.154493,SPNG,26.92,26.92,27.02,1999500.0,1871300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,157,2026-02-01 05:56:46.154493,SMMR,23.95,23.83,23.95,2251200.0,2212900.0,0,0
+,,,,,,157,2026-02-01 05:56:46.154493,ATMN,25.12,24.75,25.12,2214600.0,2023900.0,0,0
+,,,,,,157,2026-02-01 05:56:46.154493,WNTR,24.13,24.03,24.12,2327500.0,2389200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,158,2026-02-01 05:56:47.198948,SPNG,26.92,26.92,27.02,1999500.0,1908500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,158,2026-02-01 05:56:47.198948,SMMR,23.95,23.83,23.95,2261000.0,2206000.0,0,0
+,,,,,,158,2026-02-01 05:56:47.198948,ATMN,24.75,24.66,24.67,2189600.0,2016700.0,0,0
+,,,,,,158,2026-02-01 05:56:47.198948,WNTR,24.13,23.94,24.13,2365000.0,2394800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,159,2026-02-01 05:56:48.230743,SPNG,26.73,26.72,26.73,1973800.0,1915800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,159,2026-02-01 05:56:48.230743,SMMR,23.8,23.74,23.77,2223000.0,2217500.0,0,0
+,,,,,,159,2026-02-01 05:56:48.230743,ATMN,24.67,24.96,25.09,2204900.0,2027000.0,0,0
+,,,,,,159,2026-02-01 05:56:48.230743,WNTR,24.16,24.01,24.16,2323200.0,2374600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,160,2026-02-01 05:56:49.267415,SPNG,27.11,26.72,27.11,1977900.0,1893400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,160,2026-02-01 05:56:49.267415,SMMR,23.69,23.66,23.68,2215200.0,2232500.0,0,0
+,,,,,,160,2026-02-01 05:56:49.267415,ATMN,24.91,24.66,24.91,2189600.0,2012500.0,0,0
+,,,,,,160,2026-02-01 05:56:49.267415,WNTR,24.01,23.94,23.99,2357000.0,2393700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,161,2026-02-01 05:56:50.313979,SPNG,27.14,26.72,27.14,1977900.0,1865400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,161,2026-02-01 05:56:50.313979,SMMR,23.77,23.68,23.77,2218000.0,2206000.0,0,0
+,,,,,,161,2026-02-01 05:56:50.313979,ATMN,24.66,24.66,25.09,2208500.0,2011300.0,0,0
+,,,,,,161,2026-02-01 05:56:50.313979,WNTR,23.99,24.0,24.04,2356300.0,2383900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,162,2026-02-01 05:56:51.347435,SPNG,26.7,26.7,27.14,1973000.0,1865400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,162,2026-02-01 05:56:51.347435,SMMR,23.66,23.75,23.77,2254800.0,2206000.0,0,0
+,,,,,,162,2026-02-01 05:56:51.347435,ATMN,24.66,24.66,25.09,2208500.0,1984600.0,0,0
+,,,,,,162,2026-02-01 05:56:51.347435,WNTR,23.99,24.0,24.04,2356300.0,2364100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,163,2026-02-01 05:56:52.390633,SPNG,27.14,26.7,27.14,1981200.0,1868900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,163,2026-02-01 05:56:52.390633,SMMR,23.78,23.82,23.89,2266600.0,2170700.0,0,0
+,,,,,,163,2026-02-01 05:56:52.390633,ATMN,24.66,24.67,24.7,2175400.0,2008100.0,0,0
+,,,,,,163,2026-02-01 05:56:52.390633,WNTR,23.94,23.94,24.04,2318600.0,2364100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,164,2026-02-01 05:56:53.426171,SPNG,27.11,26.7,27.05,1981200.0,1861200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,164,2026-02-01 05:56:53.426171,SMMR,23.75,23.75,23.92,2254800.0,2198800.0,0,0
+,,,,,,164,2026-02-01 05:56:53.426171,ATMN,24.7,24.67,24.7,2175400.0,1983700.0,0,0
+,,,,,,164,2026-02-01 05:56:53.426171,WNTR,24.04,23.94,24.04,2326900.0,2364100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,165,2026-02-01 05:56:54.449701,SPNG,26.96,26.96,27.14,2000800.0,1868900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,165,2026-02-01 05:56:54.449701,SMMR,23.93,23.75,23.93,2287500.0,2215700.0,0,0
+,,,,,,165,2026-02-01 05:56:54.449701,ATMN,24.66,24.66,24.96,2194100.0,1999600.0,0,0
+,,,,,,165,2026-02-01 05:56:54.449701,WNTR,24.16,24.07,24.16,2310000.0,2376000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,166,2026-02-01 05:56:55.470543,SPNG,27.16,26.7,27.16,1971700.0,1861200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,166,2026-02-01 05:56:55.470543,SMMR,23.94,23.75,23.93,2287500.0,2231400.0,0,0
+,,,,,,166,2026-02-01 05:56:55.470543,ATMN,24.66,24.66,24.86,2194100.0,2017100.0,0,0
+,,,,,,166,2026-02-01 05:56:55.470543,WNTR,23.95,23.95,24.16,2336900.0,2376000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,167,2026-02-01 05:56:56.502032,SPNG,26.69,26.69,27.16,1978200.0,1861200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,167,2026-02-01 05:56:56.502032,SMMR,23.93,23.75,23.84,2287500.0,2256700.0,0,0
+,,,,,,167,2026-02-01 05:56:56.502032,ATMN,24.86,24.88,24.96,2174100.0,2006300.0,0,0
+,,,,,,167,2026-02-01 05:56:56.502032,WNTR,23.93,24.0,24.03,2378700.0,2414800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,168,2026-02-01 05:56:57.530819,SPNG,27.17,26.69,27.17,1978200.0,1855200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,168,2026-02-01 05:56:57.530819,SMMR,23.93,23.75,23.81,2296100.0,2267900.0,0,0
+,,,,,,168,2026-02-01 05:56:57.530819,ATMN,24.66,24.55,24.57,2155600.0,1999400.0,0,0
+,,,,,,168,2026-02-01 05:56:57.530819,WNTR,24.0,23.93,23.95,2408300.0,2406700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,169,2026-02-01 05:56:58.552079,SPNG,26.67,26.67,27.17,1966000.0,1855200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,169,2026-02-01 05:56:58.552079,SMMR,23.68,23.68,23.79,2262500.0,2260800.0,0,0
+,,,,,,169,2026-02-01 05:56:58.552079,ATMN,24.57,24.84,24.96,2161100.0,2006300.0,0,0
+,,,,,,169,2026-02-01 05:56:58.552079,WNTR,23.95,23.95,24.03,2405600.0,2414800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,170,2026-02-01 05:56:59.583477,SPNG,26.66,26.66,27.19,1959200.0,1836100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,170,2026-02-01 05:56:59.583477,SMMR,23.81,23.66,23.81,2275400.0,2261000.0,0,0
+,,,,,,170,2026-02-01 05:56:59.583477,ATMN,24.96,24.84,24.96,2163600.0,1993700.0,0,0
+,,,,,,170,2026-02-01 05:56:59.583477,WNTR,24.03,23.98,24.03,2410200.0,2414800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,171,2026-02-01 05:57:00.615193,SPNG,27.11,26.66,27.11,1973700.0,1829000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,171,2026-02-01 05:57:00.615193,SMMR,23.65,23.65,23.78,2226600.0,2248800.0,0,0
+,,,,,,171,2026-02-01 05:57:00.615193,ATMN,24.84,24.84,24.94,2182100.0,2004600.0,0,0
+,,,,,,171,2026-02-01 05:57:00.615193,WNTR,24.19,23.98,24.19,2410200.0,2374300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,172,2026-02-01 05:57:01.643116,SPNG,27.11,26.66,27.11,1960300.0,1829000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,172,2026-02-01 05:57:01.643116,SMMR,23.81,23.65,23.81,2188700.0,2261000.0,0,0
+,,,,,,172,2026-02-01 05:57:01.643116,ATMN,24.84,24.84,24.94,2205500.0,2004600.0,0,0
+,,,,,,172,2026-02-01 05:57:01.643116,WNTR,24.24,23.95,24.24,2434000.0,2377700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,173,2026-02-01 05:57:02.686562,SPNG,27.11,26.93,27.11,1941600.0,1829000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,173,2026-02-01 05:57:02.686562,SMMR,23.81,23.7,23.71,2199800.0,2285200.0,0,0
+,,,,,,173,2026-02-01 05:57:02.686562,ATMN,24.96,24.84,24.96,2205500.0,2005500.0,0,0
+,,,,,,173,2026-02-01 05:57:02.686562,WNTR,23.93,23.93,24.1,2426200.0,2407900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,174,2026-02-01 05:57:03.724130,SPNG,27.11,26.93,26.99,1941600.0,1840400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,174,2026-02-01 05:57:03.724130,SMMR,23.71,23.7,23.71,2199800.0,2285200.0,0,0
+,,,,,,174,2026-02-01 05:57:03.724130,ATMN,24.55,24.72,25.03,2170400.0,1998400.0,0,0
+,,,,,,174,2026-02-01 05:57:03.724130,WNTR,24.1,24.22,24.24,2422900.0,2377700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,175,2026-02-01 05:57:04.748951,SPNG,27.11,26.93,26.99,1985400.0,1840400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,175,2026-02-01 05:57:04.748951,SMMR,23.81,23.7,23.81,2199800.0,2283400.0,0,0
+,,,,,,175,2026-02-01 05:57:04.748951,ATMN,24.55,24.82,25.03,2171800.0,1988900.0,0,0
+,,,,,,175,2026-02-01 05:57:04.748951,WNTR,24.26,24.04,24.26,2407300.0,2358300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,176,2026-02-01 05:57:05.780490,SPNG,27.19,26.93,27.19,1985400.0,1847900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,176,2026-02-01 05:57:05.780490,SMMR,23.65,23.78,23.82,2201700.0,2282400.0,0,0
+,,,,,,176,2026-02-01 05:57:05.780490,ATMN,25.06,24.82,25.06,2169800.0,2010100.0,0,0
+,,,,,,176,2026-02-01 05:57:05.780490,WNTR,24.26,24.04,24.16,2439800.0,2352700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,178,2026-02-01 05:57:06.835619,SPNG,26.88,26.88,27.19,1966800.0,1854800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,178,2026-02-01 05:57:06.835619,SMMR,23.84,23.65,23.84,2188700.0,2248600.0,0,0
+,,,,,,178,2026-02-01 05:57:06.835619,ATMN,25.16,24.81,25.16,2169800.0,2020200.0,0,0
+,,,,,,178,2026-02-01 05:57:06.835619,WNTR,24.26,24.15,24.26,2437400.0,2391400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,179,2026-02-01 05:57:07.967017,SPNG,26.63,26.63,27.19,1949300.0,1853300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,179,2026-02-01 05:57:07.967017,SMMR,23.65,23.65,23.9,2152900.0,2246100.0,0,0
+,,,,,,179,2026-02-01 05:57:07.967017,ATMN,25.18,24.72,25.03,2170400.0,2011300.0,0,0
+,,,,,,179,2026-02-01 05:57:07.967017,WNTR,24.0,24.0,24.26,2439200.0,2402900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,180,2026-02-01 05:57:09.048161,SPNG,27.01,23.95,0.0,200000.0,,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,180,2026-02-01 05:57:09.048161,SMMR,23.74,24.11,24.32,963000.0,879300.0,0,0
+,,,,,,180,2026-02-01 05:57:09.048161,ATMN,24.54,26.16,0.0,200000.0,,0,0
+,,,,,,180,2026-02-01 05:57:09.048161,WNTR,25.49,25.49,25.75,943200.0,734000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,181,2026-02-01 05:57:10.070446,SPNG,23.78,23.78,24.62,1085600.0,800100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,181,2026-02-01 05:57:10.070446,SMMR,24.11,24.11,24.32,1081600.0,969500.0,0,0
+,,,,,,181,2026-02-01 05:57:10.070446,ATMN,26.16,25.52,25.54,919500.0,675100.0,0,0
+,,,,,,181,2026-02-01 05:57:10.070446,WNTR,25.49,24.54,25.2,948000.0,1096800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,182,2026-02-01 05:57:11.092214,SPNG,24.12,23.78,24.12,1085600.0,1038400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,182,2026-02-01 05:57:11.092214,SMMR,24.07,24.07,24.32,981600.0,1089000.0,0,0
+,,,,,,182,2026-02-01 05:57:11.092214,ATMN,25.54,25.95,26.18,1122500.0,777600.0,0,0
+,,,,,,182,2026-02-01 05:57:11.092214,WNTR,24.61,24.54,24.61,1094500.0,1221200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,183,2026-02-01 05:57:12.125912,SPNG,24.28,23.78,23.92,1347200.0,1021200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,183,2026-02-01 05:57:12.125912,SMMR,24.11,24.12,24.32,1077700.0,1193600.0,0,0
+,,,,,,183,2026-02-01 05:57:12.125912,ATMN,26.24,25.95,26.24,1122500.0,873100.0,0,0
+,,,,,,183,2026-02-01 05:57:12.125912,WNTR,24.61,24.62,24.71,1125700.0,1234100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,184,2026-02-01 05:57:13.156400,SPNG,23.92,23.81,23.92,1532700.0,1021200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,184,2026-02-01 05:57:13.156400,SMMR,24.24,24.12,24.24,1077700.0,1435800.0,0,0
+,,,,,,184,2026-02-01 05:57:13.156400,ATMN,26.41,26.41,26.46,1231700.0,785000.0,0,0
+,,,,,,184,2026-02-01 05:57:13.156400,WNTR,24.54,24.54,24.71,994500.0,1460100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,185,2026-02-01 05:57:14.181398,SPNG,23.92,24.2,24.28,1632900.0,914300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,185,2026-02-01 05:57:14.181398,SMMR,24.21,24.21,24.24,1183400.0,1632500.0,0,0
+,,,,,,185,2026-02-01 05:57:14.181398,ATMN,25.52,25.52,26.47,1007600.0,789800.0,0,0
+,,,,,,185,2026-02-01 05:57:14.181398,WNTR,24.37,24.37,24.47,1054600.0,1562100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,186,2026-02-01 05:57:15.218330,SPNG,23.81,23.81,24.28,1532700.0,1139100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,186,2026-02-01 05:57:15.218330,SMMR,24.07,24.07,24.16,981600.0,1841800.0,0,0
+,,,,,,186,2026-02-01 05:57:15.218330,ATMN,25.52,25.93,26.47,1328200.0,789800.0,0,0
+,,,,,,186,2026-02-01 05:57:15.218330,WNTR,24.71,24.37,24.53,1173600.0,1579200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,187,2026-02-01 05:57:16.256412,SPNG,23.87,23.81,23.87,1642200.0,1250700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,187,2026-02-01 05:57:16.256412,SMMR,24.22,23.9,24.22,985000.0,1844000.0,0,0
+,,,,,,187,2026-02-01 05:57:16.256412,ATMN,25.93,25.93,26.06,1328200.0,915200.0,0,0
+,,,,,,187,2026-02-01 05:57:16.256412,WNTR,24.37,24.37,24.53,1300400.0,1579200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,188,2026-02-01 05:57:17.279061,SPNG,24.38,23.81,23.95,1642200.0,1234900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,188,2026-02-01 05:57:17.279061,SMMR,24.22,24.12,24.22,1392500.0,1844000.0,0,0
+,,,,,,188,2026-02-01 05:57:17.279061,ATMN,25.93,25.93,26.68,1328200.0,797100.0,0,0
+,,,,,,188,2026-02-01 05:57:17.279061,WNTR,24.71,24.37,24.5,1300400.0,1562500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,189,2026-02-01 05:57:18.314819,SPNG,24.38,23.81,23.95,2161700.0,1234900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,189,2026-02-01 05:57:18.314819,SMMR,24.22,24.04,24.22,1423100.0,1933800.0,0,0
+,,,,,,189,2026-02-01 05:57:18.314819,ATMN,25.93,26.28,26.34,1529600.0,994300.0,0,0
+,,,,,,189,2026-02-01 05:57:18.314819,WNTR,24.71,24.72,24.73,1693800.0,1451600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,190,2026-02-01 05:57:19.346836,SPNG,23.95,24.11,24.2,2247700.0,1225300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,190,2026-02-01 05:57:19.346836,SMMR,24.01,24.17,24.22,1536400.0,1933800.0,0,0
+,,,,,,190,2026-02-01 05:57:19.346836,ATMN,26.28,25.93,26.27,1502700.0,1168200.0,0,0
+,,,,,,190,2026-02-01 05:57:19.346836,WNTR,24.72,24.5,24.63,1730100.0,1683000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,191,2026-02-01 05:57:20.417229,SPNG,23.8,23.8,24.2,2197800.0,1225300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,191,2026-02-01 05:57:20.417229,SMMR,23.93,24.09,24.2,1406600.0,1942000.0,0,0
+,,,,,,191,2026-02-01 05:57:20.417229,ATMN,26.28,25.93,26.27,1708000.0,1285500.0,0,0
+,,,,,,191,2026-02-01 05:57:20.417229,WNTR,24.24,24.42,24.56,1613500.0,1684500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,192,2026-02-01 05:57:21.461913,SPNG,23.78,23.68,23.7,1971200.0,1454400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,192,2026-02-01 05:57:21.461913,SMMR,24.21,24.09,24.21,1509700.0,1921100.0,0,0
+,,,,,,192,2026-02-01 05:57:21.461913,ATMN,26.23,26.23,26.27,1884200.0,1401300.0,0,0
+,,,,,,192,2026-02-01 05:57:21.461913,WNTR,24.42,24.52,24.56,1735600.0,1684500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,193,2026-02-01 05:57:22.498806,SPNG,23.68,23.68,24.1,2094000.0,1337300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,193,2026-02-01 05:57:22.498806,SMMR,24.21,24.05,24.21,1505400.0,1921100.0,0,0
+,,,,,,193,2026-02-01 05:57:22.498806,ATMN,25.85,25.85,26.27,1716000.0,1599300.0,0,0
+,,,,,,193,2026-02-01 05:57:22.498806,WNTR,24.66,24.53,24.66,1874500.0,1579200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,194,2026-02-01 05:57:23.523393,SPNG,24.62,23.68,24.62,2094000.0,1131900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,194,2026-02-01 05:57:23.523393,SMMR,24.25,24.05,24.25,1706000.0,1689500.0,0,0
+,,,,,,194,2026-02-01 05:57:23.523393,ATMN,26.27,26.18,26.27,1901100.0,1511300.0,0,0
+,,,,,,194,2026-02-01 05:57:23.523393,WNTR,24.73,24.53,24.59,1874500.0,1677400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,195,2026-02-01 05:57:24.552033,SPNG,23.78,23.68,23.78,2210300.0,1248300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,195,2026-02-01 05:57:24.552033,SMMR,24.19,24.14,24.19,1815400.0,1728500.0,0,0
+,,,,,,195,2026-02-01 05:57:24.552033,ATMN,25.85,25.85,26.27,1810100.0,1693500.0,0,0
+,,,,,,195,2026-02-01 05:57:24.552033,WNTR,24.53,24.53,24.83,1874500.0,1554400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,196,2026-02-01 05:57:25.576485,SPNG,23.78,24.38,24.62,2553900.0,1131900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,196,2026-02-01 05:57:25.576485,SMMR,24.23,24.23,24.32,1939100.0,1725000.0,0,0
+,,,,,,196,2026-02-01 05:57:25.576485,ATMN,25.85,26.14,26.27,1920900.0,1869500.0,0,0
+,,,,,,196,2026-02-01 05:57:25.576485,WNTR,24.67,24.52,24.67,1735600.0,1659500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,197,2026-02-01 05:57:26.616259,SPNG,24.62,23.69,24.62,2444200.0,1218900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,197,2026-02-01 05:57:26.616259,SMMR,24.14,24.18,24.3,1913500.0,1937100.0,0,0
+,,,,,,197,2026-02-01 05:57:26.616259,ATMN,26.14,26.14,26.21,2039100.0,1894600.0,0,0
+,,,,,,197,2026-02-01 05:57:26.616259,WNTR,24.67,24.68,24.83,1740600.0,1659600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,198,2026-02-01 05:57:27.642385,SPNG,23.86,23.69,23.86,2444200.0,1341100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,198,2026-02-01 05:57:27.642385,SMMR,24.05,24.05,24.3,1706000.0,2109500.0,0,0
+,,,,,,198,2026-02-01 05:57:27.642385,ATMN,25.75,25.94,26.21,1904600.0,1894600.0,0,0
+,,,,,,198,2026-02-01 05:57:27.642385,WNTR,24.04,24.48,24.83,1453100.0,1659600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,199,2026-02-01 05:57:28.673258,SPNG,23.86,24.47,24.62,2506900.0,1297200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,199,2026-02-01 05:57:28.673258,SMMR,24.05,24.05,24.12,1706000.0,2133200.0,0,0
+,,,,,,199,2026-02-01 05:57:28.673258,ATMN,25.94,25.94,26.21,2005400.0,1895700.0,0,0
+,,,,,,199,2026-02-01 05:57:28.673258,WNTR,24.04,24.48,24.7,1555800.0,1894200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,200,2026-02-01 05:57:29.692501,SPNG,23.94,24.02,24.62,2500700.0,1297200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,200,2026-02-01 05:57:29.692501,SMMR,24.05,24.05,24.21,1843900.0,2147900.0,0,0
+,,,,,,200,2026-02-01 05:57:29.692501,ATMN,26.21,26.19,26.21,2032200.0,1895700.0,0,0
+,,,,,,200,2026-02-01 05:57:29.692501,WNTR,24.04,24.48,24.7,1555800.0,2207000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,201,2026-02-01 05:57:30.710822,SPNG,23.9,23.69,23.9,2508500.0,1390800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,201,2026-02-01 05:57:30.710822,SMMR,24.05,24.18,24.21,1955100.0,2166100.0,0,0
+,,,,,,201,2026-02-01 05:57:30.710822,ATMN,26.32,26.14,26.32,1984100.0,1834800.0,0,0
+,,,,,,201,2026-02-01 05:57:30.710822,WNTR,24.48,24.48,24.7,1772400.0,2207000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,202,2026-02-01 05:57:31.744872,SPNG,23.9,23.86,23.9,2363300.0,1390800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,202,2026-02-01 05:57:31.744872,SMMR,24.11,24.15,24.21,2034700.0,2135600.0,0,0
+,,,,,,202,2026-02-01 05:57:31.744872,ATMN,26.11,26.11,26.32,2029900.0,1834800.0,0,0
+,,,,,,202,2026-02-01 05:57:31.744872,WNTR,24.48,24.48,24.7,1884000.0,2243000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,203,2026-02-01 05:57:32.765102,SPNG,23.9,24.31,24.62,2258300.0,1419700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,203,2026-02-01 05:57:32.765102,SMMR,24.21,24.1,24.21,1941100.0,2163100.0,0,0
+,,,,,,203,2026-02-01 05:57:32.765102,ATMN,26.34,26.11,26.34,2017900.0,1769400.0,0,0
+,,,,,,203,2026-02-01 05:57:32.765102,WNTR,24.48,24.53,24.58,2116800.0,2272800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,204,2026-02-01 05:57:33.798302,SPNG,24.14,23.86,24.14,2306200.0,1542000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,204,2026-02-01 05:57:33.798302,SMMR,24.02,24.02,24.3,1749800.0,2137400.0,0,0
+,,,,,,204,2026-02-01 05:57:33.798302,ATMN,26.07,26.33,26.34,1975400.0,1769400.0,0,0
+,,,,,,204,2026-02-01 05:57:33.798302,WNTR,24.57,24.57,24.58,2363700.0,2288300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,205,2026-02-01 05:57:34.826601,SPNG,24.39,23.86,24.21,2306200.0,1599500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,205,2026-02-01 05:57:34.826601,SMMR,23.94,23.94,24.25,1639500.0,2165200.0,0,0
+,,,,,,205,2026-02-01 05:57:34.826601,ATMN,26.33,26.22,26.31,2011400.0,1901400.0,0,0
+,,,,,,205,2026-02-01 05:57:34.826601,WNTR,24.58,24.57,24.58,2474400.0,2277800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,206,2026-02-01 05:57:35.855290,SPNG,24.37,23.86,24.09,2306200.0,1727300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,206,2026-02-01 05:57:35.855290,SMMR,24.25,24.0,24.03,1730100.0,2181300.0,0,0
+,,,,,,206,2026-02-01 05:57:35.855290,ATMN,26.33,26.22,26.31,2037400.0,1904600.0,0,0
+,,,,,,206,2026-02-01 05:57:35.855290,WNTR,24.53,24.53,24.54,2473900.0,2309000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,207,2026-02-01 05:57:36.887428,SPNG,24.37,24.42,24.6,2306000.0,1526300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,207,2026-02-01 05:57:36.887428,SMMR,24.03,23.94,24.03,1890400.0,2181300.0,0,0
+,,,,,,207,2026-02-01 05:57:36.887428,ATMN,26.07,26.07,26.31,2064000.0,1904600.0,0,0
+,,,,,,207,2026-02-01 05:57:36.887428,WNTR,24.58,24.53,24.58,2473900.0,2272300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,208,2026-02-01 05:57:37.920891,SPNG,23.72,23.72,24.6,2436400.0,1526300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,208,2026-02-01 05:57:37.920891,SMMR,24.03,24.19,24.25,1989300.0,2165300.0,0,0
+,,,,,,208,2026-02-01 05:57:37.920891,ATMN,26.07,26.17,26.31,2014800.0,1904600.0,0,0
+,,,,,,208,2026-02-01 05:57:37.920891,WNTR,24.45,24.45,24.7,2236500.0,2255700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,209,2026-02-01 05:57:38.942660,SPNG,23.69,23.9,24.13,2452400.0,1650300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,209,2026-02-01 05:57:38.942660,SMMR,24.19,23.94,24.15,1994600.0,2172300.0,0,0
+,,,,,,209,2026-02-01 05:57:38.942660,ATMN,26.41,26.26,26.41,2021400.0,1766700.0,0,0
+,,,,,,209,2026-02-01 05:57:38.942660,WNTR,24.72,24.54,24.72,2444200.0,2242300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,210,2026-02-01 05:57:39.968117,SPNG,23.69,24.08,24.13,2372300.0,1755100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,210,2026-02-01 05:57:39.968117,SMMR,24.3,23.94,24.3,1994600.0,2160100.0,0,0
+,,,,,,210,2026-02-01 05:57:39.968117,ATMN,26.43,26.17,26.43,2041600.0,1654000.0,0,0
+,,,,,,210,2026-02-01 05:57:39.968117,WNTR,24.51,24.51,24.72,2341300.0,2241500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,212,2026-02-01 05:57:41.000489,SPNG,23.97,23.97,24.11,2404500.0,1883400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,212,2026-02-01 05:57:41.000489,SMMR,24.22,24.22,24.3,2345800.0,2160100.0,0,0
+,,,,,,212,2026-02-01 05:57:41.000489,ATMN,26.16,26.25,26.34,2052200.0,1771800.0,0,0
+,,,,,,212,2026-02-01 05:57:41.000489,WNTR,24.47,24.63,24.72,2340100.0,2241500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,213,2026-02-01 05:57:42.033745,SPNG,23.93,23.9,23.93,2334200.0,1996500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,213,2026-02-01 05:57:42.033745,SMMR,24.32,23.96,24.32,2217300.0,2175500.0,0,0
+,,,,,,213,2026-02-01 05:57:42.033745,ATMN,26.25,26.25,26.34,2053000.0,1864200.0,0,0
+,,,,,,213,2026-02-01 05:57:42.033745,WNTR,24.45,24.45,24.72,2236500.0,2241600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,214,2026-02-01 05:57:43.059317,SPNG,24.11,23.9,24.11,2254200.0,1883400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,214,2026-02-01 05:57:43.059317,SMMR,23.93,23.93,24.32,1900300.0,2194100.0,0,0
+,,,,,,214,2026-02-01 05:57:43.059317,ATMN,26.41,26.25,26.29,2053000.0,1859800.0,0,0
+,,,,,,214,2026-02-01 05:57:43.059317,WNTR,24.45,24.45,24.72,2236500.0,2216100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,215,2026-02-01 05:57:44.078186,SPNG,24.13,23.9,24.13,2204300.0,1755100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,215,2026-02-01 05:57:44.078186,SMMR,24.27,24.0,24.12,2126200.0,2197600.0,0,0
+,,,,,,215,2026-02-01 05:57:44.078186,ATMN,26.41,26.25,26.29,2053000.0,1905900.0,0,0
+,,,,,,215,2026-02-01 05:57:44.078186,WNTR,24.39,24.39,24.72,1905400.0,2199600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,216,2026-02-01 05:57:45.101039,SPNG,24.14,23.9,24.14,2220100.0,1631100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,216,2026-02-01 05:57:45.101039,SMMR,24.32,24.0,24.32,2331800.0,2178900.0,0,0
+,,,,,,216,2026-02-01 05:57:45.101039,ATMN,26.26,26.25,26.26,2053000.0,1886600.0,0,0
+,,,,,,216,2026-02-01 05:57:45.101039,WNTR,24.41,24.5,24.72,1924900.0,2199600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,217,2026-02-01 05:57:46.123652,SPNG,23.77,23.99,24.14,2242800.0,1631100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,217,2026-02-01 05:57:46.123652,SMMR,24.32,24.0,24.05,2331800.0,2150400.0,0,0
+,,,,,,217,2026-02-01 05:57:46.123652,ATMN,26.43,26.16,26.43,2037100.0,1866800.0,0,0
+,,,,,,217,2026-02-01 05:57:46.123652,WNTR,24.47,24.58,24.69,1919000.0,2187200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,218,2026-02-01 05:57:47.155477,SPNG,24.26,24.41,24.6,2245800.0,1606200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,218,2026-02-01 05:57:47.155477,SMMR,24.0,24.0,24.05,2279100.0,2150400.0,0,0
+,,,,,,218,2026-02-01 05:57:47.155477,ATMN,26.49,26.16,26.29,2037100.0,1832400.0,0,0
+,,,,,,218,2026-02-01 05:57:47.155477,WNTR,24.47,24.58,24.65,1919000.0,2161800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,219,2026-02-01 05:57:48.186267,SPNG,23.77,23.77,24.6,2209900.0,1823400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,219,2026-02-01 05:57:48.186267,SMMR,24.07,24.17,24.27,2238800.0,2178700.0,0,0
+,,,,,,219,2026-02-01 05:57:48.186267,ATMN,26.49,26.16,26.49,2042300.0,1812000.0,0,0
+,,,,,,219,2026-02-01 05:57:48.186267,WNTR,24.58,24.38,24.47,1797300.0,2189300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,220,2026-02-01 05:57:49.219048,SPNG,23.77,23.77,24.16,2207700.0,2043400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,220,2026-02-01 05:57:49.219048,SMMR,23.9,24.07,24.27,2370500.0,2178700.0,0,0
+,,,,,,220,2026-02-01 05:57:49.219048,ATMN,26.06,26.06,26.28,2053000.0,1799500.0,0,0
+,,,,,,220,2026-02-01 05:57:49.219048,WNTR,24.58,24.43,24.45,1999100.0,2218700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,221,2026-02-01 05:57:50.242013,SPNG,23.77,23.81,24.16,2195300.0,2043400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,221,2026-02-01 05:57:50.242013,SMMR,24.07,24.07,24.27,2370500.0,2172300.0,0,0
+,,,,,,221,2026-02-01 05:57:50.242013,ATMN,26.06,26.07,26.28,2059800.0,1799500.0,0,0
+,,,,,,221,2026-02-01 05:57:50.242013,WNTR,24.38,24.38,24.45,2151800.0,2218700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,222,2026-02-01 05:57:51.278399,SPNG,23.77,23.81,23.82,2197000.0,2025400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,222,2026-02-01 05:57:51.278399,SMMR,23.9,23.93,24.12,2301900.0,2189300.0,0,0
+,,,,,,222,2026-02-01 05:57:51.278399,ATMN,26.06,26.2,26.28,2045500.0,1822100.0,0,0
+,,,,,,222,2026-02-01 05:57:51.278399,WNTR,24.47,24.48,24.65,2526100.0,2161800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,223,2026-02-01 05:57:52.317055,SPNG,24.16,23.81,24.16,2197000.0,2035400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,223,2026-02-01 05:57:52.317055,SMMR,24.27,23.93,24.27,2273900.0,2172300.0,0,0
+,,,,,,223,2026-02-01 05:57:52.317055,ATMN,26.36,26.2,26.34,2045500.0,1807600.0,0,0
+,,,,,,223,2026-02-01 05:57:52.317055,WNTR,24.65,24.46,24.65,2473800.0,2161800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,224,2026-02-01 05:57:53.356688,SPNG,23.95,23.81,23.95,2197000.0,2085500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,224,2026-02-01 05:57:53.356688,SMMR,24.27,24.14,24.27,2262700.0,2172300.0,0,0
+,,,,,,224,2026-02-01 05:57:53.356688,ATMN,26.36,26.33,26.36,2027200.0,1816400.0,0,0
+,,,,,,224,2026-02-01 05:57:53.356688,WNTR,24.69,24.49,24.62,2431600.0,2162500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,225,2026-02-01 05:57:54.406130,SPNG,23.81,23.81,24.16,2197000.0,2062000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,225,2026-02-01 05:57:54.406130,SMMR,23.98,24.26,24.27,2269600.0,2155500.0,0,0
+,,,,,,225,2026-02-01 05:57:54.406130,ATMN,26.29,26.29,26.52,2016300.0,1700700.0,0,0
+,,,,,,225,2026-02-01 05:57:54.406130,WNTR,24.69,24.49,24.6,2431600.0,2213000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,226,2026-02-01 05:57:55.453157,SPNG,24.19,23.8,24.19,2190900.0,2016700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,226,2026-02-01 05:57:55.453157,SMMR,24.05,24.16,24.27,2255200.0,2155500.0,0,0
+,,,,,,226,2026-02-01 05:57:55.453157,ATMN,26.53,26.29,26.53,2012500.0,1812700.0,0,0
+,,,,,,226,2026-02-01 05:57:55.453157,WNTR,24.69,24.49,24.53,2447300.0,2206600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,227,2026-02-01 05:57:56.511969,SPNG,24.02,24.02,24.05,2168600.0,2057900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,227,2026-02-01 05:57:56.511969,SMMR,24.16,24.06,24.1,2268600.0,2172100.0,0,0
+,,,,,,227,2026-02-01 05:57:56.511969,ATMN,26.2,26.2,26.53,1979600.0,1814300.0,0,0
+,,,,,,227,2026-02-01 05:57:56.511969,WNTR,24.45,24.45,24.53,2462000.0,2206600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,228,2026-02-01 05:57:57.551877,SPNG,24.19,24.21,24.32,2212500.0,1985100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,228,2026-02-01 05:57:57.551877,SMMR,24.06,24.06,24.27,2268600.0,2183200.0,0,0
+,,,,,,228,2026-02-01 05:57:57.551877,ATMN,26.53,26.36,26.53,1988500.0,1809900.0,0,0
+,,,,,,228,2026-02-01 05:57:57.551877,WNTR,24.43,24.43,24.53,2487700.0,2206600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,229,2026-02-01 05:57:58.602329,SPNG,24.19,24.21,24.22,2212500.0,2085700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,229,2026-02-01 05:57:58.602329,SMMR,24.27,23.98,24.27,2278500.0,2171800.0,0,0
+,,,,,,229,2026-02-01 05:57:58.602329,ATMN,26.57,26.46,26.53,1968600.0,1797400.0,0,0
+,,,,,,229,2026-02-01 05:57:58.602329,WNTR,24.6,24.6,24.62,2460400.0,2222700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,230,2026-02-01 05:57:59.637422,SPNG,23.75,24.14,24.22,2199300.0,2103600.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,230,2026-02-01 05:57:59.637422,SMMR,24.27,23.99,24.06,2240700.0,2164300.0,0,0
+,,,,,,230,2026-02-01 05:57:59.637422,ATMN,26.07,26.07,26.53,2010100.0,1797100.0,0,0
+,,,,,,230,2026-02-01 05:57:59.637422,WNTR,24.6,24.43,24.6,2472100.0,2211200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,231,2026-02-01 05:58:00.673174,SPNG,23.75,23.75,24.15,2194300.0,2150000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,231,2026-02-01 05:58:00.673174,SMMR,24.21,23.98,24.16,2278500.0,2200900.0,0,0
+,,,,,,231,2026-02-01 05:58:00.673174,ATMN,26.4,26.33,26.4,1988300.0,1828400.0,0,0
+,,,,,,231,2026-02-01 05:58:00.673174,WNTR,24.6,24.43,24.47,2434900.0,2265100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,232,2026-02-01 05:58:01.723171,SPNG,24.15,23.75,24.15,2194300.0,2150000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,232,2026-02-01 05:58:01.723171,SMMR,23.98,23.93,23.94,2267500.0,2198800.0,0,0
+,,,,,,232,2026-02-01 05:58:01.723171,ATMN,26.07,26.11,26.4,2007500.0,1828400.0,0,0
+,,,,,,232,2026-02-01 05:58:01.723171,WNTR,24.6,24.46,24.47,2414900.0,2265300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,233,2026-02-01 05:58:02.757398,SPNG,24.22,23.75,24.22,2204400.0,2119400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,233,2026-02-01 05:58:02.757398,SMMR,24.21,23.94,24.27,2244100.0,2174100.0,0,0
+,,,,,,233,2026-02-01 05:58:02.757398,ATMN,26.49,26.11,26.49,2007500.0,1825100.0,0,0
+,,,,,,233,2026-02-01 05:58:02.757398,WNTR,24.47,24.49,24.53,2400000.0,2230500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,234,2026-02-01 05:58:03.782171,SPNG,24.22,23.75,24.06,2225100.0,2158100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,234,2026-02-01 05:58:03.782171,SMMR,24.27,23.93,23.98,2267500.0,2221600.0,0,0
+,,,,,,234,2026-02-01 05:58:03.782171,ATMN,26.11,26.11,26.53,2007500.0,1829600.0,0,0
+,,,,,,234,2026-02-01 05:58:03.782171,WNTR,24.65,24.49,24.65,2366800.0,2223500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,235,2026-02-01 05:58:04.811855,SPNG,23.92,23.92,24.06,2219000.0,2158100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,235,2026-02-01 05:58:04.811855,SMMR,24.27,23.93,23.98,2239800.0,2221600.0,0,0
+,,,,,,235,2026-02-01 05:58:04.811855,ATMN,26.06,26.06,26.14,2027700.0,1852500.0,0,0
+,,,,,,235,2026-02-01 05:58:04.811855,WNTR,24.46,24.46,24.63,2400100.0,2263300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,236,2026-02-01 05:58:05.842080,SPNG,23.91,23.91,24.06,2207300.0,2175000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,236,2026-02-01 05:58:05.842080,SMMR,23.98,24.07,24.1,2247800.0,2191100.0,0,0
+,,,,,,236,2026-02-01 05:58:05.842080,ATMN,26.14,26.06,26.14,1989400.0,1852500.0,0,0
+,,,,,,236,2026-02-01 05:58:05.842080,WNTR,24.4,24.4,24.63,2381900.0,2263300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,237,2026-02-01 05:58:06.873479,SPNG,24.17,23.68,24.17,2219400.0,2145100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,237,2026-02-01 05:58:06.873479,SMMR,24.07,24.07,24.1,2211500.0,2191100.0,0,0
+,,,,,,237,2026-02-01 05:58:06.873479,ATMN,26.58,26.06,26.56,1996000.0,1841300.0,0,0
+,,,,,,237,2026-02-01 05:58:06.873479,WNTR,24.65,24.4,24.57,2381900.0,2246700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,238,2026-02-01 05:58:07.896172,SPNG,24.17,23.68,24.09,2237300.0,2167700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,238,2026-02-01 05:58:07.896172,SMMR,24.29,24.13,24.29,2219600.0,2165900.0,0,0
+,,,,,,238,2026-02-01 05:58:07.896172,ATMN,26.04,26.04,26.63,1990300.0,1823400.0,0,0
+,,,,,,238,2026-02-01 05:58:07.896172,WNTR,24.57,24.55,24.57,2403000.0,2246700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,239,2026-02-01 05:58:08.932045,SPNG,24.32,23.68,24.32,2237300.0,2079700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,239,2026-02-01 05:58:08.932045,SMMR,23.9,23.9,24.1,2271300.0,2196300.0,0,0
+,,,,,,239,2026-02-01 05:58:08.932045,ATMN,26.03,26.03,26.5,1981900.0,1837900.0,0,0
+,,,,,,239,2026-02-01 05:58:08.932045,WNTR,24.57,24.64,24.65,2374000.0,2280900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,240,2026-02-01 05:58:09.976955,SPNG,23.45,22.0,22.93,1137400.0,937700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,240,2026-02-01 05:58:09.976955,SMMR,24.33,24.11,24.33,866700.0,875200.0,0,0
+,,,,,,240,2026-02-01 05:58:09.976955,ATMN,26.64,26.42,26.64,990700.0,730900.0,0,0
+,,,,,,240,2026-02-01 05:58:09.976955,WNTR,24.57,23.63,23.85,1024800.0,1143300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,241,2026-02-01 05:58:10.999268,SPNG,23.75,22.0,23.34,1137400.0,1121400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,241,2026-02-01 05:58:10.999268,SMMR,24.33,23.96,24.33,898500.0,961400.0,0,0
+,,,,,,241,2026-02-01 05:58:10.999268,ATMN,26.64,26.42,26.48,1097800.0,929600.0,0,0
+,,,,,,241,2026-02-01 05:58:10.999268,WNTR,23.63,23.3,23.8,1006400.0,1347400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,242,2026-02-01 05:58:12.035824,SPNG,23.34,23.4,23.93,1538600.0,1010100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,242,2026-02-01 05:58:12.035824,SMMR,23.96,23.74,23.85,904000.0,1263900.0,0,0
+,,,,,,242,2026-02-01 05:58:12.035824,ATMN,26.42,26.42,26.48,997800.0,1107600.0,0,0
+,,,,,,242,2026-02-01 05:58:12.035824,WNTR,23.49,23.3,23.49,1050000.0,1477700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,243,2026-02-01 05:58:13.076646,SPNG,23.43,23.4,23.43,1538600.0,1211100.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,243,2026-02-01 05:58:13.076646,SMMR,23.63,23.63,24.33,910600.0,1062000.0,0,0
+,,,,,,243,2026-02-01 05:58:13.076646,ATMN,26.48,26.34,26.48,1003500.0,1185800.0,0,0
+,,,,,,243,2026-02-01 05:58:13.076646,WNTR,23.3,22.92,23.17,1346700.0,1618000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,244,2026-02-01 05:58:14.107004,SPNG,23.43,23.6,23.93,1636600.0,1281000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,244,2026-02-01 05:58:14.107004,SMMR,23.63,23.78,24.33,1214400.0,1062000.0,0,0
+,,,,,,244,2026-02-01 05:58:14.107004,ATMN,26.48,26.34,26.48,1099000.0,1448300.0,0,0
+,,,,,,244,2026-02-01 05:58:14.107004,WNTR,22.92,22.92,23.49,1472600.0,1596900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,245,2026-02-01 05:58:15.136565,SPNG,23.43,23.6,23.93,1636600.0,1470700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,245,2026-02-01 05:58:15.136565,SMMR,23.78,23.78,24.48,1331500.0,983900.0,0,0
+,,,,,,245,2026-02-01 05:58:15.136565,ATMN,26.55,26.34,26.55,1099000.0,1168200.0,0,0
+,,,,,,245,2026-02-01 05:58:15.136565,WNTR,22.92,22.95,23.04,1744900.0,1707400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,246,2026-02-01 05:58:16.170419,SPNG,22.65,22.65,23.93,1408500.0,1771800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,246,2026-02-01 05:58:16.170419,SMMR,23.84,23.92,24.08,1457600.0,1087500.0,0,0
+,,,,,,246,2026-02-01 05:58:16.170419,ATMN,26.73,26.34,26.73,1099000.0,877400.0,0,0
+,,,,,,246,2026-02-01 05:58:16.170419,WNTR,23.04,23.36,23.38,2034000.0,1848200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,247,2026-02-01 05:58:17.206514,SPNG,22.65,23.09,23.93,1512100.0,1771800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,247,2026-02-01 05:58:17.206514,SMMR,23.97,24.01,24.08,1569000.0,1184100.0,0,0
+,,,,,,247,2026-02-01 05:58:17.206514,ATMN,26.73,26.34,26.73,1179800.0,877400.0,0,0
+,,,,,,247,2026-02-01 05:58:17.206514,WNTR,23.36,23.05,23.35,1889200.0,2088700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,249,2026-02-01 05:58:18.250212,SPNG,23.09,22.65,22.8,1408500.0,2043700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,249,2026-02-01 05:58:18.250212,SMMR,24.08,24.14,24.48,1990900.0,983900.0,0,0
+,,,,,,249,2026-02-01 05:58:18.250212,ATMN,26.42,26.34,26.42,1384000.0,984000.0,0,0
+,,,,,,249,2026-02-01 05:58:18.250212,WNTR,23.36,23.25,23.35,2128900.0,2172100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,250,2026-02-01 05:58:19.311425,SPNG,22.83,23.59,23.83,1650400.0,1997600.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,250,2026-02-01 05:58:19.311425,SMMR,24.15,24.28,24.48,1896900.0,983900.0,0,0
+,,,,,,250,2026-02-01 05:58:19.311425,ATMN,26.7,26.34,26.49,1384000.0,1168600.0,0,0
+,,,,,,250,2026-02-01 05:58:19.311425,WNTR,23.25,23.19,23.25,1989200.0,2336000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,251,2026-02-01 05:58:20.349034,SPNG,22.65,22.65,23.83,1519700.0,2047700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,251,2026-02-01 05:58:20.349034,SMMR,24.28,24.09,24.16,1904800.0,1298500.0,0,0
+,,,,,,251,2026-02-01 05:58:20.349034,ATMN,26.7,26.34,26.49,1683000.0,1168600.0,0,0
+,,,,,,251,2026-02-01 05:58:20.349034,WNTR,23.38,23.05,23.38,2009800.0,2287000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,252,2026-02-01 05:58:21.379582,SPNG,23.93,22.3,23.93,1384100.0,2015000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,252,2026-02-01 05:58:21.379582,SMMR,24.16,24.25,24.33,2150900.0,1289500.0,0,0
+,,,,,,252,2026-02-01 05:58:21.379582,ATMN,26.34,26.34,26.86,1575900.0,1053400.0,0,0
+,,,,,,252,2026-02-01 05:58:21.379582,WNTR,23.38,23.05,23.08,2284700.0,2323000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,253,2026-02-01 05:58:22.404576,SPNG,23.38,22.3,22.99,1517800.0,2058700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,253,2026-02-01 05:58:22.404576,SMMR,24.25,24.13,24.15,2027400.0,1683400.0,0,0
+,,,,,,253,2026-02-01 05:58:22.404576,ATMN,26.93,26.34,26.54,1575900.0,1161500.0,0,0
+,,,,,,253,2026-02-01 05:58:22.404576,WNTR,23.08,23.05,23.08,2529600.0,2323000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,254,2026-02-01 05:58:23.437349,SPNG,23.38,22.63,22.99,1844700.0,2058700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,254,2026-02-01 05:58:23.437349,SMMR,24.25,24.13,24.15,2027400.0,2023700.0,0,0
+,,,,,,254,2026-02-01 05:58:23.437349,ATMN,26.54,26.4,26.54,1769600.0,1161500.0,0,0
+,,,,,,254,2026-02-01 05:58:23.437349,WNTR,23.08,23.24,23.38,2629600.0,2336500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,255,2026-02-01 05:58:24.469175,SPNG,23.95,22.63,23.03,1993600.0,2045000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,255,2026-02-01 05:58:24.469175,SMMR,24.13,24.13,24.15,2027400.0,2132800.0,0,0
+,,,,,,255,2026-02-01 05:58:24.469175,ATMN,26.24,26.24,26.93,1517000.0,1053100.0,0,0
+,,,,,,255,2026-02-01 05:58:24.469175,WNTR,23.08,23.34,23.37,2633600.0,2327200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,256,2026-02-01 05:58:25.504988,SPNG,23.95,22.92,23.03,2321500.0,2045000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,256,2026-02-01 05:58:25.504988,SMMR,24.13,24.13,24.15,2027400.0,2112100.0,0,0
+,,,,,,256,2026-02-01 05:58:25.504988,ATMN,26.5,26.24,26.5,1620500.0,1156700.0,0,0
+,,,,,,256,2026-02-01 05:58:25.504988,WNTR,23.08,23.34,23.37,2623100.0,2358300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,257,2026-02-01 05:58:26.527692,SPNG,23.03,23.13,23.49,2537400.0,2025700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,257,2026-02-01 05:58:26.527692,SMMR,24.01,23.92,23.93,1670500.0,2147200.0,0,0
+,,,,,,257,2026-02-01 05:58:26.527692,ATMN,26.24,26.24,26.93,1620500.0,1165100.0,0,0
+,,,,,,257,2026-02-01 05:58:26.527692,WNTR,23.24,23.24,23.35,2629600.0,2362100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,258,2026-02-01 05:58:27.551567,SPNG,23.49,23.44,23.49,2455600.0,2056400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,258,2026-02-01 05:58:27.551567,SMMR,24.01,23.92,23.93,2121000.0,2147200.0,0,0
+,,,,,,258,2026-02-01 05:58:27.551567,ATMN,26.55,26.24,26.55,1830000.0,1250900.0,0,0
+,,,,,,258,2026-02-01 05:58:27.551567,WNTR,23.05,23.05,23.11,2624600.0,2331700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,259,2026-02-01 05:58:28.578400,SPNG,23.55,23.13,23.43,2537400.0,2037000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,259,2026-02-01 05:58:28.578400,SMMR,24.01,23.92,23.93,2263500.0,2147200.0,0,0
+,,,,,,259,2026-02-01 05:58:28.578400,ATMN,26.55,26.63,26.88,2030200.0,1274700.0,0,0
+,,,,,,259,2026-02-01 05:58:28.578400,WNTR,23.22,23.05,23.15,2608800.0,2353700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,260,2026-02-01 05:58:29.606793,SPNG,23.63,23.79,23.95,2454900.0,2000500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,260,2026-02-01 05:58:29.606793,SMMR,23.95,23.92,23.95,2263500.0,2145100.0,0,0
+,,,,,,260,2026-02-01 05:58:29.606793,ATMN,26.41,26.56,26.88,2009200.0,1458100.0,0,0
+,,,,,,260,2026-02-01 05:58:29.606793,WNTR,23.02,23.02,23.37,2590400.0,2348300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,261,2026-02-01 05:58:30.632014,SPNG,22.63,22.63,23.95,2341600.0,2018900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,261,2026-02-01 05:58:30.632014,SMMR,24.02,24.03,24.15,2273400.0,2132100.0,0,0
+,,,,,,261,2026-02-01 05:58:30.632014,ATMN,26.41,26.59,26.66,2102500.0,1648000.0,0,0
+,,,,,,261,2026-02-01 05:58:30.632014,WNTR,23.37,23.15,23.37,2579500.0,2348300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,262,2026-02-01 05:58:31.664805,SPNG,23.59,23.59,23.95,2456100.0,2033000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,262,2026-02-01 05:58:31.664805,SMMR,24.03,24.03,24.04,2273400.0,2115500.0,0,0
+,,,,,,262,2026-02-01 05:58:31.664805,ATMN,26.33,26.33,26.66,1926600.0,1761600.0,0,0
+,,,,,,262,2026-02-01 05:58:31.664805,WNTR,23.41,22.97,23.41,2628300.0,2349200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,263,2026-02-01 05:58:32.681805,SPNG,22.94,22.98,23.95,2463500.0,2044900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,263,2026-02-01 05:58:32.681805,SMMR,24.0,24.0,24.04,2281400.0,2115500.0,0,0
+,,,,,,263,2026-02-01 05:58:32.681805,ATMN,26.66,26.59,26.66,2134900.0,1859300.0,0,0
+,,,,,,263,2026-02-01 05:58:32.681805,WNTR,23.41,23.16,23.38,2575700.0,2344500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,264,2026-02-01 05:58:33.715507,SPNG,22.5,23.81,23.95,2360800.0,2057400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,264,2026-02-01 05:58:33.715507,SMMR,24.03,24.03,24.15,2255900.0,2132100.0,0,0
+,,,,,,264,2026-02-01 05:58:33.715507,ATMN,26.42,26.42,26.66,2134000.0,1891600.0,0,0
+,,,,,,264,2026-02-01 05:58:33.715507,WNTR,23.04,23.05,23.38,2593900.0,2344500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,265,2026-02-01 05:58:34.775599,SPNG,23.81,22.5,23.52,2244400.0,2065300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,265,2026-02-01 05:58:34.775599,SMMR,24.0,24.12,24.15,2264500.0,2132100.0,0,0
+,,,,,,265,2026-02-01 05:58:34.775599,ATMN,26.66,26.42,26.63,2134000.0,1919300.0,0,0
+,,,,,,265,2026-02-01 05:58:34.775599,WNTR,23.38,22.97,23.38,2628300.0,2344500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,266,2026-02-01 05:58:35.809411,SPNG,23.52,23.47,23.95,2483000.0,2057900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,266,2026-02-01 05:58:35.809411,SMMR,24.09,23.96,24.09,2280500.0,2091400.0,0,0
+,,,,,,266,2026-02-01 05:58:35.809411,ATMN,26.71,26.42,26.58,2228600.0,1905100.0,0,0
+,,,,,,266,2026-02-01 05:58:35.809411,WNTR,22.97,23.18,23.38,2625500.0,2371100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,267,2026-02-01 05:58:36.840518,SPNG,23.47,23.47,23.77,2483000.0,2037000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,267,2026-02-01 05:58:36.840518,SMMR,24.15,24.0,24.15,2270300.0,2100500.0,0,0
+,,,,,,267,2026-02-01 05:58:36.840518,ATMN,26.71,26.42,26.58,2157400.0,1902700.0,0,0
+,,,,,,267,2026-02-01 05:58:36.840518,WNTR,22.97,23.18,23.38,2625500.0,2419200.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,268,2026-02-01 05:58:37.874229,SPNG,23.47,22.89,23.06,2571600.0,2053500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,268,2026-02-01 05:58:37.874229,SMMR,23.96,23.96,24.15,2293800.0,2100500.0,0,0
+,,,,,,268,2026-02-01 05:58:37.874229,ATMN,26.58,26.42,26.58,2111200.0,1902700.0,0,0
+,,,,,,268,2026-02-01 05:58:37.874229,WNTR,22.97,23.18,23.32,2625500.0,2401700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,269,2026-02-01 05:58:38.901681,SPNG,23.06,23.33,23.72,2420300.0,2041900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,269,2026-02-01 05:58:38.901681,SMMR,23.96,23.96,24.04,2261400.0,2079400.0,0,0
+,,,,,,269,2026-02-01 05:58:38.901681,ATMN,26.35,26.35,26.71,2138300.0,1870500.0,0,0
+,,,,,,269,2026-02-01 05:58:38.901681,WNTR,23.18,22.95,23.14,2507700.0,2424000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,270,2026-02-01 05:58:39.920219,SPNG,23.33,22.89,23.07,2393000.0,2043300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,270,2026-02-01 05:58:39.920219,SMMR,23.92,23.92,24.03,2267300.0,2086700.0,0,0
+,,,,,,270,2026-02-01 05:58:39.920219,ATMN,26.78,26.33,26.53,2191200.0,1843700.0,0,0
+,,,,,,270,2026-02-01 05:58:39.920219,WNTR,22.95,22.92,22.95,2490800.0,2471400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,271,2026-02-01 05:58:40.941623,SPNG,23.07,22.89,23.07,2350800.0,2043300.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,271,2026-02-01 05:58:40.941623,SMMR,24.15,23.99,24.15,2258200.0,2127900.0,0,0
+,,,,,,271,2026-02-01 05:58:40.941623,ATMN,26.78,26.33,26.78,2191200.0,1831800.0,0,0
+,,,,,,271,2026-02-01 05:58:40.941623,WNTR,23.22,22.98,23.0,2602700.0,2433700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,272,2026-02-01 05:58:41.969842,SPNG,23.62,22.94,23.62,2296400.0,2035900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,272,2026-02-01 05:58:41.969842,SMMR,23.92,23.92,24.15,2267300.0,2125800.0,0,0
+,,,,,,272,2026-02-01 05:58:41.969842,ATMN,26.26,26.67,26.78,2269600.0,1831800.0,0,0
+,,,,,,272,2026-02-01 05:58:41.969842,WNTR,23.23,23.28,23.32,2578000.0,2428600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,273,2026-02-01 05:58:43.004203,SPNG,23.72,23.21,23.72,2271800.0,2032200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,273,2026-02-01 05:58:43.004203,SMMR,23.92,23.92,24.02,2246800.0,2078600.0,0,0
+,,,,,,273,2026-02-01 05:58:43.004203,ATMN,26.22,26.55,26.78,2015900.0,1831800.0,0,0
+,,,,,,273,2026-02-01 05:58:43.004203,WNTR,22.91,23.08,23.16,2505500.0,2408700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,274,2026-02-01 05:58:44.031819,SPNG,23.77,23.21,23.77,2271800.0,2041500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,274,2026-02-01 05:58:44.031819,SMMR,24.04,24.12,24.15,2192300.0,2093300.0,0,0
+,,,,,,274,2026-02-01 05:58:44.031819,ATMN,26.88,26.22,26.88,1931800.0,1728100.0,0,0
+,,,,,,274,2026-02-01 05:58:44.031819,WNTR,23.16,23.22,23.32,2577900.0,2428600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,275,2026-02-01 05:58:45.091402,SPNG,23.0,23.22,23.58,2313500.0,2049700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,275,2026-02-01 05:58:45.091402,SMMR,23.9,24.14,24.15,2220800.0,2104200.0,0,0
+,,,,,,275,2026-02-01 05:58:45.091402,ATMN,26.88,26.5,26.88,2193800.0,1728100.0,0,0
+,,,,,,275,2026-02-01 05:58:45.091402,WNTR,23.06,22.91,23.06,2608500.0,2404700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,276,2026-02-01 05:58:46.161409,SPNG,23.02,23.12,23.58,2295900.0,2049700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,276,2026-02-01 05:58:46.161409,SMMR,24.16,24.14,24.16,2226900.0,2068200.0,0,0
+,,,,,,276,2026-02-01 05:58:46.161409,ATMN,26.22,26.58,26.88,2196700.0,1728100.0,0,0
+,,,,,,276,2026-02-01 05:58:46.161409,WNTR,22.87,22.87,23.06,2486500.0,2404700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,277,2026-02-01 05:58:47.195630,SPNG,22.94,22.94,23.0,2296400.0,2026500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,277,2026-02-01 05:58:47.195630,SMMR,24.16,24.14,24.16,2206900.0,2081600.0,0,0
+,,,,,,277,2026-02-01 05:58:47.195630,ATMN,26.58,26.58,26.88,2159100.0,1825500.0,0,0
+,,,,,,277,2026-02-01 05:58:47.195630,WNTR,23.06,23.17,23.32,2548800.0,2407400.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,278,2026-02-01 05:58:48.224925,SPNG,22.89,22.89,23.22,2327500.0,2034500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,278,2026-02-01 05:58:48.224925,SMMR,24.0,24.14,24.16,2217600.0,2107900.0,0,0
+,,,,,,278,2026-02-01 05:58:48.224925,ATMN,26.58,26.58,26.81,2132100.0,1839200.0,0,0
+,,,,,,278,2026-02-01 05:58:48.224925,WNTR,22.85,22.85,23.32,2453200.0,2411800.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,279,2026-02-01 05:58:49.249180,SPNG,23.22,22.92,23.22,2310900.0,2034500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,279,2026-02-01 05:58:49.249180,SMMR,24.16,23.95,24.02,2196400.0,2108900.0,0,0
+,,,,,,279,2026-02-01 05:58:49.249180,ATMN,26.3,26.38,26.61,2171900.0,1848700.0,0,0
+,,,,,,279,2026-02-01 05:58:49.249180,WNTR,23.26,22.85,23.14,2577200.0,2393100.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,280,2026-02-01 05:58:50.273890,SPNG,23.29,23.29,23.58,2294700.0,2050500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,280,2026-02-01 05:58:50.273890,SMMR,24.16,23.97,24.02,2185000.0,2109000.0,0,0
+,,,,,,280,2026-02-01 05:58:50.273890,ATMN,26.61,26.38,26.61,2146800.0,1848700.0,0,0
+,,,,,,280,2026-02-01 05:58:50.273890,WNTR,23.32,23.03,23.32,2556600.0,2394600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,281,2026-02-01 05:58:51.311105,SPNG,23.29,22.92,23.08,2295000.0,2036500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,281,2026-02-01 05:58:51.311105,SMMR,24.07,23.97,24.07,2185000.0,2125500.0,0,0
+,,,,,,281,2026-02-01 05:58:51.311105,ATMN,26.81,26.45,26.81,2091700.0,1839200.0,0,0
+,,,,,,281,2026-02-01 05:58:51.311105,WNTR,23.32,23.03,23.11,2556600.0,2341300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,282,2026-02-01 05:58:52.345677,SPNG,23.29,22.92,23.08,2320100.0,2036500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,282,2026-02-01 05:58:52.345677,SMMR,24.17,23.97,24.17,2185000.0,2103100.0,0,0
+,,,,,,282,2026-02-01 05:58:52.345677,ATMN,26.88,26.45,26.86,2076400.0,1786700.0,0,0
+,,,,,,282,2026-02-01 05:58:52.345677,WNTR,23.03,23.03,23.2,2556600.0,2346000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,283,2026-02-01 05:58:53.376427,SPNG,23.29,22.92,23.08,2301400.0,2036500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,283,2026-02-01 05:58:53.376427,SMMR,24.2,24.0,24.2,2161500.0,2147600.0,0,0
+,,,,,,283,2026-02-01 05:58:53.376427,ATMN,26.57,26.45,26.57,2085400.0,1812200.0,0,0
+,,,,,,283,2026-02-01 05:58:53.376427,WNTR,23.03,22.86,22.94,2557700.0,2349900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,285,2026-02-01 05:58:54.416205,SPNG,23.58,22.92,23.58,2276700.0,2047700.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,285,2026-02-01 05:58:54.416205,SMMR,23.97,23.97,24.2,2185000.0,2152300.0,0,0
+,,,,,,285,2026-02-01 05:58:54.416205,ATMN,26.45,26.45,26.86,2085400.0,1810000.0,0,0
+,,,,,,285,2026-02-01 05:58:54.416205,WNTR,22.86,22.86,23.2,2542900.0,2346000.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,286,2026-02-01 05:58:55.448128,SPNG,23.62,23.01,23.62,2267300.0,2049200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,286,2026-02-01 05:58:55.448128,SMMR,24.22,24.03,24.22,2184400.0,2155000.0,0,0
+,,,,,,286,2026-02-01 05:58:55.448128,ATMN,26.88,26.38,26.88,2056600.0,1785500.0,0,0
+,,,,,,286,2026-02-01 05:58:55.448128,WNTR,23.32,22.86,22.9,2542900.0,2395500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,287,2026-02-01 05:58:56.475264,SPNG,22.94,22.94,23.62,2276300.0,2049200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,287,2026-02-01 05:58:56.475264,SMMR,24.22,24.03,24.22,2184400.0,2155000.0,0,0
+,,,,,,287,2026-02-01 05:58:56.475264,ATMN,26.91,26.62,26.91,2043800.0,1783000.0,0,0
+,,,,,,287,2026-02-01 05:58:56.475264,WNTR,22.9,22.89,22.9,2496100.0,2395500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,288,2026-02-01 05:58:57.523451,SPNG,23.63,23.01,23.62,2254600.0,2017800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,288,2026-02-01 05:58:57.523451,SMMR,24.11,24.03,24.11,2191500.0,2152500.0,0,0
+,,,,,,288,2026-02-01 05:58:57.523451,ATMN,26.62,26.42,26.56,2040300.0,1799700.0,0,0
+,,,,,,288,2026-02-01 05:58:57.523451,WNTR,22.89,22.89,23.26,2496100.0,2377500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,289,2026-02-01 05:58:58.547520,SPNG,23.37,23.37,23.62,2245700.0,2017800.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,289,2026-02-01 05:58:58.547520,SMMR,24.23,24.03,24.23,2191500.0,2160700.0,0,0
+,,,,,,289,2026-02-01 05:58:58.547520,ATMN,26.93,26.42,26.93,2040300.0,1790800.0,0,0
+,,,,,,289,2026-02-01 05:58:58.547520,WNTR,22.89,22.89,23.16,2491300.0,2376300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,290,2026-02-01 05:58:59.585029,SPNG,23.37,23.37,23.51,2245700.0,2072500.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,290,2026-02-01 05:58:59.585029,SMMR,24.04,24.12,24.23,2167300.0,2161300.0,0,0
+,,,,,,290,2026-02-01 05:58:59.585029,ATMN,26.93,26.68,26.93,2056200.0,1678800.0,0,0
+,,,,,,290,2026-02-01 05:58:59.585029,WNTR,23.12,22.93,23.07,2502700.0,2411900.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,291,2026-02-01 05:59:00.634570,SPNG,23.6,23.01,23.05,2254600.0,2095400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,291,2026-02-01 05:59:00.634570,SMMR,23.99,23.99,24.19,2194700.0,2188100.0,0,0
+,,,,,,291,2026-02-01 05:59:00.634570,ATMN,26.47,26.56,26.91,2049000.0,1769000.0,0,0
+,,,,,,291,2026-02-01 05:59:00.634570,WNTR,23.16,22.89,22.9,2461400.0,2419500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,292,2026-02-01 05:59:01.676604,SPNG,23.05,23.01,23.05,2230600.0,2095400.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,292,2026-02-01 05:59:01.676604,SMMR,24.25,24.13,24.25,2206000.0,2167400.0,0,0
+,,,,,,292,2026-02-01 05:59:01.676604,ATMN,26.98,26.56,26.98,2053700.0,1522400.0,0,0
+,,,,,,292,2026-02-01 05:59:01.676604,WNTR,22.9,22.95,23.16,2493800.0,2376300.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,293,2026-02-01 05:59:02.716166,SPNG,23.6,23.01,23.23,2227700.0,2073900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,293,2026-02-01 05:59:02.716166,SMMR,24.26,24.13,24.26,2206000.0,2181400.0,0,0
+,,,,,,293,2026-02-01 05:59:02.716166,ATMN,26.98,26.67,26.93,2050000.0,1505200.0,0,0
+,,,,,,293,2026-02-01 05:59:02.716166,WNTR,22.95,22.95,23.26,2493800.0,2357700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,294,2026-02-01 05:59:03.751399,SPNG,23.59,23.01,23.27,2227700.0,2060900.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,294,2026-02-01 05:59:03.751399,SMMR,24.13,24.05,24.07,2228400.0,2203500.0,0,0
+,,,,,,294,2026-02-01 05:59:03.751399,ATMN,27.0,26.67,26.93,2050000.0,1423000.0,0,0
+,,,,,,294,2026-02-01 05:59:03.751399,WNTR,22.89,22.89,23.26,2465600.0,2376700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,295,2026-02-01 05:59:04.784656,SPNG,23.52,23.01,23.09,2227700.0,2059600.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,295,2026-02-01 05:59:04.784656,SMMR,24.07,24.12,24.26,2226600.0,2181400.0,0,0
+,,,,,,295,2026-02-01 05:59:04.784656,ATMN,26.78,26.67,26.78,2038900.0,1427400.0,0,0
+,,,,,,295,2026-02-01 05:59:04.784656,WNTR,23.26,22.89,23.26,2465600.0,2376700.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,296,2026-02-01 05:59:05.806374,SPNG,22.92,22.92,23.62,2249400.0,2045200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,296,2026-02-01 05:59:05.806374,SMMR,24.12,23.98,24.03,2238600.0,2204100.0,0,0
+,,,,,,296,2026-02-01 05:59:05.806374,ATMN,26.67,26.67,27.0,2038900.0,1423400.0,0,0
+,,,,,,296,2026-02-01 05:59:05.806374,WNTR,23.26,23.2,23.22,2478600.0,2370600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,297,2026-02-01 05:59:06.831241,SPNG,23.62,22.95,23.62,2263800.0,2045200.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,297,2026-02-01 05:59:06.831241,SMMR,24.1,24.11,24.26,2227400.0,2203000.0,0,0
+,,,,,,297,2026-02-01 05:59:06.831241,ATMN,26.67,26.67,27.0,2012800.0,1600400.0,0,0
+,,,,,,297,2026-02-01 05:59:06.831241,WNTR,23.2,22.89,23.19,2465600.0,2387600.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,298,2026-02-01 05:59:07.858713,SPNG,23.34,23.65,23.69,2261900.0,2047000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,298,2026-02-01 05:59:07.858713,SMMR,24.26,24.11,24.26,2227400.0,2208700.0,0,0
+,,,,,,298,2026-02-01 05:59:07.858713,ATMN,26.91,26.67,26.91,2012800.0,1712800.0,0,0
+,,,,,,298,2026-02-01 05:59:07.858713,WNTR,23.2,22.89,22.99,2492700.0,2381500.0,0,0
+2.0,1.0,1.0,,Aggregate Position Limit,Your CRO has set the aggregate position limit to 12000 shares for this week.,299,2026-02-01 05:59:08.889645,SPNG,23.23,23.29,23.69,2276800.0,2047000.0,0,0
+1.0,1.0,1.0,,Welcome to the RITC 2026 Alogithmic Market Making Case - practice server,,299,2026-02-01 05:59:08.889645,SMMR,24.0,24.0,24.12,2237300.0,2173500.0,0,0
+,,,,,,299,2026-02-01 05:59:08.889645,ATMN,27.02,26.72,27.02,1983100.0,1708800.0,0,0
+,,,,,,299,2026-02-01 05:59:08.889645,WNTR,22.99,22.89,22.99,2492700.0,2394700.0,0,0
