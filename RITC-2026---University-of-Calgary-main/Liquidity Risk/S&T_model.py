@@ -124,7 +124,7 @@ def realtime_monitoring():
     signal.signal(signal.SIGINT, signal_handler)
 
     # Create a session with your API key.
-    API_KEY = {'X-API-Key': '2'}
+    API_KEY = {'X-API-Key': '62BARBC1'}
     session = requests.Session()
     session.headers.update(API_KEY)
 
