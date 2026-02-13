@@ -13,7 +13,7 @@ IMPACT_CSV = Path(r"C:\Users\rylan\Desktop\M&A\ticker_by_ticker_impacts.csv")
 
 # RIT API Configuration
 RIT_API_KEY = "RYL2000"  # Replace with your actual API key
-RIT_BASE_URL = "http://localhost:9999/v1"
+RIT_BASE_URL = "http://localhost:9995/v1"
 
 # Trading thresholds
 BULLISH_THRESHOLD = 0.013        # 15% - normal bullish signal

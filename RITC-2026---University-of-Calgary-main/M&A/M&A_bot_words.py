@@ -15,7 +15,7 @@ WORD_SENTIMENT_CSV = Path(r"C:\Users\rylan\Desktop\M&A\word_sentiment_scores.csv
 
 # RIT API Configuration
 RIT_API_KEY = "RYL2000"
-RIT_BASE_URL = "http://localhost:9999/v1"
+RIT_BASE_URL = "http://localhost:9995/v1"
 
 
 # Trading thresholds (in percentages)

@@ -1,0 +1,4 @@
+guideline,threshold,consequence
+Monitor portfolio delta continuously,Keep |delta| below delta_limit,Penalty: (|delta| - limit) * penalty_pct per second
+Position limits,"Max 100 contracts/trade, 2500 gross, 1000 net",Rejected trades if limits exceeded
+RTM position sizing,"Within 50,000 share limit",Needed for effective delta hedging

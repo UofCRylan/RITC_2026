@@ -1,0 +1,4 @@
+metric,value,description
+Mean Absolute Gap,0.11369773260647335,Average absolute difference between implied and realized vol
+Max Absolute Gap,0.3917735026169954,Maximum observed mispricing
+IV > Realized %,0.4645669291338583,Percentage of time IV exceeds realized vol

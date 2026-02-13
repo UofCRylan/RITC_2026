@@ -1,0 +1,6 @@
+file,initial_vol,delta_limit,penalty_pct,risk_free_rate
+order_book_data_20260202_005159.csv,0.39,14000,0.05,0.0
+order_book_data_20260202_005808.csv,0.38,10000,0.03,0.0
+order_book_data_20260202_010421.csv,0.18,11000,0.02,0.0
+order_book_data_20260202_011039.csv,0.22,12000,0.04,0.0
+order_book_data_20260202_012308.csv,0.25,6000,0.03,0.0

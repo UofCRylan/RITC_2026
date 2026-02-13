@@ -1,0 +1,6 @@
+file,start_price,end_price,min_price,max_price,num_ticks
+order_book_data_20260202_005159.csv,50.56,52.36,46.32,52.53,278
+order_book_data_20260202_005808.csv,50.0,46.6,46.41,50.58,283
+order_book_data_20260202_010421.csv,50.0,51.93,49.66,52.71,283
+order_book_data_20260202_011039.csv,49.99,52.81,47.53,52.81,282
+order_book_data_20260202_012308.csv,50.0,51.86,48.68,53.22,281

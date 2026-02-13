@@ -1,0 +1,5 @@
+strategy,timing,action,execution,priority
+Vega Trading,Week transitions,Compare announced realized vol to MM implied vol,"Sell options if IV > realized, Buy if IV < realized",1
+Delta Hedging,After each option trade,Trade RTM to neutralize delta,Rebalance every 3-5 ticks,2
+Gamma Scalping,When long gamma,"Sell RTM after up-moves, buy after down-moves",Profitable if realized vol > IV paid,3
+Pre-positioning,Mid-week forecast release,Build position before week transition,Use news forecasts to anticipate next week vol,4
