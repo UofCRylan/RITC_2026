@@ -1,8 +1,8 @@
 using HTTP, JSON, Statistics, Dates
 
 # =========================== CONFIGURATION ====================================
-const API_KEY = "RYL8"  # <--- ENTER YOUR KEY HERE
-const RIT_HOST = "http://localhost:9994"
+const API_KEY = "ZXH9VEYS"  # <--- ENTER YOUR KEY HERE
+const RIT_HOST = "http://localhost:9999"
 const TICKERS = ["SPNG", "SMMR", "ATMN", "WNTR"]
 
 # --- Strategy Parameters ---

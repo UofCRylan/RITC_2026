@@ -479,7 +479,7 @@ def run_standalone():
 
     # Reuse RITClient from a.py
     sys.path.insert(0, os.path.dirname(__file__))
-    from a import RITClient
+    from mm import RITClient
 
     api = RITClient()
     tickers = ["SPNG", "SMMR", "ATMN", "WNTR"]

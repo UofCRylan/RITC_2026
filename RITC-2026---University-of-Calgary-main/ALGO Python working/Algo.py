@@ -6,9 +6,9 @@ from time import sleep
 
 # --- CONFIGURATION ---
 API_HOST = 'http://localhost'
-API_PORT = '9988'  
+API_PORT = '9999'  
 BASE_URL = f"{API_HOST}:{API_PORT}/v1"
-API_KEY = {'X-API-Key': 'RYL11'} 
+API_KEY = {'X-API-Key': 'ZXH9VEYS'} 
 
 # The 4 Companies for the new case
 STOCKS = ['SPNG', 'SMMR', 'ATMN', 'WNTR']
