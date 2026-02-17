@@ -14,7 +14,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from tracker import PerformanceTracker
 
 API_URL = "http://localhost:9999/v1"
-API_KEY = "ZXH9VEYS"
+API_KEY = "62BARBC1"
 
 
 class RITClient:

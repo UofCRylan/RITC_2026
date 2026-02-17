@@ -90,7 +90,7 @@ def get_enemy_positions(row, old_book, current_book):
         current_bid = row['bid_price']
         if len(old_bids) > 0:
             old_bid = old_bids[0]
-            old_bids = pd.DataFrame(olds_bids)
+            old_bids = pd.DataFrame(old_bids)
             volume_change = pd.DataFrame()
 
             if old_bid['price'] >= current_bid:
@@ -113,7 +113,7 @@ def get_enemy_positions(row, old_book, current_book):
         current_ask = row['ask_price']
         if len(old_bids) > 0:
             old_bid = old_bids[0]
-            old_bids = pd.DataFrame(olds_bids)
+            old_bids = pd.DataFrame(old_bids)
             volume_change = pd.DataFrame()
 
             if old_bid['price'] <= current_ask:
@@ -160,7 +160,7 @@ def realtime_analysis():
     global shutdown
     signal.signal(signal.SIGINT, signal_handler)
 
-    API_KEY = {'X-API-Key': '2'}
+    API_KEY = {'X-API-Key': '62BARBC1'}
     session = requests.Session()
     session.headers.update(API_KEY)
 
